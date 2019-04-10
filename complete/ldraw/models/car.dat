@@ -1,0 +1,12 @@
+0 ~Moved to car.ldr
+0 Name: car.dat
+0 Author: [PTadmin]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 // This file is just a redirection file.
+0 // It expresses that the previous official file car.dat nowadays has been moved to car.ldr
+0 // Please only refer to that file, not this one. This one is obsolete.
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 car.ldr
