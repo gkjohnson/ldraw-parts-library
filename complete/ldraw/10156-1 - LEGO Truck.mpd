@@ -1,0 +1,171 @@
+0 FILE 10156 - main.ldr
+0 main
+0 Name: 10156 - main.ldr
+0 Author: Robert Paciorek [bercik]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+1 1 -100 0 10 1 0 0 0 1 0 0 0 1 10156 - MINIFIG.LDR
+1 14 127.943619 -24 53 0.86603 0 -0.499992 0 1 0 0.499992 0 0.86603 10156 - TRUCK.LDR
+
+
+
+
+0 FILE 10156 - truck.ldr
+0 truck
+0 Name: 10156 - truck.ldr
+0 Author: Robert Paciorek [bercik]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+1 0 0 -24 10 1 0 0 0 1 0 0 0 1 2465.DAT
+1 0 0 -24 -10 1 0 0 0 1 0 0 0 1 2465.DAT
+1 0 170 -24 0 0 0 1 0 1 0 -1 0 0 3004.DAT
+0 STEP
+1 7 160 -32 0 0 0 1 0 1 0 -1 0 0 3068B.DAT
+1 16 -150 -32 0 0 0 1 0 1 0 -1 0 0 2436A.DAT
+0 STEP
+1 0 100 -8 0 0 0 1 0 1 0 -1 0 0 6157.DAT
+1 0 160 -8 0 0 0 1 0 1 0 -1 0 0 6157.DAT
+1 0 -120 -8 0 0 0 1 0 1 0 -1 0 0 6157.DAT
+1 7 -172 -22 0 0 1 0 0 0 -1 -1 0 0 2431.DAT
+0 STEP
+1 16 10 0 0 0 0 1 0 1 0 -1 0 0 3710.DAT
+1 16 -60 0 0 0 0 1 0 1 0 -1 0 0 3020.DAT
+1 16 50 0 0 1 0 0 0 1 0 0 0 1 3021.DAT
+0 STEP
+1 16 -70 -24 -30 1 0 0 0 1 0 0 0 1 4070.DAT
+1 16 -50 -24 -30 1 0 0 0 1 0 0 0 1 4070.DAT
+1 7 10 -8 -30 0 0 1 0 1 0 -1 0 0 6141.DAT
+1 16 -50 -24 30 -1 0 0 0 1 0 0 0 -1 4070.DAT
+1 16 -70 -24 30 -1 0 0 0 1 0 0 0 -1 4070.DAT
+1 7 10 -8 30 0 0 -1 0 1 0 1 0 0 6141.DAT
+1 16 -120 -32 0 1 0 0 0 1 0 0 0 1 3022.DAT
+0 STEP
+1 16 10 -16 -30 1 0 0 0 1 0 0 0 1 4081B.DAT
+1 7 -60 -14 -44 1 0 0 0 0 -1 0 1 0 3023.DAT
+1 7 -60 -14 44 -1 0 0 0 0 -1 0 -1 0 3023.DAT
+1 16 10 -16 30 -1 0 0 0 1 0 0 0 -1 4081B.DAT
+1 7 70 -32 0 0 0 1 0 1 0 -1 0 0 3023.DAT
+0 STEP
+1 383 -60 -14 -52 1 0 0 0 0 -1 0 1 0 2412B.DAT
+1 383 54 -14 -50 0 -1 0 1 0 0 0 0 1 71075A.DAT
+1 383 -60 -14 52 -1 0 0 0 0 -1 0 -1 0 2412B.DAT
+1 383 54 -14 50 0 -1 0 1 0 0 0 0 1 71075A.DAT
+1 7 10 -24 30 0 0 -1 0 1 0 1 0 0 6141.DAT
+1 7 10 -24 -30 0 0 1 0 1 0 -1 0 0 6141.DAT
+1 16 -60 -32 0 1 0 0 0 1 0 0 0 1 3031.DAT
+1 383 70 -40 0 0 0 1 0 1 0 -1 0 0 2412B.DAT
+0 STEP
+1 16 -18 -14 -50 0 1 0 1 0 0 0 0 -1 3062B.DAT
+1 16 62 -14 -50 0 -1 0 1 0 0 0 0 1 6141.DAT
+1 16 -18 -14 50 0 1 0 1 0 0 0 0 -1 3062B.DAT
+1 16 62 -14 50 0 -1 0 1 0 0 0 0 1 6141.DAT
+1 16 -120 -48 0 0 0 1 0 1 0 -1 0 0 3788.DAT
+1 7 -80 -40 0 1 0 0 0 1 0 0 0 1 3022.DAT
+1 0 -50 -40 0 0 0 1 0 1 0 -1 0 0 2412B.DAT
+0 STEP
+1 16 20 -32 0 0 0 1 0 1 0 -1 0 0 3032.DAT
+1 16 -30 -56 30 -1 0 0 0 1 0 0 0 -1 4070.DAT
+1 16 -30 -56 -30 1 0 0 0 1 0 0 0 1 4070.DAT
+1 16 -150 -40 0 0 0 1 0 1 0 -1 0 0 3710.DAT
+0 STEP
+1 16 20 -56 50 -1 0 0 0 1 0 0 0 -1 3010.DAT
+1 16 20 -56 -50 -1 0 0 0 1 0 0 0 -1 3010.DAT
+1 0 -20 -56 0 0 0 1 0 1 0 -1 0 0 3003.DAT
+1 4 -120 -48 0 1 0 0 0 1 0 0 0 1 3020.DAT
+1 38 -150 -48 30 0 0 1 0 1 0 -1 0 0 6141.DAT
+1 38 -150 -48 -30 0 0 1 0 1 0 -1 0 0 6141.DAT
+0 STEP
+1 16 -140 -56 30 -1 0 0 0 1 0 0 0 -1 3069B.DAT
+1 16 -140 -56 -30 -1 0 0 0 1 0 0 0 -1 3069B.DAT
+1 15 -90 -56 0 0 0 1 0 1 0 -1 0 0 3829C01.DAT
+1 16 -110 -56 0 0 0 1 0 1 0 -1 0 0 3710.DAT
+1 16 20 -80 50 -1 0 0 0 1 0 0 0 -1 3010.DAT
+1 16 20 -80 -50 -1 0 0 0 1 0 0 0 -1 3010.DAT
+1 16 -30 -80 0 0 0 1 0 1 0 -1 0 0 3010.DAT
+0 STEP
+1 16 -150 -56 0 0 0 1 0 1 0 -1 0 0 2436A.DAT
+1 16 20 -104 50 -1 0 0 0 1 0 0 0 -1 3010.DAT
+1 16 20 -104 -50 -1 0 0 0 1 0 0 0 -1 3010.DAT
+1 0 -110 -80 0 0 0 1 0 1 0 -1 0 0 3004.DAT
+1 16 -90 -80 -30 0 0 1 0 1 0 -1 0 0 3189.DAT
+1 16 -90 -80 30 0 0 1 0 1 0 -1 0 0 3188.DAT
+1 16 50 -104 0 0 0 1 0 1 0 -1 0 0 4215B.DAT
+1 7 -172 -46 0 0 1 0 0 0 -1 -1 0 0 3023.DAT
+0 STEP
+1 46 -172 -46 -30 0 1 0 0 0 -1 -1 0 0 3024.DAT
+1 46 -172 -46 30 0 1 0 0 0 -1 -1 0 0 3024.DAT
+1 383 -180 -46 0 0 1 0 0 0 -1 -1 0 0 2412B.DAT
+1 16 -110 -80 0 0 0 1 0 1 0 -1 0 0 4858.DAT
+1 16 40 -128 0 0 0 1 0 1 0 -1 0 0 2456.DAT
+0 STEP
+1 16 10 -128 -50 0 0 1 0 1 0 -1 0 0 3040B.DAT
+1 16 10 -128 50 0 0 1 0 1 0 -1 0 0 3040B.DAT
+1 43 -90 -112 0 0 0 1 0 1 0 -1 0 0 2437.DAT
+1 16 50 -136 -50 0 0 -1 0 1 0 1 0 0 4085C.DAT
+1 383 70 -48 -50 0 0 -1 0 1 0 1 0 0 71184.DAT
+1 16 50 -136 50 0 0 -1 0 1 0 1 0 0 4085C.DAT
+1 383 70 -48 50 0 0 -1 0 1 0 1 0 0 71184.DAT
+0 STEP
+1 16 40 -152 0 0 0 1 0 1 0 -1 0 0 3001.DAT
+1 16 20 -136 -50 -1 0 0 0 1 0 0 0 -1 2412B.DAT
+1 16 20 -136 50 -1 0 0 0 1 0 0 0 -1 2412B.DAT
+1 16 50 -160 0 0 0 1 0 1 0 -1 0 0 3023.DAT
+0 STEP
+1 16 50 -160 -30 1 0 0 0 1 0 0 0 1 4085C.DAT
+1 16 50 -160 30 -1 0 0 0 1 0 0 0 -1 4085C.DAT
+1 16 30 -160 0 0 0 1 0 1 0 -1 0 0 4315.DAT
+1 16 16 -155 0 0 0 1 0 1 0 -1 0 0 4474.DAT
+0 STEP
+1 383 50 -168 50 0 0 1 0 1 0 -1 0 0 71182.DAT
+1 383 50 -168 -50 0 0 1 0 1 0 -1 0 0 71182.DAT
+1 15 -120 -3 42 -1 0 0 0 1 0 0 0 -1 6014.DAT
+1 0 -120 -3 48 -1 0 0 0 1 0 0 0 -1 6015.DAT
+1 15 -120 -3 -42 1 0 0 0 1 0 0 0 1 6014.DAT
+1 0 -120 -3 -48 1 0 0 0 1 0 0 0 1 6015.DAT
+1 15 160 -3 42 -1 0 0 0 1 0 0 0 -1 6014.DAT
+1 0 160 -3 48 -1 0 0 0 1 0 0 0 -1 6015.DAT
+1 15 160 -3 -42 1 0 0 0 1 0 0 0 1 6014.DAT
+1 0 160 -3 -48 1 0 0 0 1 0 0 0 1 6015.DAT
+1 15 100 -3 42 -1 0 0 0 1 0 0 0 -1 6014.DAT
+1 0 100 -3 48 -1 0 0 0 1 0 0 0 -1 6015.DAT
+1 15 100 -3 -42 1 0 0 0 1 0 0 0 1 6014.DAT
+1 0 100 -3 -48 1 0 0 0 1 0 0 0 1 6015.DAT
+1 383 -30 -46 51 1 0 0 0 1 0 0 0 1 71137.DAT
+1 383 -30 -46 -49 -1 0 0 0 1 0 0 0 -1 71137.DAT
+0 STEP
+1 4 -60 -137.331909 0 0 0.469464 0.882951 0 0.882951 -0.469464 -1 0 0 003432F.DAT
+
+
+
+
+0 FILE 10156 - minifig.ldr
+0 minifig
+0 Name: 10156 - minifig.ldr
+0 Author: Robert Paciorek [bercik]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HELP Copyright (c) 2002-2017, Robert Paciorek (http://www.opcode.eu.org/)
+0 !HELP Released under a dual license, you can choise "CCAL version 2.0" or "BSD/MIT-type licence":
+0 !HELP Redistribution and use in source or any others forms, with or without modification, ARE PERMITTED provided save information about author(s).
+0 !HELP This material is distributed WITHOUT any warranty, use at YOUR own risk.
+1 16 0 -96 0 1 0 0 0 1 0 0 0 1 4485.DAT
+1 14 0 -96 0 1 0 0 0 1 0 0 0 1 3626BP04.DAT
+1 16 0 -72 0 1 0 0 0 1 0 0 0 1 973P1U.DAT
+1 16 0 -40 0 1 0 0 0 1 0 0 0 1 3815.DAT
+1 16 15.5 -64 0 1 0.17 0 -0.17 1 0 0 0 1 3819.DAT
+1 16 -15.5 -64 0 1 -0.17 0 0.17 1 0 0 0 1 3818.DAT
+1 14 23.658001 -46.148998 -10 1 0.12 -0.12 -0.17 0.697 -0.697 0 0.707 0.707 3820.DAT
+1 14 -23.658001 -46.148998 -10 1 -0.12 0.12 0.17 0.697 -0.697 0 0.707 0.707 3820.DAT
+1 16 0 -28 0 1 0 0 0 1 0 0 0 1 3817.DAT
+1 16 0 -28 0 1 0 0 0 1 0 0 0 1 3816.DAT
+
+
+
