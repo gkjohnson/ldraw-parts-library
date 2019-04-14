@@ -1,0 +1,3240 @@
+0 FILE 10143 - main.ldr
+0 main
+0 Name: 10143 - main.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Core.ldr
+
+
+0 FILE 10143 - Core.ldr
+0 Core
+0 Name: 10143 - Core.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 72 0 0 0 1 0 0 0 1 0 0 0 1 3958.dat
+1 72 -160 0 0 1 0 0 0 1 0 0 0 1 3030.dat
+1 72 160 0 0 1 0 0 0 1 0 0 0 1 3030.dat
+1 72 0 0 160 0 0 1 0 1 0 -1 0 0 3030.dat
+1 72 0 0 -160 0 0 1 0 1 0 -1 0 0 3030.dat
+1 0 0 -24 -210 1 0 0 0 1 0 0 0 1 3037.dat
+1 72 -20 -24 -250 1 0 0 0 1 0 0 0 1 3937.dat
+1 72 20 -24 -250 1 0 0 0 1 0 0 0 1 3937.dat
+1 72 0 -14 -250 1 0 0 0 0.5 -0.866025 0 0.866025 0.5 10143 - Core_Plaque.ldr
+1 0 -210 -24 0 0 0 1 0 1 0 -1 0 0 3297.dat
+1 0 0 -24 210 -1 0 0 0 1 0 0 0 -1 3297.dat
+1 0 210 -24 0 0 0 -1 0 1 0 1 0 0 3297.dat
+1 0 170 -48 0 0 0 -1 0 1 0 1 0 0 3297.dat
+1 0 -170 -48 0 0 0 1 0 1 0 -1 0 0 3297.dat
+1 0 0 -48 170 -1 0 0 0 1 0 0 0 -1 3297.dat
+1 0 0 -48 -170 1 0 0 0 1 0 0 0 1 3297.dat
+1 0 0 -72 -130 1 0 0 0 1 0 0 0 1 3297.dat
+1 0 -130 -72 0 0 0 1 0 1 0 -1 0 0 3297.dat
+1 0 130 -72 0 0 0 -1 0 1 0 1 0 0 3297.dat
+1 0 0 -72 130 -1 0 0 0 1 0 0 0 -1 3297.dat
+1 0 0 -88 90 -1 0 0 0 1 0 0 0 -1 41855.dat
+1 0 -90 -88 0 0 0 1 0 1 0 -1 0 0 41855.dat
+1 0 0 -88 -90 1 0 0 0 1 0 0 0 1 41855.dat
+1 72 10 -96 70 1 0 0 0 1 0 0 0 1 2420.dat
+1 72 70 -96 10 1 0 0 0 1 0 0 0 1 2420.dat
+1 72 -10 -96 70 0 0 -1 0 1 0 1 0 0 2420.dat
+1 72 -70 -96 10 0 0 -1 0 1 0 1 0 0 2420.dat
+1 72 -70 -96 -10 -1 0 0 0 1 0 0 0 -1 2420.dat
+1 72 -10 -96 -70 -1 0 0 0 1 0 0 0 -1 2420.dat
+1 72 10 -96 -70 0 0 1 0 1 0 -1 0 0 2420.dat
+1 72 70 -96 -10 0 0 1 0 1 0 -1 0 0 2420.dat
+1 0 0 -96 0 0 0 1 0 1 0 -1 0 0 3032.dat
+1 0 90 -88 0 0 0 -1 0 1 0 1 0 0 41855.dat
+1 0 0 -338 -40 1 0 0 0 1 0 0 0 1 10143 - Core_Sub3.ldr
+1 0 50 -318 -40 0 1 0 0 0 1 1 0 0 32316.dat
+1 0 50 -638 -40 0 1 0 0 0 1 1 0 0 32316.dat
+1 0 50 -638 40 0 1 0 0 0 1 1 0 0 32316.dat
+1 0 -50 -638 40 0 1 0 0 0 1 1 0 0 32316.dat
+1 0 -50 -638 -40 0 1 0 0 0 1 1 0 0 32316.dat
+1 0 -50 -318 40 0 1 0 0 0 1 1 0 0 32316.dat
+1 0 -50 -318 -40 0 1 0 0 0 1 1 0 0 32316.dat
+1 0 50 -318 40 0 1 0 0 0 1 1 0 0 32316.dat
+1 0 0 -638 -40 1 0 0 0 1 0 0 0 1 10143 - Core_Sub4.ldr
+1 0 0 -958 -40 1 0 0 0 1 0 0 0 1 10143 - Core_Sub5.ldr
+1 0 0 -958 40 1 0 0 0 1 0 0 0 1 10143 - Core_Sub5.ldr
+1 0 0 -1318 0 1 0 0 0 1 0 0 0 1 10143 - Core_Top.ldr
+1 0 0 -806 0 1 0 0 0 1 0 0 0 1 10143 - Core_Cross.ldr
+1 0 280 -865 0 1 0 0 0 1 0 0 0 1 10143 - Construction.ldr
+1 0 100 -1329 0 1 0 0 0 1 0 0 0 1 10143 - Construction_Top.ldr
+1 0 280 -732 0 1 0 0 0 -1 0 0 0 -1 10143 - Construction.ldr
+1 0 0 -796 -553 1 0 0 0 0 -1 0 1 0 10143 - Shell_000.0.ldr
+1 0 0 -638 40 1 0 0 0 1 0 0 0 1 10143 - Core_Sub4.ldr
+1 0 0 -338 40 1 0 0 0 1 0 0 0 1 10143 - Core_Sub3.ldr
+1 0 0 -72 -100 1 0 0 0 1 0 0 0 1 3001.dat
+1 0 0 -72 100 1 0 0 0 1 0 0 0 1 3001.dat
+1 0 -160 -24 30 1 0 0 0 1 0 0 0 1 3010.dat
+1 0 -160 -24 -30 1 0 0 0 1 0 0 0 1 3010.dat
+1 0 160 -24 30 1 0 0 0 1 0 0 0 1 3010.dat
+1 0 160 -24 -30 1 0 0 0 1 0 0 0 1 3010.dat
+1 0 0 -24 30 1 0 0 0 1 0 0 0 1 6112.dat
+1 0 0 -24 -30 1 0 0 0 1 0 0 0 1 6112.dat
+1 0 -30 -24 120 0 0 1 0 1 0 -1 0 0 3008.dat
+1 0 30 -24 120 0 0 1 0 1 0 -1 0 0 3008.dat
+1 0 -30 -24 -120 0 0 1 0 1 0 -1 0 0 3008.dat
+1 0 30 -24 -120 0 0 1 0 1 0 -1 0 0 3008.dat
+1 0 30 -48 0 1 0 0 0 1 0 0 0 1 10143 - Core_Sub1.ldr
+1 0 -30 -48 0 -1 0 0 0 1 0 0 0 -1 10143 - Core_Sub1.ldr
+1 0 0 -278 0 1 0 0 0 1 0 0 0 1 10143 - Core_Sub2.ldr
+
+
+
+0 FILE 10143 - Core_Sub1.ldr
+0 Core_Sub1
+0 Name: 10143 - Core_Sub1.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 0 0 1 0 1 0 -1 0 0 3703.dat
+1 0 40 0 0 0 0 1 0 1 0 -1 0 0 3701.dat
+1 71 50 -8 0 0 0 1 0 1 0 -1 0 0 3020.dat
+1 71 50 -16 0 0 0 1 0 1 0 -1 0 0 3020.dat
+1 71 60 -24 0 0 0 1 0 1 0 -1 0 0 3710.dat
+1 0 40 -40 0 0 0 1 0 1 0 -1 0 0 3701.dat
+1 0 80 -24 0 0 0 1 0 1 0 -1 0 0 3010.dat
+1 0 90 0 30 1 0 0 0 1 0 0 0 1 3010.dat
+1 0 90 0 -30 1 0 0 0 1 0 0 0 1 3010.dat
+1 0 20 10 -20 1 0 0 0 1 0 0 0 1 6558.dat
+1 0 20 -30 -20 1 0 0 0 1 0 0 0 1 6558.dat
+1 0 20 -130 20 0 -1 0 0 0 -1 1 0 0 32278.dat
+1 0 10 -270 20 1 0 0 0 0 -1 0 1 0 2780.dat
+1 0 10 -270 -20 1 0 0 0 0 -1 0 1 0 2780.dat
+1 0 0 -270 0 0 1 0 -1 0 0 0 0 1 32316.dat
+1 0 20 -130 -20 0 -1 0 0 0 -1 1 0 0 32278.dat
+1 0 20 -30 20 1 0 0 0 1 0 0 0 1 6558.dat
+1 0 20 10 20 1 0 0 0 1 0 0 0 1 6558.dat
+1 71 0 -8 0 0 0 1 0 1 0 -1 0 0 3460.dat
+1 71 0 -16 0 0 0 1 0 1 0 -1 0 0 3460.dat
+1 0 0 -40 0 0 0 1 0 1 0 -1 0 0 3702.dat
+
+
+
+0 FILE 10143 - Core_Sub2.ldr
+0 Core_Sub2
+0 Name: 10143 - Core_Sub2.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 20 1 0 0 0 1 0 0 0 1 3707.dat
+1 0 0 0 -20 1 0 0 0 1 0 0 0 1 3707.dat
+1 4 0 0 0 1 0 0 0 0 1 0 -1 0 32184.dat
+1 70 0 30 0 1 0 0 0 -1 0 0 0 -1 4790.dat
+1 4 -15 0 -20 0 1 0 -1 0 0 0 0 1 6632.dat
+1 4 -65 0 -20 0 1 0 -1 0 0 0 0 1 6632.dat
+1 4 15 0 -20 0 1 0 -1 0 0 0 0 1 6632.dat
+1 4 65 0 -20 0 1 0 -1 0 0 0 0 1 6632.dat
+1 0 30 0 0 0 1 0 -1 0 0 0 0 1 32316.dat
+1 0 -30 0 0 0 1 0 -1 0 0 0 0 1 32316.dat
+
+
+
+0 FILE 10143 - Core_Plaque.ldr
+0 Core_Plaque
+0 Name: 10143 - Core_Plaque.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 20 -10 0 1 0 0 0 1 0 0 0 1 6134.dat
+1 0 -20 -10 0 1 0 0 0 1 0 0 0 1 6134.dat
+1 0 0 -18 30 1 0 0 0 1 0 0 0 1 3029.dat
+1 0 -110 -26 70 0 0 1 0 1 0 -1 0 0 4162.dat
+1 0 -90 -26 70 0 0 1 0 1 0 -1 0 0 4162.dat
+1 0 -70 -26 70 0 0 1 0 1 0 -1 0 0 4162.dat
+1 0 -50 -26 70 0 0 1 0 1 0 -1 0 0 4162.dat
+1 0 -30 -26 70 0 0 1 0 1 0 -1 0 0 4162.dat
+1 0 -10 -26 70 0 0 1 0 1 0 -1 0 0 4162.dat
+1 0 10 -26 70 0 0 1 0 1 0 -1 0 0 4162.dat
+1 0 30 -26 70 0 0 1 0 1 0 -1 0 0 4162.dat
+1 0 50 -26 70 0 0 1 0 1 0 -1 0 0 4162.dat
+1 0 70 -26 70 0 0 1 0 1 0 -1 0 0 4162.dat
+1 0 90 -26 70 0 0 1 0 1 0 -1 0 0 4162.dat
+1 0 110 -26 70 0 0 1 0 1 0 -1 0 0 4162.dat
+1 0 0 -18 110 1 0 0 0 1 0 0 0 1 3029.dat
+1 72 0 -10 70 1 0 0 0 1 0 0 0 1 3795.dat
+
+
+
+0 FILE 10143 - Core_Sub3.ldr
+0 Core_Sub3
+0 Name: 10143 - Core_Sub3.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 71 -10 0 0 0 1 0 0 0 -1 -1 0 0 32524.dat
+1 0 -30 -140 0 0 1 0 0 0 -1 -1 0 0 32278.dat
+1 0 30 -140 0 0 1 0 0 0 -1 -1 0 0 32278.dat
+1 71 10 0 0 0 1 0 0 0 -1 -1 0 0 32524.dat
+1 0 30 -20 0 1 0 0 0 0 -1 0 1 0 6558.dat
+1 0 30 -60 0 1 0 0 0 0 -1 0 1 0 6558.dat
+1 0 -30 20 0 1 0 0 0 0 -1 0 1 0 6558.dat
+1 0 -30 60 0 1 0 0 0 0 -1 0 1 0 6558.dat
+1 0 -20 -60 0 -1 0 0 0 0 -1 0 -1 0 2780.dat
+1 0 -30 -20 0 -1 0 0 0 0 -1 0 -1 0 6558.dat
+1 0 30 20 0 -1 0 0 0 0 -1 0 -1 0 6558.dat
+1 0 30 60 0 -1 0 0 0 0 -1 0 -1 0 6558.dat
+1 0 0 0 0 1 0 0 0 0 -1 0 1 0 2780.dat
+
+
+
+0 FILE 10143 - Core_Sub4.ldr
+0 Core_Sub4
+0 Name: 10143 - Core_Sub4.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 71 -10 0 0 0 -1 0 0 0 -1 1 0 0 32524.dat
+1 0 -30 -160 0 0 -1 0 0 0 -1 1 0 0 32278.dat
+1 0 30 -160 0 0 -1 0 0 0 -1 1 0 0 32278.dat
+1 0 0 0 0 -1 0 0 0 0 -1 0 -1 0 2780.dat
+1 0 0 -60 0 -1 0 0 0 0 -1 0 -1 0 2780.dat
+1 0 -30 -40 0 -1 0 0 0 0 -1 0 -1 0 6558.dat
+1 0 -30 -20 0 -1 0 0 0 0 -1 0 -1 0 6558.dat
+1 0 30 20 0 -1 0 0 0 0 -1 0 -1 0 6558.dat
+1 0 30 40 0 -1 0 0 0 0 -1 0 -1 0 6558.dat
+1 0 30 -20 0 1 0 0 0 0 -1 0 1 0 6558.dat
+1 0 30 -40 0 1 0 0 0 0 -1 0 1 0 6558.dat
+1 0 40 -80 0 1 0 0 0 0 -1 0 1 0 2780.dat
+1 0 40 -240 0 1 0 0 0 0 -1 0 1 0 2780.dat
+1 0 -30 20 0 1 0 0 0 0 -1 0 1 0 6558.dat
+1 0 -30 40 0 1 0 0 0 0 -1 0 1 0 6558.dat
+1 0 0 60 0 -1 0 0 0 0 -1 0 -1 0 2780.dat
+1 71 10 0 0 0 -1 0 0 0 -1 1 0 0 32524.dat
+
+
+
+0 FILE 10143 - Core_Cross.ldr
+0 Core_Cross
+0 Name: 10143 - Core_Cross.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 4 50 0 50 0 0 -1 0 1 0 1 0 0 32555.dat
+1 4 -50 0 50 -1 0 0 0 1 0 0 0 -1 32555.dat
+1 4 -50 0 -50 0 0 1 0 1 0 -1 0 0 32555.dat
+1 71 0 24 -140 0 0 1 0 1 0 -1 0 0 2445.dat
+1 71 0 24 -420 0 0 1 0 1 0 -1 0 0 2445.dat
+1 71 0 -8 -420 0 0 1 0 1 0 -1 0 0 2445.dat
+1 71 0 -8 -140 0 0 1 0 1 0 -1 0 0 2445.dat
+1 71 0 -8 140 0 0 1 0 1 0 -1 0 0 2445.dat
+1 71 0 -8 420 0 0 1 0 1 0 -1 0 0 2445.dat
+1 71 -420 -8 0 1 0 0 0 1 0 0 0 1 2445.dat
+1 71 -140 -8 0 1 0 0 0 1 0 0 0 1 2445.dat
+1 71 140 -8 0 1 0 0 0 1 0 0 0 1 2445.dat
+1 71 0 -16 0 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -280 -16 0 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 280 -16 0 1 0 0 0 1 0 0 0 1 3034.dat
+1 72 -420 -16 0 1 0 0 0 1 0 0 0 1 3795.dat
+1 72 420 -16 0 1 0 0 0 1 0 0 0 1 3795.dat
+1 71 0 -16 -60 0 0 1 0 1 0 -1 0 0 3020.dat
+1 71 0 32 0 0 0 1 0 1 0 -1 0 0 3034.dat
+1 71 0 -16 60 0 0 1 0 1 0 -1 0 0 3020.dat
+1 71 10 -40 0 0 0 1 0 1 0 -1 0 0 3894.dat
+1 71 10 40 0 0 0 1 0 1 0 -1 0 0 3894.dat
+1 71 -10 40 0 0 0 1 0 1 0 -1 0 0 3894.dat
+1 71 -10 -40 0 0 0 1 0 1 0 -1 0 0 3894.dat
+1 0 0 -40 -160 0 0 1 0 1 0 -1 0 0 3006.dat
+1 0 0 -40 -360 0 0 1 0 1 0 -1 0 0 3006.dat
+1 0 0 -40 160 0 0 1 0 1 0 -1 0 0 3006.dat
+1 0 0 -40 360 0 0 1 0 1 0 -1 0 0 3006.dat
+1 0 -140 -40 10 1 0 0 0 1 0 0 0 1 6112.dat
+1 0 -140 -40 -10 1 0 0 0 1 0 0 0 1 6112.dat
+1 0 140 -40 10 1 0 0 0 1 0 0 0 1 6112.dat
+1 0 140 -40 -10 1 0 0 0 1 0 0 0 1 6112.dat
+1 0 -360 -40 0 1 0 0 0 1 0 0 0 1 3006.dat
+1 0 360 -40 0 1 0 0 0 1 0 0 0 1 3006.dat
+1 4 -400 -48 10 1 0 0 0 1 0 0 0 1 6636.dat
+1 4 -120 -48 10 1 0 0 0 1 0 0 0 1 6636.dat
+1 4 0 -48 10 1 0 0 0 1 0 0 0 1 6636.dat
+1 72 0 -48 -80 0 0 -1 0 1 0 1 0 0 3795.dat
+1 72 0 -48 80 0 0 -1 0 1 0 1 0 0 3795.dat
+1 71 0 -48 -260 0 0 -1 0 1 0 1 0 0 2445.dat
+1 71 0 -48 260 0 0 -1 0 1 0 1 0 0 2445.dat
+1 4 120 -48 10 1 0 0 0 1 0 0 0 1 6636.dat
+1 4 -120 -48 -10 1 0 0 0 1 0 0 0 1 6636.dat
+1 4 0 -48 -10 1 0 0 0 1 0 0 0 1 6636.dat
+1 4 120 -48 -10 1 0 0 0 1 0 0 0 1 6636.dat
+1 4 400 -48 10 1 0 0 0 1 0 0 0 1 6636.dat
+1 4 400 -48 -10 1 0 0 0 1 0 0 0 1 6636.dat
+1 1 260 -48 10 1 0 0 0 1 0 0 0 1 4162.dat
+1 1 260 -48 -10 1 0 0 0 1 0 0 0 1 4162.dat
+1 4 -400 -48 -10 1 0 0 0 1 0 0 0 1 6636.dat
+1 1 -260 -48 10 1 0 0 0 1 0 0 0 1 4162.dat
+1 1 -260 -48 -10 1 0 0 0 1 0 0 0 1 4162.dat
+1 71 0 -16 280 0 0 1 0 1 0 -1 0 0 3034.dat
+1 72 0 -16 420 0 0 1 0 1 0 -1 0 0 3795.dat
+1 72 0 -16 -420 0 0 1 0 1 0 -1 0 0 3795.dat
+1 71 0 -16 -280 0 0 1 0 1 0 -1 0 0 3034.dat
+1 71 420 -8 0 1 0 0 0 1 0 0 0 1 2445.dat
+1 71 0 24 420 0 0 1 0 1 0 -1 0 0 2445.dat
+1 71 -420 24 0 1 0 0 0 1 0 0 0 1 2445.dat
+1 71 420 24 0 1 0 0 0 1 0 0 0 1 2445.dat
+1 71 0 24 140 0 0 1 0 1 0 -1 0 0 2445.dat
+1 71 -140 24 0 1 0 0 0 1 0 0 0 1 2445.dat
+1 71 140 24 0 1 0 0 0 1 0 0 0 1 2445.dat
+1 4 50 0 -50 1 0 0 0 1 0 0 0 1 32555.dat
+1 72 140 0 0 1 0 0 0 1 0 0 0 1 3001.dat
+1 72 420 0 0 1 0 0 0 1 0 0 0 1 3001.dat
+1 72 -420 0 0 1 0 0 0 1 0 0 0 1 3001.dat
+1 0 280 0 0 1 0 0 0 1 0 0 0 1 3006.dat
+1 0 0 0 470 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 0 490 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 0 510 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 0 530 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 0 -470 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 0 -490 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 0 -510 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 0 -530 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 -280 0 0 1 0 0 0 1 0 0 0 1 3006.dat
+1 0 0 0 -280 0 0 -1 0 1 0 1 0 0 3006.dat
+1 0 -470 0 0 0 0 -1 0 1 0 1 0 0 32064a.dat
+1 0 -490 0 0 0 0 -1 0 1 0 1 0 0 32064a.dat
+1 0 -510 0 0 0 0 -1 0 1 0 1 0 0 32064a.dat
+1 0 -530 0 0 0 0 -1 0 1 0 1 0 0 32064a.dat
+1 0 470 0 0 0 0 -1 0 1 0 1 0 0 32064a.dat
+1 0 490 0 0 0 0 -1 0 1 0 1 0 0 32064a.dat
+1 0 510 0 0 0 0 -1 0 1 0 1 0 0 32064a.dat
+1 0 530 0 0 0 0 -1 0 1 0 1 0 0 32064a.dat
+1 0 0 0 280 0 0 -1 0 1 0 1 0 0 3006.dat
+1 72 -140 0 0 1 0 0 0 1 0 0 0 1 3001.dat
+1 72 0 0 140 0 0 1 0 1 0 -1 0 0 3001.dat
+1 72 0 0 420 0 0 1 0 1 0 -1 0 0 3001.dat
+1 72 0 0 -420 0 0 1 0 1 0 -1 0 0 3001.dat
+1 72 0 0 -140 0 0 1 0 1 0 -1 0 0 3001.dat
+1 0 0 10 80 -1 0 0 0 1 0 0 0 -1 2780.dat
+1 0 0 10 60 -1 0 0 0 1 0 0 0 -1 2780.dat
+1 0 0 10 -60 -1 0 0 0 1 0 0 0 -1 2780.dat
+1 0 30 10 -40 -1 0 0 0 1 0 0 0 -1 6558.dat
+1 0 30 10 40 -1 0 0 0 1 0 0 0 -1 6558.dat
+1 0 -30 10 40 1 0 0 0 1 0 0 0 1 6558.dat
+1 0 -30 10 -40 1 0 0 0 1 0 0 0 1 6558.dat
+1 0 30 50 -40 -1 0 0 0 1 0 0 0 -1 6558.dat
+1 0 30 50 40 -1 0 0 0 1 0 0 0 -1 6558.dat
+1 0 -30 50 40 1 0 0 0 1 0 0 0 1 6558.dat
+1 0 -30 50 -40 1 0 0 0 1 0 0 0 1 6558.dat
+1 0 30 -30 -40 -1 0 0 0 1 0 0 0 -1 6558.dat
+1 0 30 -30 40 -1 0 0 0 1 0 0 0 -1 6558.dat
+1 0 -30 -30 40 1 0 0 0 1 0 0 0 1 6558.dat
+1 0 -30 -30 -40 1 0 0 0 1 0 0 0 1 6558.dat
+1 0 0 10 -80 -1 0 0 0 1 0 0 0 -1 2780.dat
+1 0 80 10 0 0 0 -1 0 1 0 1 0 0 2780.dat
+1 0 60 10 0 0 0 -1 0 1 0 1 0 0 2780.dat
+1 0 -80 10 0 0 0 -1 0 1 0 1 0 0 2780.dat
+1 0 -60 10 0 0 0 -1 0 1 0 1 0 0 2780.dat
+
+1 0 520 52 0 0 -1 0 0 0 -1 1 0 0 2434.dat
+1 4 528 52 -20 0 -1 0 0 0 -1 1 0 0 3068b.dat
+1 4 528 52 20 0 -1 0 0 0 -1 1 0 0 3068b.dat
+
+
+
+0 FILE 10143 - Core_Sub5.ldr
+0 Core_Sub5
+0 Name: 10143 - Core_Sub5.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 71 -10 0 0 0 1 0 0 0 -1 -1 0 0 32524.dat
+1 71 -10 -300 0 0 1 0 0 0 -1 -1 0 0 32524.dat
+1 0 -30 -160 0 0 1 0 0 0 -1 -1 0 0 32278.dat
+1 0 30 -160 0 0 1 0 0 0 -1 -1 0 0 32278.dat
+1 0 -30 40 0 1 0 0 0 0 -1 0 1 0 6558.dat
+1 0 0 0 0 -1 0 0 0 0 -1 0 -1 0 2780.dat
+1 0 0 -60 0 -1 0 0 0 0 -1 0 -1 0 2780.dat
+1 0 -20 -280 0 -1 0 0 0 0 -1 0 -1 0 2780.dat
+1 0 -20 -260 0 -1 0 0 0 0 -1 0 -1 0 2780.dat
+1 0 -20 -360 0 -1 0 0 0 0 -1 0 -1 0 2780.dat
+1 0 20 -260 0 -1 0 0 0 0 -1 0 -1 0 2780.dat
+1 0 40 -240 0 -1 0 0 0 0 -1 0 -1 0 2780.dat
+1 0 20 -280 0 -1 0 0 0 0 -1 0 -1 0 2780.dat
+1 0 20 -360 0 -1 0 0 0 0 -1 0 -1 0 2780.dat
+1 0 0 -240 0 -1 0 0 0 0 -1 0 -1 0 2780.dat
+1 0 0 -300 0 -1 0 0 0 0 -1 0 -1 0 2780.dat
+1 0 0 -340 0 -1 0 0 0 0 -1 0 -1 0 2780.dat
+1 0 -30 -40 0 -1 0 0 0 0 -1 0 -1 0 6558.dat
+1 0 -30 -20 0 -1 0 0 0 0 -1 0 -1 0 6558.dat
+1 0 30 20 0 -1 0 0 0 0 -1 0 -1 0 6558.dat
+1 0 30 40 0 -1 0 0 0 0 -1 0 -1 0 6558.dat
+1 0 30 -40 0 1 0 0 0 0 -1 0 1 0 6558.dat
+1 0 30 -20 0 1 0 0 0 0 -1 0 1 0 6558.dat
+1 0 -30 20 0 1 0 0 0 0 -1 0 1 0 6558.dat
+1 0 0 60 0 -1 0 0 0 0 -1 0 -1 0 2780.dat
+1 71 10 0 0 0 1 0 0 0 -1 -1 0 0 32524.dat
+1 71 10 -300 0 0 1 0 0 0 -1 -1 0 0 32524.dat
+
+
+
+0 FILE 10143 - Core_Top.ldr
+0 Core_Top
+0 Name: 10143 - Core_Top.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 4 0 0 0 1 0 0 0 0 -1 0 1 0 32184.dat
+1 70 0 -30 0 1 0 0 0 1 0 0 0 1 4790.dat
+1 4 0 -38 0 1 0 0 0 1 0 0 0 1 4032b.dat
+1 71 0 -46 0 1 0 0 0 1 0 0 0 1 50990a.dat
+1 4 -15 0 -20 0 -1 0 1 0 0 0 0 1 6632.dat
+1 0 -30 0 0 0 -1 0 1 0 0 0 0 1 32316.dat
+1 0 30 0 0 0 -1 0 1 0 0 0 0 1 32316.dat
+1 4 15 0 -20 0 -1 0 1 0 0 0 0 1 6632.dat
+1 0 0 0 20 1 0 0 0 0 -1 0 1 0 3705.dat
+1 0 0 0 -20 1 0 0 0 0 -1 0 1 0 3705.dat
+
+
+
+0 FILE 10143 - Equator-Side.ldr
+0 Equator-Side
+0 Name: 10143 - Equator-Side.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 71 -30 -10 -40 1 0 0 0 1 0 0 0 1 30365.dat
+1 71 -30 -10 40 1 0 0 0 1 0 0 0 1 30365.dat
+1 0 -110 14 40 1 0 0 0 1 0 0 0 1 4477.dat
+1 0 -110 14 -40 1 0 0 0 1 0 0 0 1 4477.dat
+1 0 -110 -10 40 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 -110 -10 -40 1 0 0 0 1 0 0 0 1 32064a.dat
+1 19 -190 -10 -40 -1 0 0 0 1 0 0 0 -1 30364.dat
+1 19 -190 -10 40 -1 0 0 0 1 0 0 0 -1 30364.dat
+1 71 -110 -18 40 -1 0 0 0 1 0 0 0 -1 3021.dat
+1 71 -110 -18 -40 -1 0 0 0 1 0 0 0 -1 3021.dat
+1 71 -140 -26 -40 -1 0 0 0 1 0 0 0 -1 3034.dat
+1 71 -80 -26 40 -1 0 0 0 1 0 0 0 -1 3034.dat
+1 71 -190 -26 40 -1 0 0 0 1 0 0 0 -1 3021.dat
+1 71 -30 -26 -40 -1 0 0 0 1 0 0 0 -1 3021.dat
+1 71 -80 -34 -30 -1 0 0 0 1 0 0 0 -1 4510.dat
+1 71 -140 -42 -40 -1 0 0 0 1 0 0 0 -1 3034.dat
+1 71 -30 -42 -40 -1 0 0 0 1 0 0 0 -1 3021.dat
+1 71 -190 -42 40 -1 0 0 0 1 0 0 0 -1 3021.dat
+1 71 -80 -42 40 -1 0 0 0 1 0 0 0 -1 3034.dat
+1 71 -170 -34 -30 -1 0 0 0 1 0 0 0 -1 4085c.dat
+1 71 -210 -34 -80 0 0 -1 0 1 0 1 0 0 3710.dat
+1 71 -210 -34 80 0 0 -1 0 1 0 1 0 0 3710.dat
+1 71 -110 -34 80 0 0 -1 0 1 0 1 0 0 3710.dat
+1 71 -10 -34 80 0 0 -1 0 1 0 1 0 0 3710.dat
+1 71 -110 -34 -80 0 0 -1 0 1 0 1 0 0 3710.dat
+1 71 -10 -34 -80 0 0 -1 0 1 0 1 0 0 3710.dat
+1 71 -160 -34 -80 -1 0 0 0 1 0 0 0 -1 44570.dat
+1 71 -60 -34 -80 -1 0 0 0 1 0 0 0 -1 44570.dat
+1 71 -160 -34 80 1 0 0 0 1 0 0 0 1 44570.dat
+1 71 -60 -34 80 1 0 0 0 1 0 0 0 1 44570.dat
+1 71 -200 -34 -30 -1 0 0 0 1 0 0 0 -1 32028.dat
+1 71 -20 -34 30 1 0 0 0 1 0 0 0 1 32028.dat
+1 71 -140 -34 30 1 0 0 0 1 0 0 0 1 4510.dat
+1 71 -50 -34 30 1 0 0 0 1 0 0 0 1 4085c.dat
+1 0 -40 -18 0 0 0 -1 0 1 0 1 0 0 3032.dat
+1 0 -180 -18 0 0 0 -1 0 1 0 1 0 0 3032.dat
+1 4 -110 0 30 0 0 1 0 1 0 -1 0 0 32062.dat
+1 1 -110 0 0 0 1 0 -1 0 0 0 0 1 32034.dat
+1 72 -110 25 0 0 1 0 1 0 0 0 0 -1 32209.dat
+1 4 -110 0 -30 0 0 1 0 1 0 -1 0 0 32062.dat
+
+
+
+0 FILE 10143 - Equator-Angled.ldr
+0 Equator-Angled
+0 Name: 10143 - Equator-Angled.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 71 -30 -10 40 1 0 0 0 1 0 0 0 1 30365.dat
+1 72 -110 -10 40 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 -110 -10 -40 1 0 0 0 1 0 0 0 1 3004.dat
+1 19 -190 -10 -40 -1 0 0 0 1 0 0 0 -1 30364.dat
+1 19 -190 -10 40 -1 0 0 0 1 0 0 0 -1 30364.dat
+1 71 -110 -18 40 -1 0 0 0 1 0 0 0 -1 3021.dat
+1 71 -80 -26 40 -1 0 0 0 1 0 0 0 -1 3034.dat
+1 71 -190 -26 40 -1 0 0 0 1 0 0 0 -1 3021.dat
+1 71 -30 -26 -40 -1 0 0 0 1 0 0 0 -1 3021.dat
+1 71 -140 -26 -40 -1 0 0 0 1 0 0 0 -1 3034.dat
+1 71 -80 -34 -30 -1 0 0 0 1 0 0 0 -1 4510.dat
+1 71 -200 -34 -30 -1 0 0 0 1 0 0 0 -1 32028.dat
+1 71 -170 -34 -30 -1 0 0 0 1 0 0 0 -1 4085c.dat
+1 71 -20 -34 30 1 0 0 0 1 0 0 0 1 32028.dat
+1 71 -50 -34 30 1 0 0 0 1 0 0 0 1 4085c.dat
+1 71 -140 -34 30 1 0 0 0 1 0 0 0 1 4510.dat
+1 71 -190 -42 40 1 0 0 0 1 0 0 0 1 3021.dat
+1 71 -80 -42 40 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -140 -42 -40 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -30 -42 -40 1 0 0 0 1 0 0 0 1 3021.dat
+1 71 -210 -34 -80 0 0 1 0 1 0 -1 0 0 3710.dat
+1 71 -10 -34 -80 0 0 1 0 1 0 -1 0 0 3710.dat
+1 71 -210 -34 80 0 0 1 0 1 0 -1 0 0 3710.dat
+1 71 -10 -34 80 0 0 1 0 1 0 -1 0 0 3710.dat
+1 71 -110 -34 80 0 0 1 0 1 0 -1 0 0 3710.dat
+1 71 -110 -34 -80 0 0 1 0 1 0 -1 0 0 3710.dat
+1 71 -160 -34 -80 -1 0 0 0 1 0 0 0 -1 44570.dat
+1 71 -60 -34 -80 -1 0 0 0 1 0 0 0 -1 44570.dat
+1 71 -160 -34 80 1 0 0 0 1 0 0 0 1 44570.dat
+1 71 -60 -34 80 1 0 0 0 1 0 0 0 1 44570.dat
+1 71 -110 -18 -40 -1 0 0 0 1 0 0 0 -1 3021.dat
+1 0 -40 -18 0 0 0 -1 0 1 0 1 0 0 3032.dat
+1 0 -180 -18 0 0 0 -1 0 1 0 1 0 0 3032.dat
+1 71 -30 -10 -40 1 0 0 0 1 0 0 0 1 30365.dat
+1 0 -110 14 40 1 0 0 0 1 0 0 0 1 4477.dat
+1 0 -110 14 -40 1 0 0 0 1 0 0 0 1 4477.dat
+
+
+
+0 FILE 10143 - Equator-Rough.ldr
+0 Equator-Rough
+0 Name: 10143 - Equator-Rough.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 71 -30 -10 -40 1 0 0 0 1 0 0 0 1 30365.dat
+1 19 -190 -10 -40 -1 0 0 0 1 0 0 0 -1 30364.dat
+1 19 -190 -10 40 -1 0 0 0 1 0 0 0 -1 30364.dat
+1 72 -110 -10 40 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -110 -10 -40 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 71 -110 -18 40 -1 0 0 0 1 0 0 0 -1 3021.dat
+1 71 -110 -18 -40 -1 0 0 0 1 0 0 0 -1 3021.dat
+1 0 -40 -18 0 0 0 -1 0 1 0 1 0 0 3032.dat
+1 0 -180 -18 0 0 0 -1 0 1 0 1 0 0 3032.dat
+1 71 -210 -26 60 0 0 -1 0 1 0 1 0 0 3710.dat
+1 71 -10 -26 60 0 0 -1 0 1 0 1 0 0 3710.dat
+1 71 -210 -26 -60 0 0 -1 0 1 0 1 0 0 3710.dat
+1 71 -10 -26 -60 0 0 -1 0 1 0 1 0 0 3710.dat
+1 71 -70 -26 -80 0 0 -1 0 1 0 1 0 0 3710.dat
+1 71 -150 -26 80 0 0 -1 0 1 0 1 0 0 3710.dat
+1 71 -170 -26 50 0 0 -1 0 1 0 1 0 0 3623.dat
+1 71 -50 -26 -50 0 0 -1 0 1 0 1 0 0 3623.dat
+1 71 -170 -26 -50 0 0 -1 0 1 0 1 0 0 3623.dat
+1 71 -50 -26 50 0 0 -1 0 1 0 1 0 0 3623.dat
+1 71 -70 -26 70 0 0 -1 0 1 0 1 0 0 3623.dat
+1 71 -150 -26 -70 0 0 -1 0 1 0 1 0 0 3623.dat
+1 72 -130 -26 30 0 0 -1 0 1 0 1 0 0 2420.dat
+1 72 -90 -26 30 1 0 0 0 1 0 0 0 1 2420.dat
+1 72 -90 -26 -30 0 0 1 0 1 0 -1 0 0 2420.dat
+1 72 -130 -26 -30 -1 0 0 0 1 0 0 0 -1 2420.dat
+1 71 -180 -34 -50 -1 0 0 0 1 0 0 0 -1 3710.dat
+1 71 -110 -34 -50 -1 0 0 0 1 0 0 0 -1 3623.dat
+1 71 -40 -34 -50 -1 0 0 0 1 0 0 0 -1 3710.dat
+1 71 -180 -34 50 -1 0 0 0 1 0 0 0 -1 3710.dat
+1 71 -110 -34 50 -1 0 0 0 1 0 0 0 -1 3623.dat
+1 71 -40 -34 50 -1 0 0 0 1 0 0 0 -1 3710.dat
+1 71 -20 -34 -30 -1 0 0 0 1 0 0 0 -1 32028.dat
+1 71 -50 -34 -30 -1 0 0 0 1 0 0 0 -1 4085c.dat
+1 71 -140 -34 -30 -1 0 0 0 1 0 0 0 -1 4510.dat
+1 71 -80 -34 30 1 0 0 0 1 0 0 0 1 4510.dat
+1 71 -170 -34 30 1 0 0 0 1 0 0 0 1 4085c.dat
+1 71 -200 -34 30 1 0 0 0 1 0 0 0 1 32028.dat
+1 71 -180 -42 40 1 0 0 0 1 0 0 0 1 3020.dat
+1 71 -40 -42 40 1 0 0 0 1 0 0 0 1 3020.dat
+1 71 -180 -42 -40 1 0 0 0 1 0 0 0 1 3020.dat
+1 71 -40 -42 -40 1 0 0 0 1 0 0 0 1 3020.dat
+1 71 -110 -42 -40 1 0 0 0 1 0 0 0 1 3021.dat
+1 71 -110 -42 40 1 0 0 0 1 0 0 0 1 3021.dat
+1 71 -30 -10 40 1 0 0 0 1 0 0 0 1 30365.dat
+1 0 -110 14 40 1 0 0 0 1 0 0 0 1 4477.dat
+1 0 -110 14 -40 1 0 0 0 1 0 0 0 1 4477.dat
+
+
+
+0 FILE 10143 - Equator-270.ldr
+0 Equator-270
+0 Name: 10143 - Equator-270.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 71 -30 -10 40 1 0 0 0 1 0 0 0 1 30365.dat
+1 71 -30 -10 -40 1 0 0 0 1 0 0 0 1 30365.dat
+1 0 -110 14 -40 1 0 0 0 1 0 0 0 1 4477.dat
+1 0 -110 14 40 1 0 0 0 1 0 0 0 1 4477.dat
+1 19 -190 -10 40 -1 0 0 0 1 0 0 0 -1 30364.dat
+1 19 -190 -10 -40 -1 0 0 0 1 0 0 0 -1 30364.dat
+1 0 -110 -10 40 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 0 -110 -10 -40 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 71 -110 -18 40 -1 0 0 0 1 0 0 0 -1 3021.dat
+1 71 -110 -18 -40 -1 0 0 0 1 0 0 0 -1 3021.dat
+1 0 -40 -18 0 0 0 -1 0 1 0 1 0 0 3032.dat
+1 0 -180 -18 0 0 0 -1 0 1 0 1 0 0 3032.dat
+1 72 -130 -26 30 0 0 -1 0 1 0 1 0 0 2420.dat
+1 71 -210 -26 60 0 0 -1 0 1 0 1 0 0 3710.dat
+1 71 -210 -26 -60 0 0 -1 0 1 0 1 0 0 3710.dat
+1 71 -10 -26 60 0 0 -1 0 1 0 1 0 0 3710.dat
+1 71 -10 -26 -60 0 0 -1 0 1 0 1 0 0 3710.dat
+1 71 -70 -26 -80 0 0 -1 0 1 0 1 0 0 3710.dat
+1 71 -150 -26 80 0 0 -1 0 1 0 1 0 0 3710.dat
+1 71 -170 -26 50 0 0 -1 0 1 0 1 0 0 3623.dat
+1 71 -50 -26 -50 0 0 -1 0 1 0 1 0 0 3623.dat
+1 71 -70 -26 70 0 0 -1 0 1 0 1 0 0 3623.dat
+1 71 -50 -26 50 0 0 -1 0 1 0 1 0 0 3623.dat
+1 71 -150 -26 -70 0 0 -1 0 1 0 1 0 0 3623.dat
+1 71 -170 -26 -50 0 0 -1 0 1 0 1 0 0 3623.dat
+1 71 -180 -34 -50 1 0 0 0 1 0 0 0 1 3710.dat
+1 71 -110 -34 -50 1 0 0 0 1 0 0 0 1 3623.dat
+1 71 -40 -34 -50 1 0 0 0 1 0 0 0 1 3710.dat
+1 71 -180 -34 50 1 0 0 0 1 0 0 0 1 3710.dat
+1 71 -40 -34 50 1 0 0 0 1 0 0 0 1 3710.dat
+1 71 -110 -34 50 1 0 0 0 1 0 0 0 1 3623.dat
+1 71 -200 -34 30 1 0 0 0 1 0 0 0 1 32028.dat
+1 71 -170 -34 30 1 0 0 0 1 0 0 0 1 4085c.dat
+1 71 -150 -34 -80 0 0 1 0 1 0 -1 0 0 44301.dat
+1 71 -150 -32 -110 1 0 0 0 0.92388 -0.382683 0 0.382683 0.92388 10143 - Equator-270_AP1.ldr
+1 71 -80 -34 30 1 0 0 0 1 0 0 0 1 4510.dat
+1 71 -140 -34 -30 -1 0 0 0 1 0 0 0 -1 4510.dat
+1 71 -50 -34 -30 -1 0 0 0 1 0 0 0 -1 4085c.dat
+1 71 -20 -34 -30 -1 0 0 0 1 0 0 0 -1 32028.dat
+1 71 -180 -42 -40 -1 0 0 0 1 0 0 0 -1 3020.dat
+1 71 -150 -42 -80 0 0 -1 0 1 0 1 0 0 3023.dat
+1 71 -110 -42 -40 -1 0 0 0 1 0 0 0 -1 3021.dat
+1 71 -40 -42 -40 -1 0 0 0 1 0 0 0 -1 3020.dat
+1 71 -180 -42 40 -1 0 0 0 1 0 0 0 -1 3020.dat
+1 71 -110 -42 40 -1 0 0 0 1 0 0 0 -1 3021.dat
+1 71 -40 -42 40 -1 0 0 0 1 0 0 0 -1 3020.dat
+1 72 -90 -26 30 1 0 0 0 1 0 0 0 1 2420.dat
+1 72 -90 -26 -30 0 0 1 0 1 0 -1 0 0 2420.dat
+1 72 -130 -26 -30 -1 0 0 0 1 0 0 0 -1 2420.dat
+1 4 -110 0 30 0 0 -1 0 1 0 1 0 0 32062.dat
+1 4 -110 0 -30 0 0 -1 0 1 0 1 0 0 32062.dat
+1 1 -110 0 0 0 -1 0 1 0 0 0 0 1 32034.dat
+1 72 -110 25 0 0 -1 0 1 0 0 0 0 1 32209.dat
+
+
+
+0 FILE 10143 - Equator-270_AP1.ldr
+0 Equator-270_AP1
+0 Name: 10143 - Equator-270_AP1.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 72 0 -2 -30 0 0 -1 0 1 0 1 0 0 44302.dat
+1 72 0 -2 -150 0 0 1 0 1 0 -1 0 0 44302.dat
+1 72 0 0 -180 1 0 0 0 0.92388 -0.382683 0 0.382683 0.92388 10143 - Equator-270_AP1_AP2.ldr
+1 71 0 -10 -90 0 0 1 0 1 0 -1 0 0 3460.dat
+
+
+
+0 FILE 10143 - Equator-270_AP1_AP2.ldr
+0 Equator-270_AP1_AP2
+0 Name: 10143 - Equator-270_AP1_AP2.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 71 0 -2 -30 0 0 -1 0 1 0 1 0 0 44301.dat
+1 71 0 -10 -40 0 0 -1 0 1 0 1 0 0 3623.dat
+
+
+
+0 FILE 10143 - Equator-225.ldr
+0 Equator-225
+0 Name: 10143 - Equator-225.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 71 -30 -10 -40 1 0 0 0 1 0 0 0 1 30365.dat
+1 0 -110 14 40 1 0 0 0 1 0 0 0 1 4477.dat
+1 0 -110 14 -40 1 0 0 0 1 0 0 0 1 4477.dat
+1 71 -30 -10 40 1 0 0 0 1 0 0 0 1 30365.dat
+1 19 -190 -10 40 -1 0 0 0 1 0 0 0 -1 30364.dat
+1 19 -190 -10 -40 -1 0 0 0 1 0 0 0 -1 30364.dat
+1 72 -110 -10 40 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -110 -10 -40 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 71 -110 -18 40 -1 0 0 0 1 0 0 0 -1 3021.dat
+1 72 -60 -26 -40 -1 0 0 0 1 0 0 0 -1 3795.dat
+1 72 -60 -26 40 -1 0 0 0 1 0 0 0 -1 3795.dat
+1 72 -130 -26 30 0 0 -1 0 1 0 1 0 0 2420.dat
+1 71 -150 -26 80 0 0 -1 0 1 0 1 0 0 3710.dat
+1 71 -150 -26 -80 0 0 -1 0 1 0 1 0 0 3710.dat
+1 71 -210 -26 -60 0 0 -1 0 1 0 1 0 0 3710.dat
+1 71 -210 -26 60 0 0 -1 0 1 0 1 0 0 3710.dat
+1 71 -170 -26 50 0 0 -1 0 1 0 1 0 0 3623.dat
+1 71 -170 -26 -50 0 0 -1 0 1 0 1 0 0 3623.dat
+1 71 -10 -34 80 0 0 -1 0 1 0 1 0 0 3710.dat
+1 71 -10 -34 -80 0 0 -1 0 1 0 1 0 0 3710.dat
+1 71 -160 -34 50 1 0 0 0 1 0 0 0 1 3666.dat
+1 71 -160 -34 -50 1 0 0 0 1 0 0 0 1 3666.dat
+1 71 -180 -42 -40 1 0 0 0 1 0 0 0 1 3020.dat
+1 71 -180 -42 40 1 0 0 0 1 0 0 0 1 3020.dat
+1 71 -110 -42 40 1 0 0 0 1 0 0 0 1 3021.dat
+1 71 -110 -42 -40 1 0 0 0 1 0 0 0 1 3021.dat
+1 71 -40 -42 -40 1 0 0 0 1 0 0 0 1 3020.dat
+1 71 -40 -42 40 1 0 0 0 1 0 0 0 1 3020.dat
+1 71 -200 -34 30 1 0 0 0 1 0 0 0 1 32028.dat
+1 71 -170 -34 30 1 0 0 0 1 0 0 0 1 4085c.dat
+1 71 -80 -34 30 1 0 0 0 1 0 0 0 1 4510.dat
+1 71 -60 -34 80 1 0 0 0 1 0 0 0 1 44570.dat
+1 71 -140 -34 -30 -1 0 0 0 1 0 0 0 -1 4510.dat
+1 71 -50 -34 -30 -1 0 0 0 1 0 0 0 -1 4085c.dat
+1 71 -20 -34 -30 -1 0 0 0 1 0 0 0 -1 32028.dat
+1 71 -60 -34 -80 -1 0 0 0 1 0 0 0 -1 44570.dat
+1 71 -60 -32 -110 1 0 0 0 1 0 0 0 1 10143 - Equator-225_BP.ldr
+1 71 -60 -32 110 1 0 0 0 1 0 0 0 1 10143 - Equator-225_TP.ldr
+1 72 -130 -26 -30 -1 0 0 0 1 0 0 0 -1 2420.dat
+1 71 -110 -18 -40 -1 0 0 0 1 0 0 0 -1 3021.dat
+1 0 -40 -18 0 0 0 -1 0 1 0 1 0 0 3032.dat
+1 0 -180 -18 0 0 0 -1 0 1 0 1 0 0 3032.dat
+
+
+
+0 FILE 10143 - Equator-225_BP.ldr
+0 Equator-225_BP
+0 Name: 10143 - Equator-225_BP.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 71 0 -2 -20 -1 0 0 0 1 0 0 0 -1 44568.dat
+1 71 -30 -10 -20 -1 0 0 0 1 0 0 0 -1 3623.dat
+1 71 30 -10 -30 -1 0 0 0 1 0 0 0 -1 3021.dat
+
+
+
+0 FILE 10143 - Equator-225_TP.ldr
+0 Equator-225_TP
+0 Name: 10143 - Equator-225_TP.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 71 0 -2 20 1 0 0 0 1 0 0 0 1 44568.dat
+1 71 -30 -10 20 1 0 0 0 1 0 0 0 1 3623.dat
+1 71 30 -10 30 1 0 0 0 1 0 0 0 1 3021.dat
+
+
+
+0 FILE 10143 - Shell_000.0.ldr
+0 Shell_000.0
+0 Name: 10143 - Shell_000.0.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 110 0 0 1 0 0 0 1 0 0 0 1 10143 - Equator-Side.ldr
+1 0 -10 -254 12 0 0 -1 1 0 0 0 -1 0 10143 - SSD.ldr
+1 0 0 -32 110 1 0 0 0 0.913545 0.406737 0 -0.406737 0.913545 10143 - Top-000.0.ldr
+1 0 0 -32 -110 1 0 0 0 0.913545 -0.406737 0 0.406737 0.913545 10143 - Bot-000.0.ldr
+1 0 -110 0 0 0.92388 0.382683 0 -0.382683 0.92388 0 0 0 1 10143 - Shell_022.5.ldr
+
+
+
+0 FILE 10143 - Shell_022.5.ldr
+0 Shell_022.5
+0 Name: 10143 - Shell_022.5.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Equator-Angled.ldr
+1 0 -110 -32 110 1 0 0 0 0.93358 0.358368 0 -0.358368 0.93358 10143 - Top-022.5.ldr
+1 0 -110 -32 -110 1 0 0 0 0.913545 -0.406737 0 0.406737 0.913545 10143 - Bot-XXX.5.ldr
+1 0 -220 0 0 0.92388 0.382683 0 -0.382683 0.92388 0 0 0 1 10143 - Shell_045.0.ldr
+
+
+
+0 FILE 10143 - Shell_045.0.ldr
+0 Shell_045.0
+0 Name: 10143 - Shell_045.0.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Equator-Angled.ldr
+1 0 -110 -32 110 1 0 0 0 0.913545 0.406737 0 -0.406737 0.913545 10143 - Top-045.0.ldr
+1 0 -110 -32 -110 1 0 0 0 0.913545 -0.406737 0 0.406737 0.913545 10143 - Bot-XXX.0.ldr
+1 0 -220 0 0 0.92388 0.382683 0 -0.382683 0.92388 0 0 0 1 10143 - Shell_067.5.ldr
+
+
+
+0 FILE 10143 - Shell_067.5.ldr
+0 Shell_067.5
+0 Name: 10143 - Shell_067.5.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Equator-Angled.ldr
+1 0 -110 -32 110 1 0 0 0 0.913545 0.406737 0 -0.406737 0.913545 10143 - Top-XXX.5.ldr
+1 0 -110 -32 -110 1 0 0 0 0.913545 -0.406737 0 0.406737 0.913545 10143 - Bot-XXX.5.ldr
+1 0 -220 0 0 0.92388 0.382683 0 -0.382683 0.92388 0 0 0 1 10143 - Shell_090.0.ldr
+
+
+
+0 FILE 10143 - Shell_090.0.ldr
+0 Shell_090.0
+0 Name: 10143 - Shell_090.0.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Equator-Side.ldr
+1 0 -110 -32 110 1 0 0 0 0.913545 0.406737 0 -0.406737 0.913545 10143 - Top-XXX.0.ldr
+1 0 -110 -32 -110 1 0 0 0 0.913545 -0.406737 0 0.406737 0.913545 10143 - Bot-XXX.0.ldr
+1 0 -220 0 0 0.92388 0.382683 0 -0.382683 0.92388 0 0 0 1 10143 - Shell_112.5.ldr
+
+
+
+0 FILE 10143 - Shell_112.5.ldr
+0 Shell_112.5
+0 Name: 10143 - Shell_112.5.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Equator-Angled.ldr
+1 0 -110 -32 110 1 0 0 0 0.913545 0.406737 0 -0.406737 0.913545 10143 - Top-XXX.5.ldr
+1 0 -110 -32 -110 1 0 0 0 0.913545 -0.406737 0 0.406737 0.913545 10143 - Bot-XXX.5.ldr
+1 0 -220 0 0 0.92388 0.382683 0 -0.382683 0.92388 0 0 0 1 10143 - Shell_135.0.ldr
+
+
+
+0 FILE 10143 - Shell_135.0.ldr
+0 Shell_135.0
+0 Name: 10143 - Shell_135.0.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Equator-Angled.ldr
+1 0 -110 -32 110 1 0 0 0 0.913545 0.406737 0 -0.406737 0.913545 10143 - Top-XXX.0.ldr
+1 0 -110 -32 -110 1 0 0 0 0.913545 -0.406737 0 0.406737 0.913545 10143 - Bot-XXX.0.ldr
+1 0 -220 0 0 0.92388 0.382683 0 -0.382683 0.92388 0 0 0 1 10143 - Shell_157.5.ldr
+
+
+
+0 FILE 10143 - Shell_157.5.ldr
+0 Shell_157.5
+0 Name: 10143 - Shell_157.5.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Equator-Angled.ldr
+1 0 -110 -32 110 1 0 0 0 0.913545 0.406737 0 -0.406737 0.913545 10143 - Top-XXX.5.ldr
+1 0 -110 -32 -110 1 0 0 0 0.913545 -0.406737 0 0.406737 0.913545 10143 - Bot-XXX.5.ldr
+1 0 -220 0 0 0.92388 0.382683 0 -0.382683 0.92388 0 0 0 1 10143 - Shell_180.0.ldr
+
+
+
+0 FILE 10143 - Shell_180.0.ldr
+0 Shell_180.0
+0 Name: 10143 - Shell_180.0.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Equator-Side.ldr
+1 0 -110 -32 110 1 0 0 0 0.913545 0.406737 0 -0.406737 0.913545 10143 - Top-XXX.0.ldr
+1 0 -220 0 0 0.92388 0.382683 0 -0.382683 0.92388 0 0 0 1 10143 - Shell_202.5.ldr
+1 0 -110 -32 -110 1 0 0 0 0.913545 -0.406737 0 0.406737 0.913545 10143 - Bot-180.0.ldr
+
+
+
+0 FILE 10143 - Shell_202.5.ldr
+0 Shell_202.5
+0 Name: 10143 - Shell_202.5.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Equator-Angled.ldr
+1 0 -110 -32 110 1 0 0 0 0.913545 0.406737 0 -0.406737 0.913545 10143 - Top-202.5.ldr
+1 0 -110 -32 -110 1 0 0 0 0.92388 -0.382683 0 0.382683 0.92388 10143 - Bot_Sides.ldr
+1 0 -220 0 0 0.92388 0.382683 0 -0.382683 0.92388 0 0 0 1 10143 - Shell_225.0.ldr
+
+
+
+0 FILE 10143 - Shell_225.0.ldr
+0 Shell_225.0
+0 Name: 10143 - Shell_225.0.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Equator-225.ldr
+1 0 -220 0 0 0.92388 0.382683 0 -0.382683 0.92388 0 0 0 1 10143 - Shell_247.5.ldr
+
+
+
+0 FILE 10143 - Shell_247.5.ldr
+0 Shell_247.5
+0 Name: 10143 - Shell_247.5.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Equator-Rough.ldr
+1 0 -220 0 0 0.92388 0.382683 0 -0.382683 0.92388 0 0 0 1 10143 - Shell_270.0.ldr
+
+
+
+0 FILE 10143 - Shell_270.0.ldr
+0 Shell_270.0
+0 Name: 10143 - Shell_270.0.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Equator-270.ldr
+1 0 -220 0 0 0.92388 0.382683 0 -0.382683 0.92388 0 0 0 1 10143 - Shell_292.5.ldr
+
+
+
+0 FILE 10143 - Shell_292.5.ldr
+0 Shell_292.5
+0 Name: 10143 - Shell_292.5.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Equator-Rough.ldr
+1 0 -220 0 0 0.92388 0.382683 0 -0.382683 0.92388 0 0 0 1 10143 - Shell_315.0.ldr
+
+
+
+0 FILE 10143 - Shell_315.0.ldr
+0 Shell_315.0
+0 Name: 10143 - Shell_315.0.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Equator-Rough.ldr
+1 0 -220 0 0 0.92388 0.382683 0 -0.382683 0.92388 0 0 0 1 10143 - Shell_337.5.ldr
+
+
+
+0 FILE 10143 - Shell_337.5.ldr
+0 Shell_337.5
+0 Name: 10143 - Shell_337.5.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Equator-Angled.ldr
+1 0 -110 -32 110 1 0 0 0 0.913545 0.406737 0 -0.406737 0.913545 10143 - Top-337.5.ldr
+1 0 -110 -32 -110 1 0 0 0 0.92388 -0.382683 0 0.382683 0.92388 10143 - Bot_Sides.ldr
+
+
+
+0 FILE 10143 - Bot-000.0.ldr
+0 Bot-000.0
+0 Name: 10143 - Bot-000.0.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 71 50 -2 -20 -1 0 0 0 1 0 0 0 -1 44568.dat
+1 72 -60 -2 -40 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 -20 -2 -40 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 20 -2 -40 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 60 -2 -40 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 71 70 -2 -70 0 0 -1 0 1 0 1 0 0 3023.dat
+1 71 10 -2 -80 0 0 -1 0 1 0 1 0 0 3623.dat
+1 72 0 6 -20 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 0 0 6 -50 -1 0 0 0 1 0 0 0 -1 3034.dat
+1 72 40 6 -20 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 -40 6 -20 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 0 14 -40 1 0 0 0 1 0 0 0 1 2419.dat
+1 0 0 22 -60 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 22 -180 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 22 -160 1 0 0 0 1 0 0 0 1 32064a.dat
+1 71 0 14 -170 1 0 0 0 1 0 0 0 1 3022.dat
+1 0 0 6 -170 1 0 0 0 1 0 0 0 1 3034.dat
+1 72 60 -2 -180 1 0 0 0 1 0 0 0 1 3023.dat
+1 71 50 -2 -150 0 0 1 0 1 0 -1 0 0 3023.dat
+1 71 -50 -2 -130 0 0 1 0 1 0 -1 0 0 3710.dat
+1 72 -60 -2 -180 1 0 0 0 1 0 0 0 1 3023.dat
+1 71 0 -10 -180 1 0 0 0 1 0 0 0 1 4477.dat
+1 0 0 22 -40 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 32 -110 0 0 1 0 1 0 -1 0 0 3737.dat
+1 0 0 32 -220 1 0 0 0 0.92388 -0.382683 0 0.382683 0.92388 10143 - Bot-000.0_Mid.ldr
+1 71 0 32 -20 1 0 0 0 1 0 0 0 1 3713.dat
+1 71 -50 -2 -20 -1 0 0 0 1 0 0 0 -1 44568.dat
+1 71 -80 -10 -30 -1 0 0 0 1 0 0 0 -1 3021.dat
+1 71 10 -10 -30 -1 0 0 0 1 0 0 0 -1 3020.dat
+1 71 80 -10 -30 -1 0 0 0 1 0 0 0 -1 3021.dat
+1 71 -40 -10 -50 0 0 -1 0 1 0 1 0 0 3710.dat
+
+
+
+0 FILE 10143 - Bot-000.0_Mid.ldr
+0 Bot-000.0_Mid
+0 Name: 10143 - Bot-000.0_Mid.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 -1 0 0 0 -1 0 0 0 1 32016.dat
+1 0 0 0 -110 0 0 1 0 1 0 -1 0 0 3737.dat
+1 0 0 0 -220 1 0 0 0 0.92388 -0.382683 0 0.382683 0.92388 10143 - Bot-000.0_Mid_End.ldr
+1 0 0 -10 -50 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 0 0 -10 -70 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 0 0 -10 -170 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 72 0 -18 -160 -1 0 0 0 1 0 0 0 -1 3795.dat
+1 71 0 -18 -60 -1 0 0 0 1 0 0 0 -1 3034.dat
+1 71 -70 -26 -80 1 0 0 0 1 0 0 0 1 47398.dat
+1 71 70 -26 -170 1 0 0 0 1 0 0 0 1 3623.dat
+1 71 60 -26 -150 1 0 0 0 1 0 0 0 1 3023.dat
+1 71 80 -26 -70 1 0 0 0 1 0 0 0 1 3710.dat
+1 71 0 -26 -80 0 0 1 0 1 0 -1 0 0 3029.dat
+1 71 60 -26 -30 0 0 1 0 1 0 -1 0 0 3021.dat
+1 0 0 -10 -150 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 71 0 0 -35 -1 0 0 0 1 0 0 0 -1 32123a.dat
+1 71 0 0 -185 -1 0 0 0 1 0 0 0 -1 32123a.dat
+
+
+
+0 FILE 10143 - Bot-000.0_Mid_End.ldr
+0 Bot-000.0_Mid_End
+0 Name: 10143 - Bot-000.0_Mid_End.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 -1 0 0 0 -1 0 0 0 1 32016.dat
+1 0 0 0 -90 0 0 1 0 1 0 -1 0 0 3707.dat
+1 71 0 0 -220 0 0 1 0 1 0 -1 0 0 4519.dat
+1 1 0 0 -180 -1 0 0 0 1 0 0 0 -1 32034.dat
+1 0 0 0 -260 1 0 0 0 -1 0 0 0 -1 32016.dat
+1 0 0 -10 -50 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 0 0 -10 -70 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 0 0 -10 -90 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 0 0 -10 -110 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 71 -30 -18 -100 1 0 0 0 1 0 0 0 1 47398.dat
+1 71 30 -18 -100 1 0 0 0 1 0 0 0 1 47397.dat
+1 71 0 -26 -170 1 0 0 0 1 0 0 0 1 3710.dat
+1 71 0 0 -35 -1 0 0 0 1 0 0 0 -1 32123a.dat
+
+
+
+0 FILE 10143 - Bot-180.0.ldr
+0 Bot-180.0
+0 Name: 10143 - Bot-180.0.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 71 50 -2 -20 -1 0 0 0 1 0 0 0 -1 44568.dat
+1 71 -50 -2 -20 -1 0 0 0 1 0 0 0 -1 44568.dat
+1 72 -60 -2 -40 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 -20 -2 -40 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 20 -2 -40 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 60 -2 -40 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 71 70 -2 -70 0 0 -1 0 1 0 1 0 0 3023.dat
+1 71 10 -2 -80 0 0 -1 0 1 0 1 0 0 3623.dat
+1 71 -40 -10 -50 0 0 -1 0 1 0 1 0 0 3710.dat
+1 71 -80 -10 -30 1 0 0 0 1 0 0 0 1 3021.dat
+1 71 10 -10 -30 1 0 0 0 1 0 0 0 1 3020.dat
+1 71 0 -10 -180 1 0 0 0 1 0 0 0 1 4477.dat
+1 71 80 -10 -30 1 0 0 0 1 0 0 0 1 3021.dat
+1 72 0 6 -20 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 0 0 6 -50 -1 0 0 0 1 0 0 0 -1 3034.dat
+1 72 -40 6 -20 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 40 6 -20 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 0 14 -40 1 0 0 0 1 0 0 0 1 2419.dat
+1 0 0 22 -60 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 22 -180 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 22 -160 1 0 0 0 1 0 0 0 1 32064a.dat
+1 71 0 14 -170 1 0 0 0 1 0 0 0 1 3022.dat
+1 0 0 6 -170 1 0 0 0 1 0 0 0 1 3034.dat
+1 72 60 -2 -180 1 0 0 0 1 0 0 0 1 3023.dat
+1 72 -60 -2 -180 1 0 0 0 1 0 0 0 1 3023.dat
+1 71 -70 -2 -140 0 0 1 0 1 0 -1 0 0 3623.dat
+1 71 50 -2 -150 0 0 1 0 1 0 -1 0 0 3023.dat
+1 0 0 22 -40 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 32 -110 0 0 1 0 1 0 -1 0 0 3737.dat
+1 0 0 32 -220 1 0 0 0 0.92388 -0.382683 0 0.382683 0.92388 10143 - Bot-180.0_Mid.ldr
+1 71 0 32 -20 1 0 0 0 1 0 0 0 1 3713.dat
+
+
+
+0 FILE 10143 - Bot-180.0_Mid.ldr
+0 Bot-180.0_Mid
+0 Name: 10143 - Bot-180.0_Mid.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 -1 0 0 0 -1 0 0 0 1 32016.dat
+1 0 0 0 -110 0 0 1 0 1 0 -1 0 0 3737.dat
+1 71 0 0 -35 -1 0 0 0 1 0 0 0 -1 32123a.dat
+1 71 0 0 -185 -1 0 0 0 1 0 0 0 -1 32123a.dat
+1 0 0 -10 -50 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 0 0 -10 -70 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 0 0 -10 -170 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 0 0 -10 -150 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 72 0 -18 -160 -1 0 0 0 1 0 0 0 -1 3795.dat
+1 71 0 -18 -60 -1 0 0 0 1 0 0 0 -1 3034.dat
+1 71 70 -26 -80 1 0 0 0 1 0 0 0 1 47397.dat
+1 71 -80 -26 -70 1 0 0 0 1 0 0 0 1 3710.dat
+1 71 -70 -26 -170 1 0 0 0 1 0 0 0 1 3623.dat
+1 71 -60 -26 -150 1 0 0 0 1 0 0 0 1 3023.dat
+1 71 0 -26 -80 0 0 1 0 1 0 -1 0 0 3029.dat
+1 71 -60 -26 -30 0 0 1 0 1 0 -1 0 0 3021.dat
+1 0 0 0 -220 1 0 0 0 0.92388 -0.382683 0 0.382683 0.92388 10143 - Bot-180.0_Mid_End.ldr
+
+
+
+0 FILE 10143 - Bot-180.0_Mid_End.ldr
+0 Bot-180.0_Mid_End
+0 Name: 10143 - Bot-180.0_Mid_End.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 -1 0 0 0 -1 0 0 0 1 32016.dat
+1 0 0 0 -260 1 0 0 0 -1 0 0 0 -1 32016.dat
+1 0 0 0 -90 0 0 1 0 1 0 -1 0 0 3707.dat
+1 71 0 0 -220 0 0 1 0 1 0 -1 0 0 4519.dat
+1 1 0 0 -180 -1 0 0 0 1 0 0 0 -1 32034.dat
+1 0 0 -10 -50 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 71 30 -18 -100 1 0 0 0 1 0 0 0 1 47397.dat
+1 71 -30 -18 -100 1 0 0 0 1 0 0 0 1 47398.dat
+1 71 0 -26 -170 1 0 0 0 1 0 0 0 1 3710.dat
+1 0 0 -10 -70 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 0 0 -10 -90 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 0 0 -10 -110 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 71 0 0 -35 -1 0 0 0 1 0 0 0 -1 32123a.dat
+
+
+
+0 FILE 10143 - Bot-XXX.5.ldr
+0 Bot-XXX.5
+0 Name: 10143 - Bot-XXX.5.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 71 50 -2 -20 -1 0 0 0 1 0 0 0 -1 44568.dat
+1 71 0 -2 -180 -1 0 0 0 1 0 0 0 -1 3710.dat
+1 72 0 6 -20 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 40 6 -20 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 -40 6 -20 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 0 14 -40 1 0 0 0 1 0 0 0 1 2419.dat
+1 0 0 22 -60 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 22 -180 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 22 -160 1 0 0 0 1 0 0 0 1 32064a.dat
+1 71 0 14 -170 1 0 0 0 1 0 0 0 1 3022.dat
+1 0 0 22 -40 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 32 -110 0 0 1 0 1 0 -1 0 0 3737.dat
+1 0 0 32 -220 1 0 0 0 0.92388 -0.382683 0 0.382683 0.92388 10143 - Bot-XXX.5_Mid.ldr
+1 71 0 32 -20 1 0 0 0 1 0 0 0 1 3713.dat
+1 0 0 6 -50 1 0 0 0 1 0 0 0 1 3034.dat
+1 0 0 6 -170 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -50 -2 -20 -1 0 0 0 1 0 0 0 -1 44568.dat
+1 72 -60 -2 -40 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 -20 -2 -40 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 20 -2 -40 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 60 -2 -40 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 71 70 -2 -90 0 0 -1 0 1 0 1 0 0 3710.dat
+1 71 30 -2 -150 0 0 -1 0 1 0 1 0 0 3023.dat
+1 71 -50 -2 -150 0 0 -1 0 1 0 1 0 0 3710.dat
+1 71 10 -2 -70 0 0 -1 0 1 0 1 0 0 3023.dat
+1 71 -40 -10 -40 0 0 -1 0 1 0 1 0 0 3623.dat
+1 71 -80 -10 -30 1 0 0 0 1 0 0 0 1 3021.dat
+1 71 10 -10 -30 1 0 0 0 1 0 0 0 1 3020.dat
+1 71 80 -10 -30 1 0 0 0 1 0 0 0 1 3021.dat
+
+
+
+0 FILE 10143 - Bot-XXX.5_Mid.ldr
+0 Bot-XXX.5_Mid
+0 Name: 10143 - Bot-XXX.5_Mid.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 -1 0 0 0 -1 0 0 0 1 32016.dat
+1 0 0 0 -110 0 0 1 0 1 0 -1 0 0 3737.dat
+1 0 0 -10 -50 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 0 0 -10 -70 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 72 0 -18 -160 -1 0 0 0 1 0 0 0 -1 3795.dat
+1 71 0 -18 -60 -1 0 0 0 1 0 0 0 -1 3034.dat
+1 71 0 -26 -80 0 0 -1 0 1 0 1 0 0 3029.dat
+1 71 70 -26 -80 1 0 0 0 1 0 0 0 1 47397.dat
+1 71 -70 -26 -80 1 0 0 0 1 0 0 0 1 47398.dat
+1 0 0 -10 -170 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 0 0 -10 -150 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 71 0 0 -35 -1 0 0 0 1 0 0 0 -1 32123a.dat
+1 71 0 0 -185 -1 0 0 0 1 0 0 0 -1 32123a.dat
+1 71 0 0 -220 1 0 0 0 0.92388 -0.382683 0 0.382683 0.92388 10143 - Bot-XXX.5_Mid_End.ldr
+
+
+
+0 FILE 10143 - Bot-XXX.5_Mid_End.ldr
+0 Bot-XXX.5_Mid_End
+0 Name: 10143 - Bot-XXX.5_Mid_End.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 -1 0 0 0 -1 0 0 0 1 32016.dat
+1 72 0 0 -67 0 0 1 0 1 0 -1 0 0 32209.dat
+1 0 0 -10 -50 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 71 30 -18 -100 1 0 0 0 1 0 0 0 1 47397.dat
+1 71 -30 -18 -100 1 0 0 0 1 0 0 0 1 47398.dat
+1 0 0 -10 -110 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 0 0 -10 -90 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 0 0 -10 -70 -1 0 0 0 1 0 0 0 -1 32064a.dat
+
+
+
+0 FILE 10143 - Bot-XXX.0.ldr
+0 Bot-XXX.0
+0 Name: 10143 - Bot-XXX.0.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 71 50 -2 -20 -1 0 0 0 1 0 0 0 -1 44568.dat
+1 72 -60 -2 -40 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 -20 -2 -40 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 20 -2 -40 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 60 -2 -40 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 71 70 -2 -70 0 0 -1 0 1 0 1 0 0 3023.dat
+1 71 10 -2 -80 0 0 -1 0 1 0 1 0 0 3623.dat
+1 71 -70 -2 -140 0 0 -1 0 1 0 1 0 0 3623.dat
+1 71 50 -2 -150 0 0 -1 0 1 0 1 0 0 3023.dat
+1 71 -40 -10 -50 0 0 -1 0 1 0 1 0 0 3710.dat
+1 71 -80 -10 -30 1 0 0 0 1 0 0 0 1 3021.dat
+1 71 10 -10 -30 1 0 0 0 1 0 0 0 1 3020.dat
+1 71 80 -10 -30 1 0 0 0 1 0 0 0 1 3021.dat
+1 71 0 -10 -180 1 0 0 0 1 0 0 0 1 4477.dat
+1 72 0 6 -20 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 0 0 6 -50 -1 0 0 0 1 0 0 0 -1 3034.dat
+1 72 40 6 -20 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 -40 6 -20 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 0 14 -40 1 0 0 0 1 0 0 0 1 2419.dat
+1 0 0 22 -60 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 22 -180 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 22 -160 1 0 0 0 1 0 0 0 1 32064a.dat
+1 71 0 14 -170 1 0 0 0 1 0 0 0 1 3022.dat
+1 0 0 6 -170 1 0 0 0 1 0 0 0 1 3034.dat
+1 72 -60 -2 -180 1 0 0 0 1 0 0 0 1 3023.dat
+1 72 60 -2 -180 1 0 0 0 1 0 0 0 1 3023.dat
+1 0 0 22 -40 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 32 -110 0 0 1 0 1 0 -1 0 0 3737.dat
+1 0 0 32 -220 1 0 0 0 0.92388 -0.382683 0 0.382683 0.92388 10143 - Bot-XXX.0_Mid.ldr
+1 71 0 32 -20 1 0 0 0 1 0 0 0 1 3713.dat
+1 71 -50 -2 -20 -1 0 0 0 1 0 0 0 -1 44568.dat
+
+
+
+0 FILE 10143 - Bot-XXX.0_Mid.ldr
+0 Bot-XXX.0_Mid
+0 Name: 10143 - Bot-XXX.0_Mid.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 -1 0 0 0 -1 0 0 0 1 32016.dat
+1 0 0 0 -110 0 0 1 0 1 0 -1 0 0 3737.dat
+1 71 0 0 -35 -1 0 0 0 1 0 0 0 -1 32123a.dat
+1 71 0 0 -185 -1 0 0 0 1 0 0 0 -1 32123a.dat
+1 71 0 0 -220 1 0 0 0 0.92388 -0.382683 0 0.382683 0.92388 10143 - Bot-XXX.0_Mid_End.ldr
+1 0 0 -10 -50 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 72 0 -18 -160 -1 0 0 0 1 0 0 0 -1 3795.dat
+1 71 0 -18 -60 -1 0 0 0 1 0 0 0 -1 3034.dat
+1 71 0 -26 -80 0 0 -1 0 1 0 1 0 0 3029.dat
+1 71 70 -26 -80 1 0 0 0 1 0 0 0 1 47397.dat
+1 71 -70 -26 -80 1 0 0 0 1 0 0 0 1 47398.dat
+1 0 0 -10 -70 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 0 0 -10 -170 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 0 0 -10 -150 -1 0 0 0 1 0 0 0 -1 32064a.dat
+
+
+
+0 FILE 10143 - Bot-XXX.0_Mid_End.ldr
+0 Bot-XXX.0_Mid_End
+0 Name: 10143 - Bot-XXX.0_Mid_End.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 -1 0 0 0 -1 0 0 0 1 32016.dat
+1 71 0 0 -35 -1 0 0 0 -1 0 0 0 1 32123a.dat
+1 1 0 0 -180 -1 0 0 0 -1 0 0 0 1 32034.dat
+1 0 0 0 -260 1 0 0 0 -1 0 0 0 -1 32016.dat
+1 0 0 0 -90 0 0 1 0 1 0 -1 0 0 3707.dat
+1 71 0 0 -220 0 0 1 0 1 0 -1 0 0 4519.dat
+1 0 0 -10 -50 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 71 30 -18 -100 1 0 0 0 1 0 0 0 1 47397.dat
+1 71 -30 -18 -100 1 0 0 0 1 0 0 0 1 47398.dat
+1 71 0 -26 -170 1 0 0 0 1 0 0 0 1 3710.dat
+1 0 0 -10 -70 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 0 0 -10 -90 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 0 0 -10 -110 -1 0 0 0 1 0 0 0 -1 32064a.dat
+
+
+
+0 FILE 10143 - Bot_Sides.ldr
+0 Bot_Sides
+0 Name: 10143 - Bot_Sides.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 71 50 -2 -20 -1 0 0 0 1 0 0 0 -1 44568.dat
+1 72 -60 -2 -40 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 -20 -2 -40 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 20 -2 -40 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 60 -2 -40 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 71 -70 -2 -80 0 0 -1 0 1 0 1 0 0 3623.dat
+1 71 -10 -2 -70 0 0 -1 0 1 0 1 0 0 3023.dat
+1 71 50 -2 -90 0 0 -1 0 1 0 1 0 0 3710.dat
+1 71 -50 -2 -20 -1 0 0 0 1 0 0 0 -1 44568.dat
+1 71 -70 -10 -30 -1 0 0 0 1 0 0 0 -1 3020.dat
+1 71 0 -10 -30 -1 0 0 0 1 0 0 0 -1 3021.dat
+1 71 70 -10 -20 -1 0 0 0 1 0 0 0 -1 3710.dat
+1 71 60 -10 -40 -1 0 0 0 1 0 0 0 -1 3623.dat
+1 72 0 6 -20 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 0 0 6 -50 -1 0 0 0 1 0 0 0 -1 3034.dat
+1 72 40 6 -20 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 -40 6 -20 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 0 14 -40 1 0 0 0 1 0 0 0 1 2419.dat
+
+
+
+0 FILE 10143 - Construction.ldr
+0 Construction
+0 Name: 10143 - Construction.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 4 0 0 0 0 0 1 0 1 0 -1 0 0 3832.dat
+1 4 -200 0 0 0 0 1 0 1 0 -1 0 0 3832.dat
+1 71 0 0 260 0 0 1 0 1 0 -1 0 0 4282.dat
+1 71 -200 0 260 0 0 1 0 1 0 -1 0 0 4282.dat
+1 71 -200 0 -260 0 0 1 0 1 0 -1 0 0 4282.dat
+1 71 0 0 -260 0 0 1 0 1 0 -1 0 0 4282.dat
+1 71 100 0 -380 1 0 0 0 1 0 0 0 1 30504.dat
+1 71 160 -8 -320 1 0 0 0 1 0 0 0 1 30503.dat
+1 71 40 -8 -440 1 0 0 0 1 0 0 0 1 30503.dat
+1 71 40 -8 440 0 0 -1 0 1 0 1 0 0 30503.dat
+1 71 160 -8 320 0 0 -1 0 1 0 1 0 0 30503.dat
+1 71 80 0 -220 0 0 1 0 1 0 -1 0 0 3036.dat
+1 71 80 0 220 0 0 1 0 1 0 -1 0 0 3036.dat
+1 71 100 0 380 0 0 -1 0 1 0 1 0 0 30504.dat
+1 71 200 0 180 -1 0 0 0 1 0 0 0 -1 30356.dat
+1 71 200 0 -180 1 0 0 0 1 0 0 0 1 30355.dat
+1 71 260 -8 0 0 0 1 0 1 0 -1 0 0 2445.dat
+1 71 180 0 0 1 0 0 0 1 0 0 0 1 3036.dat
+1 71 -100 0 480 0 0 -1 0 1 0 1 0 0 30355.dat
+1 71 -100 0 -480 0 0 -1 0 1 0 1 0 0 30356.dat
+1 71 -210 -24 0 0 0 -1 0 1 0 1 0 0 3894.dat
+1 72 -210 -24 140 0 0 -1 0 1 0 1 0 0 3008.dat
+1 72 -210 -24 460 0 0 -1 0 1 0 1 0 0 3008.dat
+1 72 -190 -24 420 0 0 -1 0 1 0 1 0 0 3010.dat
+1 72 -190 -24 520 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -10 -24 420 0 0 -1 0 1 0 1 0 0 3010.dat
+1 72 -210 -24 -140 0 0 -1 0 1 0 1 0 0 3008.dat
+1 72 -210 -24 -460 0 0 -1 0 1 0 1 0 0 3008.dat
+1 72 -190 -24 -420 0 0 -1 0 1 0 1 0 0 3010.dat
+1 72 -190 -24 -520 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -10 -24 -420 0 0 -1 0 1 0 1 0 0 3010.dat
+1 72 -10 -24 -140 0 0 -1 0 1 0 1 0 0 3008.dat
+1 72 150 -24 -60 0 0 -1 0 1 0 1 0 0 3010.dat
+1 72 150 -24 60 0 0 -1 0 1 0 1 0 0 3010.dat
+1 72 -10 -24 140 0 0 -1 0 1 0 1 0 0 3008.dat
+1 72 -40 -24 -50 1 0 0 0 1 0 0 0 1 2465.dat
+1 72 80 -24 -150 1 0 0 0 1 0 0 0 1 3008.dat
+1 72 80 -24 150 1 0 0 0 1 0 0 0 1 3008.dat
+1 72 120 -24 -210 1 0 0 0 1 0 0 0 1 3010.dat
+1 72 20 -24 -300 1 0 0 0 1 0 0 0 1 3001.dat
+1 72 120 -24 210 1 0 0 0 1 0 0 0 1 3010.dat
+1 72 20 -24 300 1 0 0 0 1 0 0 0 1 3001.dat
+1 72 -100 -24 -230 1 0 0 0 1 0 0 0 1 3895.dat
+1 72 -100 -24 230 1 0 0 0 1 0 0 0 1 3895.dat
+1 72 -100 -24 370 1 0 0 0 1 0 0 0 1 3895.dat
+1 72 -100 -24 450 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 -100 -24 -370 1 0 0 0 1 0 0 0 1 3895.dat
+1 71 -200 -32 -520 1 0 0 0 1 0 0 0 1 3020.dat
+1 71 -200 -32 -460 0 0 1 0 1 0 -1 0 0 3020.dat
+1 71 -200 -32 -260 0 0 1 0 1 0 -1 0 0 4282.dat
+1 4 -200 -32 0 0 0 1 0 1 0 -1 0 0 3832.dat
+1 4 0 -32 0 0 0 1 0 1 0 -1 0 0 3832.dat
+1 71 -100 -32 -400 0 0 1 0 1 0 -1 0 0 3034.dat
+1 71 -60 -32 -300 0 0 1 0 1 0 -1 0 0 3034.dat
+1 71 0 -32 -260 0 0 1 0 1 0 -1 0 0 4282.dat
+1 71 100 -32 -120 0 0 1 0 1 0 -1 0 0 2445.dat
+1 71 100 -32 120 0 0 1 0 1 0 -1 0 0 2445.dat
+1 71 160 -32 0 0 0 1 0 1 0 -1 0 0 4282.dat
+1 71 -200 -32 260 0 0 1 0 1 0 -1 0 0 4282.dat
+1 71 -100 -32 400 0 0 1 0 1 0 -1 0 0 3034.dat
+1 71 -60 -32 300 0 0 1 0 1 0 -1 0 0 3034.dat
+1 71 0 -32 260 0 0 1 0 1 0 -1 0 0 4282.dat
+1 71 -200 -32 460 0 0 1 0 1 0 -1 0 0 3020.dat
+1 72 -210 -56 480 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 -110 -56 400 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 -70 -56 240 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 -70 -56 320 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 -10 -56 400 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 10 -56 240 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 -10 -56 160 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 -10 -56 80 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 -210 -56 140 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 -210 -80 140 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 -210 -104 140 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 -210 -128 140 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 -210 -160 140 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 -210 -160 -140 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 -210 -56 -140 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 -210 -80 -140 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 -210 -104 -140 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 -210 -128 -140 0 0 1 0 1 0 -1 0 0 3004.dat
+1 71 -210 -136 140 0 0 1 0 1 0 -1 0 0 3023.dat
+1 71 -210 -136 -140 0 0 1 0 1 0 -1 0 0 3023.dat
+1 71 -210 -168 -140 0 0 1 0 1 0 -1 0 0 3023.dat
+1 71 -210 -168 140 0 0 1 0 1 0 -1 0 0 3023.dat
+1 72 -10 -56 0 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 -10 -56 -80 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 90 -56 160 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 90 -56 80 0 0 1 0 1 0 -1 0 0 3065.dat
+1 72 90 -56 0 0 0 1 0 1 0 -1 0 0 3004.dat
+1 71 150 -40 -50 0 0 1 0 1 0 -1 0 0 4592.dat
+1 71 150 -40 -50 0 0 1 0 1 0 -1 0 0 4593.dat
+1 72 90 -56 -80 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 -10 -56 -160 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 90 -56 -160 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 10 -56 -240 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 -70 -56 -320 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 -10 -56 -400 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 -110 -56 -400 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 -210 -56 -480 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 -200 -56 -350 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 71 -200 -64 -350 -1 0 0 0 1 0 0 0 -1 3023.dat
+1 71 -140 -64 -480 -1 0 0 0 1 0 0 0 -1 3034.dat
+1 71 -60 -64 -400 -1 0 0 0 1 0 0 0 -1 3034.dat
+1 71 -20 -64 -320 -1 0 0 0 1 0 0 0 -1 3034.dat
+1 71 0 -64 -240 -1 0 0 0 1 0 0 0 -1 3034.dat
+1 71 40 -64 -160 -1 0 0 0 1 0 0 0 -1 3034.dat
+1 71 60 -64 -80 -1 0 0 0 1 0 0 0 -1 3034.dat
+1 71 60 -64 0 -1 0 0 0 1 0 0 0 -1 3034.dat
+1 71 60 -64 80 -1 0 0 0 1 0 0 0 -1 3034.dat
+1 71 40 -64 160 -1 0 0 0 1 0 0 0 -1 3034.dat
+1 71 0 -64 240 -1 0 0 0 1 0 0 0 -1 3034.dat
+1 71 -20 -64 320 -1 0 0 0 1 0 0 0 -1 3034.dat
+1 71 -60 -64 400 -1 0 0 0 1 0 0 0 -1 3034.dat
+1 71 -140 -64 480 -1 0 0 0 1 0 0 0 -1 3034.dat
+1 71 -200 -64 350 -1 0 0 0 1 0 0 0 -1 3023.dat
+1 72 -200 -88 350 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -200 -88 470 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -120 -88 470 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -120 -88 390 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -40 -88 390 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -40 -88 310 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -40 -88 230 -1 0 0 0 1 0 0 0 -1 3065.dat
+1 72 40 -88 250 -1 0 0 0 1 0 0 0 -1 3065.dat
+1 72 100 -88 150 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 100 -88 70 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 100 -88 -70 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 100 -88 -150 -1 0 0 0 1 0 0 0 -1 3065.dat
+1 72 20 -88 -150 -1 0 0 0 1 0 0 0 -1 3010.dat
+1 72 -40 -88 -230 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 40 -88 -250 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -40 -88 -310 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -40 -88 -390 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -120 -88 -390 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -200 -88 -350 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 71 -200 -96 -420 0 0 -1 0 1 0 1 0 0 3034.dat
+1 72 -210 -120 -440 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -130 -120 -440 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -130 -120 -360 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -50 -120 -360 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -50 -120 -280 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -50 -120 -200 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -10 -120 -120 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -10 -120 -40 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -10 -120 40 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -10 -120 120 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -50 -120 200 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 30 -120 200 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -50 -120 280 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -50 -120 360 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -130 -120 360 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -130 -120 440 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -210 -120 440 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 40 -120 270 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 -200 -120 350 1 0 0 0 1 0 0 0 1 3004.dat
+1 71 -200 -128 350 1 0 0 0 1 0 0 0 1 3023.dat
+1 71 -140 -128 440 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -60 -128 360 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -20 -128 280 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 20 -128 200 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 40 -128 120 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 60 -128 40 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 60 -128 -40 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 40 -128 -120 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 20 -128 -200 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -20 -128 -280 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -60 -128 -360 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -140 -128 -440 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -200 -128 -350 1 0 0 0 1 0 0 0 1 3023.dat
+1 72 -200 -152 -350 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 -200 -152 -430 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 -120 -152 -350 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 -120 -152 -430 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 -40 -152 -350 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 -40 -152 -270 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 -40 -152 -210 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 20 -152 -210 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 20 -152 -110 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 0 -152 -50 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 80 -152 -50 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 0 -152 50 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 80 -152 50 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 20 -152 110 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 -40 -152 210 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 20 -152 210 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 -40 -152 270 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 -40 -152 350 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 -120 -152 350 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 -200 -152 350 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 -200 -152 430 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 -120 -152 430 1 0 0 0 1 0 0 0 1 3004.dat
+1 71 -200 -160 420 0 0 1 0 1 0 -1 0 0 3034.dat
+1 71 -120 -160 380 0 0 1 0 1 0 -1 0 0 3034.dat
+1 71 -40 -160 220 0 0 1 0 1 0 -1 0 0 4282.dat
+1 71 20 -160 180 0 0 1 0 1 0 -1 0 0 3034.dat
+1 71 0 -160 0 0 0 1 0 1 0 -1 0 0 3034.dat
+1 71 80 -160 0 0 0 1 0 1 0 -1 0 0 3034.dat
+1 71 -40 -160 -220 0 0 1 0 1 0 -1 0 0 4282.dat
+1 72 -30 -168 -320 0 0 -1 0 1 0 1 0 0 4175.dat
+1 72 -40 -168 370 -1 0 0 0 1 0 0 0 -1 4175.dat
+1 71 -110 -160 410 0 0 -1 0 1 0 1 0 0 42446.dat
+1 71 -30 -160 290 0 0 -1 0 1 0 1 0 0 42446.dat
+1 71 30 -160 150 0 0 -1 0 1 0 1 0 0 42446.dat
+1 71 70 -168 50 0 0 -1 0 1 0 1 0 0 4592.dat
+1 71 70 -168 50 0 0 -1 0 1 0 1 0 0 4593.dat
+1 72 -210 -192 0 0 0 -1 0 1 0 1 0 0 2465.dat
+1 72 -210 -216 -280 0 0 -1 0 1 0 1 0 0 2465.dat
+1 72 -100 -216 -110 1 0 0 0 1 0 0 0 1 3895.dat
+1 72 -100 -216 -10 1 0 0 0 1 0 0 0 1 3895.dat
+1 72 -100 -216 10 1 0 0 0 1 0 0 0 1 3895.dat
+1 72 -100 -216 110 1 0 0 0 1 0 0 0 1 3895.dat
+1 72 -160 -216 -410 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 -160 -216 -330 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 -80 -216 -270 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 -160 -216 410 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 -160 -216 330 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 -80 -216 270 1 0 0 0 1 0 0 0 1 3004.dat
+1 71 -210 -224 420 0 0 1 0 1 0 -1 0 0 3710.dat
+1 71 -210 -224 300 0 0 1 0 1 0 -1 0 0 3023.dat
+1 71 -160 -224 360 0 0 1 0 1 0 -1 0 0 3034.dat
+1 71 -80 -224 160 0 0 1 0 1 0 -1 0 0 4282.dat
+1 71 -200 -224 0 0 0 1 0 1 0 -1 0 0 4282.dat
+1 71 -80 -224 -160 0 0 1 0 1 0 -1 0 0 4282.dat
+1 71 0 -224 0 0 0 1 0 1 0 -1 0 0 4282.dat
+1 71 -160 -224 -360 0 0 1 0 1 0 -1 0 0 3034.dat
+1 71 -210 -224 -420 0 0 1 0 1 0 -1 0 0 3710.dat
+1 71 -210 -224 -300 0 0 1 0 1 0 -1 0 0 3023.dat
+1 71 -150 -224 -350 0 0 -1 0 1 0 1 0 0 42446.dat
+1 0 -90 -248 -300 0 0 -1 0 1 0 1 0 0 30236.dat
+1 0 -10 -248 60 0 0 -1 0 1 0 1 0 0 30236.dat
+1 0 -170 -248 400 0 0 -1 0 1 0 1 0 0 30236.dat
+1 72 -210 -248 400 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -210 -248 300 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -90 -248 300 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -90 -248 220 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -70 -248 220 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -90 -248 140 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -10 -248 140 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -90 -248 60 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -90 -248 0 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -10 -248 0 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -90 -248 -60 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -10 -248 -60 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -10 -248 -140 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -90 -248 -140 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -90 -248 -220 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -70 -248 -220 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -210 -248 -300 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -210 -248 -400 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -170 -248 -400 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -210 -248 0 0 0 -1 0 1 0 1 0 0 3004.dat
+1 71 -210 -256 0 0 0 -1 0 1 0 1 0 0 3023.dat
+1 71 -180 -256 -400 1 0 0 0 1 0 0 0 1 3020.dat
+1 71 -140 -256 -300 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -80 -256 -220 1 0 0 0 1 0 0 0 1 3020.dat
+1 71 -60 -256 -140 1 0 0 0 1 0 0 0 1 3034.dat
+1 72 -20 -264 -150 1 0 0 0 1 0 0 0 1 4175.dat
+1 0 -60 -280 210 -1 0 0 0 1 0 0 0 -1 30236.dat
+1 72 -200 -280 390 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -200 -280 290 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -120 -280 290 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -120 -280 150 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -60 -280 130 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -40 -280 50 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -40 -280 -50 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -60 -280 -130 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -120 -280 -150 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -60 -280 -210 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -120 -280 -290 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -200 -280 -290 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -200 -280 -390 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 71 -200 -288 -320 0 0 -1 0 1 0 1 0 0 3034.dat
+1 71 -120 -288 -220 0 0 -1 0 1 0 1 0 0 3034.dat
+1 71 -60 -288 -160 0 0 -1 0 1 0 1 0 0 3034.dat
+1 71 -40 -288 0 0 0 -1 0 1 0 1 0 0 3034.dat
+1 71 -60 -288 160 0 0 -1 0 1 0 1 0 0 3034.dat
+1 71 -120 -288 220 0 0 -1 0 1 0 1 0 0 3034.dat
+1 71 -200 -288 320 0 0 -1 0 1 0 1 0 0 3034.dat
+1 71 -190 -288 370 0 0 -1 0 1 0 1 0 0 42446.dat
+1 71 -50 -288 150 0 0 -1 0 1 0 1 0 0 42446.dat
+1 72 -50 -296 200 0 0 -1 0 1 0 1 0 0 4175.dat
+1 0 -70 -312 -200 0 0 -1 0 1 0 1 0 0 30236.dat
+1 72 -210 -312 -280 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -130 -312 -280 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -130 -312 -200 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -70 -312 -120 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -110 -312 0 0 0 -1 0 1 0 1 0 0 2465.dat
+1 72 -30 -312 -40 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -30 -312 40 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -70 -312 120 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -70 -312 200 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -130 -312 200 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -130 -312 280 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -210 -312 280 0 0 -1 0 1 0 1 0 0 3004.dat
+1 71 -180 -320 280 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -100 -320 200 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -80 -320 120 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -40 -320 40 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -40 -320 -40 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -90 -328 -210 0 0 1 0 1 0 -1 0 0 4592.dat
+1 71 -10 -328 -50 0 0 1 0 1 0 -1 0 0 4592.dat
+1 71 -30 -328 50 0 0 1 0 1 0 -1 0 0 4592.dat
+1 71 -30 -328 50 0 0 1 0 1 0 -1 0 0 4593.dat
+1 71 -10 -328 -50 0 0 1 0 1 0 -1 0 0 4593.dat
+1 71 -90 -328 -210 0 0 1 0 1 0 -1 0 0 4593.dat
+1 71 -70 -334 140 0 0 1 1 0 0 0 1 0 2569.dat
+1 71 -80 -320 -120 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -100 -320 -200 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -180 -320 -280 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -200 -320 0 0 0 1 0 1 0 -1 0 0 2445.dat
+1 71 -200 -352 0 0 0 1 0 1 0 -1 0 0 2445.dat
+1 71 -200 -352 -240 0 0 1 0 1 0 -1 0 0 3034.dat
+1 71 -140 -352 -200 0 0 1 0 1 0 -1 0 0 3034.dat
+1 0 -130 -376 -160 0 0 -1 0 1 0 1 0 0 30236.dat
+1 72 -150 -376 -220 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -210 -376 -220 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -190 -376 -80 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -110 -376 -80 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -110 -376 0 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -110 -376 80 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -190 -376 80 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -130 -376 160 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -150 -376 220 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -210 -376 220 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -200 -376 170 1 0 0 0 1 0 0 0 1 3004.dat
+1 71 -180 -384 220 1 0 0 0 1 0 0 0 1 3020.dat
+1 71 -160 -384 160 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -120 -384 80 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -80 -384 0 1 0 0 0 1 0 0 0 1 3020.dat
+1 71 -120 -384 -80 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -160 -384 -160 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -180 -384 -220 1 0 0 0 1 0 0 0 1 3020.dat
+1 72 -150 -408 -220 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 -190 -408 -80 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 -190 -408 80 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 -150 -408 220 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 -200 -408 -150 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 71 -200 -416 -120 0 0 -1 0 1 0 1 0 0 3020.dat
+1 71 -200 -416 120 0 0 -1 0 1 0 1 0 0 3020.dat
+1 71 -140 -416 0 0 0 -1 0 1 0 1 0 0 4282.dat
+1 71 -130 -416 -10 0 0 -1 0 1 0 1 0 0 42446.dat
+1 72 -130 -424 120 0 0 -1 0 1 0 1 0 0 4175.dat
+1 0 -150 -440 40 0 0 -1 0 1 0 1 0 0 30236.dat
+1 72 -190 -440 0 0 0 -1 0 1 0 1 0 0 3895.dat
+1 72 -210 -440 100 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -210 -440 -100 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -150 -440 -20 0 0 -1 0 1 0 1 0 0 3010.dat
+1 71 -200 -448 -100 1 0 0 0 1 0 0 0 1 3020.dat
+1 71 -160 -448 -40 1 0 0 0 1 0 0 0 1 3020.dat
+1 71 -160 -448 40 1 0 0 0 1 0 0 0 1 3020.dat
+1 71 -200 -448 100 1 0 0 0 1 0 0 0 1 3020.dat
+1 71 -117 -406 -10 0 1 0 0 0 1 1 0 0 30374.dat
+1 72 -140 -408 -150 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -140 -408 -70 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 71 -90 -392 -70 0 0 -1 0 1 0 1 0 0 4592.dat
+1 71 -90 -392 -70 0 0 -1 0 1 0 1 0 0 4593.dat
+1 72 -140 -408 70 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -200 -408 150 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -140 -408 150 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -200 -376 -170 1 0 0 0 1 0 0 0 1 3004.dat
+1 0 -90 -376 0 0 0 -1 0 1 0 1 0 0 30236.dat
+1 71 -100 -352 0 0 0 1 0 1 0 -1 0 0 4282.dat
+1 71 -90 -352 -110 0 0 -1 0 1 0 1 0 0 42446.dat
+1 71 -130 -352 230 0 0 -1 0 1 0 1 0 0 42446.dat
+1 71 -117 -342 230 0 1 0 0 0 1 1 0 0 30374.dat
+1 71 -77 -342 -110 0 1 0 0 0 1 1 0 0 30374.dat
+1 71 -140 -352 200 0 0 1 0 1 0 -1 0 0 3034.dat
+1 71 -200 -352 240 0 0 1 0 1 0 -1 0 0 3034.dat
+1 72 -210 -344 -280 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -190 -344 -180 0 0 -1 0 1 0 1 0 0 3895.dat
+1 72 -140 -328 -290 1 0 0 0 1 0 0 0 1 4175.dat
+1 72 -160 -328 290 -1 0 0 0 1 0 0 0 -1 4175.dat
+1 0 -70 -328 130 -1 0 0 0 1 0 0 0 -1 2555.dat
+1 72 -210 -344 0 0 0 -1 0 1 0 1 0 0 3895.dat
+1 72 -210 -344 280 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -140 -344 270 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 -140 -344 190 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 -120 -344 130 1 0 0 0 1 0 0 0 1 3010.dat
+1 72 -100 -344 50 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 -100 -344 -50 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 -120 -344 -130 1 0 0 0 1 0 0 0 1 3010.dat
+1 72 -140 -344 -190 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 -140 -344 -270 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 -190 -344 180 0 0 -1 0 1 0 1 0 0 3895.dat
+1 0 -200 -333 100 1 0 0 0 1 0 0 0 1 2780.dat
+1 0 -200 -333 80 1 0 0 0 1 0 0 0 1 2780.dat
+1 0 -200 -333 -80 1 0 0 0 1 0 0 0 1 2780.dat
+1 0 -200 -333 -100 1 0 0 0 1 0 0 0 1 2780.dat
+1 0 -220 -333 0 1 0 0 0 1 0 0 0 1 2780.dat
+1 0 -220 -333 20 1 0 0 0 1 0 0 0 1 2780.dat
+1 0 -220 -333 -20 1 0 0 0 1 0 0 0 1 2780.dat
+1 0 -230 -333 0 0 1 0 -1 0 0 0 0 1 32316.dat
+1 71 -30 -288 -10 0 0 -1 0 1 0 1 0 0 42446.dat
+1 71 -110 -288 -250 0 0 -1 0 1 0 1 0 0 42446.dat
+1 71 -96 -278 -250 0 1 0 0 0 1 1 0 0 30374.dat
+1 71 -16 -278 -10 0 1 0 0 0 1 1 0 0 30374.dat
+1 71 -36 -278 150 0 1 0 0 0 1 1 0 0 30374.dat
+1 71 -176 -278 370 0 1 0 0 0 1 1 0 0 30374.dat
+1 71 -40 -270 230 0 -1 0 1 0 0 0 0 1 2335.dat
+1 71 -60 -256 -60 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -60 -256 0 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -60 -256 60 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -60 -256 140 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -80 -256 220 1 0 0 0 1 0 0 0 1 3020.dat
+1 71 -140 -256 300 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -180 -256 400 1 0 0 0 1 0 0 0 1 3020.dat
+1 71 -210 -288 0 0 0 -1 0 1 0 1 0 0 3023.dat
+1 72 -210 -280 0 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -210 -312 0 0 0 -1 0 1 0 1 0 0 3004.dat
+1 71 10 -224 -70 0 0 -1 0 1 0 1 0 0 42446.dat
+1 71 -150 -224 350 0 0 -1 0 1 0 1 0 0 42446.dat
+1 71 -136 -214 350 0 1 0 0 0 1 1 0 0 30374.dat
+1 71 24 -214 -70 0 1 0 0 0 1 1 0 0 30374.dat
+1 71 -136 -214 -350 0 1 0 0 0 1 1 0 0 30374.dat
+1 72 -210 -216 280 0 0 -1 0 1 0 1 0 0 2465.dat
+1 72 -70 -216 -180 0 0 -1 0 1 0 1 0 0 52038.dat
+1 71 -60 -206 -190 0 1 0 0 0 1 1 0 0 30374.dat
+1 71 -68 -206 210 0 1 0 0 0 1 1 0 0 30374.dat
+1 71 -60 -206 150 0 -1 0 0 0 1 -1 0 0 2569.dat
+1 71 30 -206 -120 1 0 0 0 0 1 0 -1 0 2569.dat
+1 71 -52 -186 -210 0 -1 0 0 0 1 -1 0 0 2569.dat
+1 72 -80 -200 -350 1 0 0 0 1 0 0 0 1 4175.dat
+1 0 30 -200 -110 1 0 0 0 1 0 0 0 1 2555.dat
+1 71 -10 -200 -250 0 0 1 0 1 0 -1 0 0 4592.dat
+1 71 -10 -200 -250 0 0 1 0 1 0 -1 0 0 4593.dat
+1 71 -10 -200 250 0 0 1 0 1 0 -1 0 0 4592.dat
+1 71 -10 -200 250 0 0 1 0 1 0 -1 0 0 4593.dat
+1 72 -70 -216 180 0 0 -1 0 1 0 1 0 0 52038.dat
+1 0 -130 -184 -420 0 0 -1 0 1 0 1 0 0 30236.dat
+1 72 -210 -184 -420 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -130 -184 -340 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -50 -184 -340 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -50 -184 -260 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -50 -184 -180 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -50 -184 -100 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -10 -184 0 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 70 -184 0 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 30 -184 180 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -50 -184 100 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -50 -184 180 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -50 -184 260 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -130 -184 340 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -130 -184 420 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -210 -184 420 0 0 -1 0 1 0 1 0 0 3004.dat
+1 71 -160 -192 420 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -100 -192 340 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -40 -192 260 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 0 -192 180 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 20 -192 100 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 20 -192 0 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 20 -192 -100 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 0 -192 -180 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -40 -192 -260 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -100 -192 -340 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 -160 -192 -420 1 0 0 0 1 0 0 0 1 3034.dat
+1 72 20 -184 -250 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 20 -184 -110 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 20 -184 110 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 20 -184 250 1 0 0 0 1 0 0 0 1 3004.dat
+1 0 30 -184 -180 0 0 -1 0 1 0 1 0 0 30236.dat
+1 0 -50 -184 340 0 0 -1 0 1 0 1 0 0 30236.dat
+1 71 -97 -150 410 0 1 0 0 0 1 1 0 0 30374.dat
+1 71 -17 -150 290 0 1 0 0 0 1 1 0 0 30374.dat
+1 71 47 -150 150 0 1 0 0 0 1 1 0 0 30374.dat
+1 71 20 -160 -180 0 0 1 0 1 0 -1 0 0 3034.dat
+1 71 -120 -160 -380 0 0 1 0 1 0 -1 0 0 3034.dat
+1 71 -200 -160 -420 0 0 1 0 1 0 -1 0 0 3034.dat
+1 72 -30 -152 120 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 -30 -152 -120 0 0 1 0 1 0 -1 0 0 3004.dat
+1 72 90 -120 -120 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 90 -120 -40 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 90 -120 40 0 0 -1 0 1 0 1 0 0 3004.dat
+1 0 50 -120 -200 0 0 -1 0 1 0 1 0 0 30236.dat
+1 0 90 -120 120 0 0 -1 0 1 0 1 0 0 30236.dat
+1 72 -200 -120 -350 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 40 -120 -270 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 71 -120 -96 -420 0 0 -1 0 1 0 1 0 0 3034.dat
+1 71 -40 -96 -280 0 0 -1 0 1 0 1 0 0 4282.dat
+1 71 40 -96 -200 0 0 -1 0 1 0 1 0 0 3034.dat
+1 71 0 -96 0 0 0 -1 0 1 0 1 0 0 4282.dat
+1 71 100 -96 0 0 0 -1 0 1 0 1 0 0 4282.dat
+1 71 40 -96 200 0 0 -1 0 1 0 1 0 0 3034.dat
+1 72 50 -104 200 0 0 -1 0 1 0 1 0 0 4175.dat
+1 0 110 -104 70 1 0 0 0 1 0 0 0 1 2555.dat
+1 71 50 -96 -250 0 0 -1 0 1 0 1 0 0 42446.dat
+1 71 -30 -96 -390 0 0 -1 0 1 0 1 0 0 42446.dat
+1 71 -16 -86 -390 0 1 0 0 0 1 1 0 0 30374.dat
+1 71 64 -86 -250 0 1 0 0 0 1 1 0 0 30374.dat
+1 71 110 -110 80 -1 0 0 0 0 1 0 1 0 2569.dat
+1 71 -40 -96 280 0 0 -1 0 1 0 1 0 0 4282.dat
+1 71 -120 -96 420 0 0 -1 0 1 0 1 0 0 3034.dat
+1 71 -200 -96 420 0 0 -1 0 1 0 1 0 0 3034.dat
+1 72 -200 -88 -470 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -120 -88 -470 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 20 -88 150 -1 0 0 0 1 0 0 0 -1 3010.dat
+1 72 -30 -88 160 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -10 -88 80 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -10 -88 0 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 90 -88 0 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -10 -88 -80 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -30 -88 -160 0 0 -1 0 1 0 1 0 0 3004.dat
+1 72 -100 -56 -470 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -70 -56 -240 0 0 1 0 1 0 -1 0 0 3004.dat
+1 0 10 -56 320 0 0 -1 0 1 0 1 0 0 30236.dat
+1 0 10 -56 -320 0 0 -1 0 1 0 1 0 0 30236.dat
+1 71 30 -46 -300 0 0 1 -1 0 0 0 -1 0 2335.dat
+1 71 -110 -174 -400 0 0 1 -1 0 0 0 -1 0 2335.dat
+1 71 -70 -238 -280 0 0 1 -1 0 0 0 -1 0 2335.dat
+1 71 -50 -302 -181 0 0 1 -1 0 0 0 -1 0 2335.dat
+1 71 -110 -366 -141 0 0 1 -1 0 0 0 -1 0 2335.dat
+1 71 -70 -366 20 0 0 1 -1 0 0 0 -1 0 2335.dat
+1 71 -130 -430 60 0 0 1 -1 0 0 0 -1 0 2335.dat
+1 71 10 -238 80 0 0 1 -1 0 0 0 -1 0 2335.dat
+1 71 -150 -238 420 0 0 1 -1 0 0 0 -1 0 2335.dat
+1 71 50 -174 -160 0 0 1 -1 0 0 0 -1 0 2335.dat
+1 71 -30 -174 360 0 0 1 -1 0 0 0 -1 0 2335.dat
+1 71 70 -110 -180 0 0 1 -1 0 0 0 -1 0 2335.dat
+1 71 110 -110 140 0 0 1 -1 0 0 0 -1 0 2335.dat
+1 71 30 -46 340 0 0 1 -1 0 0 0 -1 0 2335.dat
+1 72 -200 -56 350 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 72 -100 -56 470 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 71 -200 -32 520 -1 0 0 0 1 0 0 0 -1 3020.dat
+1 72 -100 -24 -450 1 0 0 0 1 0 0 0 1 3004.dat
+1 72 -40 -24 50 1 0 0 0 1 0 0 0 1 2465.dat
+1 71 80 -24 0 1 0 0 0 1 0 0 0 1 3006.dat
+1 0 -220 -14 0 1 0 0 0 1 0 0 0 1 2780.dat
+1 0 -220 -14 20 1 0 0 0 1 0 0 0 1 2780.dat
+1 0 -220 -14 -20 1 0 0 0 1 0 0 0 1 2780.dat
+1 0 -230 -14 0 0 -1 0 1 0 0 0 0 1 32316.dat
+
+
+
+0 FILE 10143 - Construction_Top.ldr
+0 Construction_Top
+0 Name: 10143 - Construction_Top.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 72 -30 0 0 0 0 -1 0 1 0 1 0 0 30363.dat
+1 72 -30 -8 0 0 0 -1 0 1 0 1 0 0 44567.dat
+1 72 -10 -6 0 0.92388 -0.382683 0 0.382683 0.92388 0 0 0 1 10143 - Construction_Top_AP.ldr
+
+
+
+0 FILE 10143 - Construction_Top_AP.ldr
+0 Construction_Top_AP
+0 Name: 10143 - Construction_Top_AP.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 72 30 -2 0 -1 0 0 0 1 0 0 0 -1 44302.dat
+1 71 70 -10 0 -1 0 0 0 1 0 0 0 -1 3710.dat
+1 71 90 -18 0 -1 0 0 0 1 0 0 0 -1 3460.dat
+1 71 20 -10 -10 0 0 -1 0 1 0 1 0 0 3710.dat
+
+
+
+0 FILE 10143 - Top-337.5.ldr
+0 Top-337.5
+0 Name: 10143 - Top-337.5.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 71 -50 -2 20 1 0 0 0 1 0 0 0 1 44568.dat
+1 71 50 -2 20 1 0 0 0 1 0 0 0 1 44568.dat
+1 72 60 -2 40 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 20 -2 40 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -20 -2 40 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -60 -2 40 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -60 -2 60 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -20 -2 60 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 20 -2 60 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 60 -2 60 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -60 -2 160 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -60 -2 180 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -20 -2 180 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -20 -2 160 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 20 -2 180 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 20 -2 160 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 60 -2 180 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 60 -2 160 1 0 0 0 1 0 0 0 1 3794a.dat
+1 71 20 -10 50 0 0 1 0 1 0 -1 0 0 3710.dat
+1 71 60 -10 80 0 0 1 0 1 0 -1 0 0 3623.dat
+1 71 -10 -10 90 0 0 1 0 1 0 -1 0 0 3034.dat
+1 71 -70 -10 100 -1 0 0 0 1 0 0 0 -1 2413.dat
+1 71 0 16 200 1 0 0 0 0.92388 0.382683 0 -0.382683 0.92388 10143 - Top-337.5_Mid.ldr
+1 71 20 -10 150 0 0 1 0 1 0 -1 0 0 3023.dat
+1 71 70 -10 30 -1 0 0 0 1 0 0 0 -1 3020.dat
+1 71 30 -10 180 -1 0 0 0 1 0 0 0 -1 3666.dat
+1 71 50 -10 160 -1 0 0 0 1 0 0 0 -1 3023.dat
+1 72 0 6 20 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 40 6 20 1 0 0 0 1 0 0 0 1 3794a.dat
+1 0 0 6 50 1 0 0 0 1 0 0 0 1 3034.dat
+1 0 0 6 170 1 0 0 0 1 0 0 0 1 3034.dat
+1 72 -40 6 20 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 0 14 40 -1 0 0 0 1 0 0 0 -1 2419.dat
+1 72 10 14 170 0 0 -1 0 1 0 1 0 0 44302.dat
+1 72 -10 14 170 0 0 -1 0 1 0 1 0 0 44302.dat
+1 0 0 22 110 0 0 -1 0 1 0 1 0 0 3034.dat
+
+
+
+0 FILE 10143 - Top-337.5_Mid.ldr
+0 Top-337.5_Mid
+0 Name: 10143 - Top-337.5_Mid.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 71 10 -2 30 0 0 1 0 1 0 -1 0 0 44301.dat
+1 72 10 -2 210 0 0 -1 0 1 0 1 0 0 44302.dat
+1 72 -10 -2 210 0 0 -1 0 1 0 1 0 0 44302.dat
+1 0 -20 -10 110 0 0 -1 0 1 0 1 0 0 3030.dat
+1 71 10 -18 40 1 0 0 0 1 0 0 0 1 3623.dat
+1 71 40 -18 60 1 0 0 0 1 0 0 0 1 3710.dat
+1 71 0 -18 80 1 0 0 0 1 0 0 0 1 3023.dat
+1 71 30 -18 100 1 0 0 0 1 0 0 0 1 3623.dat
+1 71 10 -18 120 1 0 0 0 1 0 0 0 1 3623.dat
+1 71 0 -18 150 1 0 0 0 1 0 0 0 1 3022.dat
+1 71 20 -18 180 1 0 0 0 1 0 0 0 1 3710.dat
+1 71 0 -18 210 1 0 0 0 1 0 0 0 1 3020.dat
+1 71 -70 -18 110 -1 0 0 0 1 0 0 0 -1 47397.dat
+1 71 20 -18 10 1 0 0 0 1 0 0 0 1 3020.dat
+1 71 -30 -18 20 0 0 1 0 1 0 -1 0 0 3623.dat
+1 71 -10 -2 30 0 0 1 0 1 0 -1 0 0 44301.dat
+1 0 0 6 110 0 0 1 0 1 0 -1 0 0 3832.dat
+1 0 0 0 240 1 0 0 0 0.92388 0.382683 0 -0.382683 0.92388 10143 - Top-337.5_Mid_End.ldr
+
+
+
+0 FILE 10143 - Top-337.5_Mid_End.ldr
+0 Top-337.5_Mid_End
+0 Name: 10143 - Top-337.5_Mid_End.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 71 10 -2 30 0 0 1 0 1 0 -1 0 0 44301.dat
+1 71 -10 -2 30 0 0 1 0 1 0 -1 0 0 44301.dat
+1 0 0 -10 90 0 0 1 0 1 0 -1 0 0 3034.dat
+1 71 10 -18 60 0 0 1 0 1 0 -1 0 0 3623.dat
+1 71 10 -18 150 0 0 1 0 1 0 -1 0 0 3710.dat
+1 71 -30 -18 110 -1 0 0 0 1 0 0 0 -1 47397.dat
+1 71 30 -18 10 -1 0 0 0 1 0 0 0 -1 3021.dat
+1 71 20 -18 100 -1 0 0 0 1 0 0 0 -1 3023.dat
+
+
+
+0 FILE 10143 - Top-202.5.ldr
+0 Top-202.5
+0 Name: 10143 - Top-202.5.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 71 50 -2 20 1 0 0 0 1 0 0 0 1 44568.dat
+1 71 -50 -2 20 1 0 0 0 1 0 0 0 1 44568.dat
+1 71 -20 -10 50 0 0 1 0 1 0 -1 0 0 3710.dat
+1 71 -60 -10 80 0 0 1 0 1 0 -1 0 0 3623.dat
+1 71 -20 -10 150 0 0 1 0 1 0 -1 0 0 3023.dat
+1 71 10 -10 90 0 0 1 0 1 0 -1 0 0 3034.dat
+1 71 -70 -10 30 -1 0 0 0 1 0 0 0 -1 3020.dat
+1 71 -50 -10 160 -1 0 0 0 1 0 0 0 -1 3023.dat
+1 71 -30 -10 180 -1 0 0 0 1 0 0 0 -1 3666.dat
+1 71 70 -10 100 -1 0 0 0 1 0 0 0 -1 2413.dat
+1 71 0 16 200 1 0 0 0 0.92388 0.382683 0 -0.382683 0.92388 10143 - Top-202.5_Mid.ldr
+1 72 -60 -2 40 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -60 -2 60 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -20 -2 40 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -20 -2 60 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 20 -2 40 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 20 -2 60 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 60 -2 40 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 60 -2 60 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -60 -2 160 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -60 -2 180 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -20 -2 160 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -20 -2 180 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 20 -2 180 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 20 -2 160 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 60 -2 180 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 60 -2 160 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 0 6 20 1 0 0 0 1 0 0 0 1 3794a.dat
+1 0 0 6 50 1 0 0 0 1 0 0 0 1 3034.dat
+1 0 0 6 170 1 0 0 0 1 0 0 0 1 3034.dat
+1 72 -40 6 20 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 40 6 20 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 0 14 40 -1 0 0 0 1 0 0 0 -1 2419.dat
+1 0 0 22 110 0 0 -1 0 1 0 1 0 0 3034.dat
+1 72 10 14 170 0 0 -1 0 1 0 1 0 0 44302.dat
+1 72 -10 14 170 0 0 -1 0 1 0 1 0 0 44302.dat
+
+
+
+0 FILE 10143 - Top-202.5_Mid.ldr
+0 Top-202.5_Mid
+0 Name: 10143 - Top-202.5_Mid.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 71 10 -2 30 0 0 1 0 1 0 -1 0 0 44301.dat
+1 72 -10 -2 210 0 0 -1 0 1 0 1 0 0 44302.dat
+1 72 10 -2 210 0 0 -1 0 1 0 1 0 0 44302.dat
+1 0 20 -10 110 0 0 -1 0 1 0 1 0 0 3030.dat
+1 71 -10 -18 40 1 0 0 0 1 0 0 0 1 3623.dat
+1 71 -20 -18 10 1 0 0 0 1 0 0 0 1 3020.dat
+1 71 -40 -18 60 1 0 0 0 1 0 0 0 1 3710.dat
+1 71 0 -18 80 1 0 0 0 1 0 0 0 1 3023.dat
+1 71 -30 -18 100 1 0 0 0 1 0 0 0 1 3623.dat
+1 71 -10 -18 120 1 0 0 0 1 0 0 0 1 3623.dat
+1 71 0 -18 150 1 0 0 0 1 0 0 0 1 3022.dat
+1 71 -20 -18 180 1 0 0 0 1 0 0 0 1 3710.dat
+1 71 0 -18 210 1 0 0 0 1 0 0 0 1 3020.dat
+1 71 0 0 240 1 0 0 0 0.92388 0.382683 0 -0.382683 0.92388 10143 - Top-202.5_Mid_End.ldr
+1 71 30 -18 20 0 0 1 0 1 0 -1 0 0 3623.dat
+1 71 70 -18 110 -1 0 0 0 1 0 0 0 -1 47398.dat
+1 71 -10 -2 30 0 0 1 0 1 0 -1 0 0 44301.dat
+1 0 0 6 110 0 0 1 0 1 0 -1 0 0 3832.dat
+
+
+
+0 FILE 10143 - Top-202.5_Mid_End.ldr
+0 Top-202.5_Mid_End
+0 Name: 10143 - Top-202.5_Mid_End.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 71 10 -2 30 0 0 1 0 1 0 -1 0 0 44301.dat
+1 71 -10 -2 30 0 0 1 0 1 0 -1 0 0 44301.dat
+1 0 0 -10 90 0 0 1 0 1 0 -1 0 0 3034.dat
+1 71 -10 -18 60 0 0 1 0 1 0 -1 0 0 3623.dat
+1 71 -10 -18 150 0 0 1 0 1 0 -1 0 0 3710.dat
+1 71 -30 -18 10 -1 0 0 0 1 0 0 0 -1 3021.dat
+1 71 -20 -18 100 -1 0 0 0 1 0 0 0 -1 3023.dat
+1 71 30 -18 110 -1 0 0 0 1 0 0 0 -1 47398.dat
+
+
+
+0 FILE 10143 - Top-000.0.ldr
+0 Top-000.0
+0 Name: 10143 - Top-000.0.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 71 50 -2 20 1 0 0 0 1 0 0 0 1 44568.dat
+1 71 20 -10 40 0 0 1 0 1 0 -1 0 0 3623.dat
+1 71 20 -10 130 0 0 1 0 1 0 -1 0 0 3666.dat
+1 71 -20 -10 30 -1 0 0 0 1 0 0 0 -1 3021.dat
+1 71 -80 -10 30 -1 0 0 0 1 0 0 0 -1 3021.dat
+1 71 -50 -10 60 -1 0 0 0 1 0 0 0 -1 3666.dat
+1 71 -50 -10 130 -1 0 0 0 1 0 0 0 -1 6106.dat
+1 71 70 -10 100 -1 0 0 0 1 0 0 0 -1 2413.dat
+1 71 -50 -2 20 1 0 0 0 1 0 0 0 1 44568.dat
+1 72 0 6 20 1 0 0 0 1 0 0 0 1 3794a.dat
+1 71 0 6 40 1 0 0 0 1 0 0 0 1 3460.dat
+1 71 0 6 70 1 0 0 0 1 0 0 0 1 3034.dat
+1 72 0 -2 40 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 0 -2 60 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -60 -2 40 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -60 -2 60 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 60 -2 40 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 60 -2 60 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -60 -2 80 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -20 -2 80 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 20 -2 80 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 60 -2 80 1 0 0 0 1 0 0 0 1 3794a.dat
+1 19 -30 -2 50 0 0 1 0 1 0 -1 0 0 3069b.dat
+1 19 30 -2 50 0 0 1 0 1 0 -1 0 0 3069b.dat
+1 72 40 6 20 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -40 6 20 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 0 14 40 -1 0 0 0 1 0 0 0 -1 2419.dat
+1 0 0 22 60 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 0 0 22 180 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 0 0 22 160 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 71 0 14 170 -1 0 0 0 1 0 0 0 -1 3022.dat
+1 72 40 6 170 -1 0 0 0 1 0 0 0 -1 3795.dat
+1 72 0 -2 180 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 0 -2 160 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 80 -2 180 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 80 -2 160 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 0 0 22 40 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 0 0 32 110 0 0 -1 0 1 0 1 0 0 3737.dat
+1 0 0 32 220 1 0 0 0 0.92388 0.382683 0 -0.382683 0.92388 10143 - Top-000.0_Mid.ldr
+1 71 0 32 20 1 0 0 0 1 0 0 0 1 3713.dat
+
+
+
+0 FILE 10143 - Top-000.0_Mid.ldr
+0 Top-000.0_Mid
+0 Name: 10143 - Top-000.0_Mid.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 -1 0 0 0 -1 32016.dat
+1 0 0 0 110 0 0 -1 0 1 0 1 0 0 3737.dat
+1 0 0 -10 170 1 0 0 0 1 0 0 0 1 32064a.dat
+1 71 20 -18 170 1 0 0 0 1 0 0 0 1 3710.dat
+1 71 20 -18 130 1 0 0 0 1 0 0 0 1 3710.dat
+1 71 20 -26 160 0 0 1 0 1 0 -1 0 0 3020.dat
+1 71 -40 -26 160 0 0 1 0 1 0 -1 0 0 30503.dat
+1 71 0 -26 80 1 0 0 0 1 0 0 0 1 41769.dat
+1 71 0 -26 0 -1 0 0 0 1 0 0 0 -1 41770.dat
+1 71 70 -26 80 -1 0 0 0 1 0 0 0 -1 47398.dat
+1 71 0 0 220 1 0 0 0 0.92388 0.382683 0 -0.382683 0.92388 10143 - Top-000.0_Mid_End.ldr
+1 71 30 -26 40 0 0 1 0 1 0 -1 0 0 3460.dat
+1 71 30 -18 100 1 0 0 0 1 0 0 0 1 3021.dat
+1 72 40 -18 40 1 0 0 0 1 0 0 0 1 3031.dat
+1 19 40 -10 100 0 0 1 0 1 0 -1 0 0 3007.dat
+1 0 0 -10 130 1 0 0 0 1 0 0 0 1 32064a.dat
+1 71 0 0 185 1 0 0 0 1 0 0 0 1 32123a.dat
+1 71 20 14 170 1 0 0 0 1 0 0 0 1 3710.dat
+1 71 0 14 130 1 0 0 0 1 0 0 0 1 3710.dat
+
+
+
+0 FILE 10143 - Top-000.0_Mid_End.ldr
+0 Top-000.0_Mid_End
+0 Name: 10143 - Top-000.0_Mid_End.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 -1 0 0 0 -1 32016.dat
+1 71 0 0 35 1 0 0 0 -1 0 0 0 -1 32123a.dat
+1 0 0 0 90 0 0 -1 0 1 0 1 0 0 3707.dat
+1 1 0 0 180 1 0 0 0 1 0 0 0 1 32034.dat
+1 19 10 0 180 0 1 0 -1 0 0 0 0 1 3062b.dat
+1 19 -10 0 180 0 -1 0 -1 0 0 0 0 -1 3062b.dat
+1 71 0 0 220 0 0 1 0 1 0 -1 0 0 4519.dat
+1 0 0 0 260 -1 0 0 0 -1 0 0 0 1 32016.dat
+1 0 0 -10 50 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 -10 70 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 -10 90 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 -10 110 1 0 0 0 1 0 0 0 1 32064a.dat
+1 71 30 -18 100 -1 0 0 0 1 0 0 0 -1 47398.dat
+1 71 -30 -18 100 -1 0 0 0 1 0 0 0 -1 47397.dat
+
+
+
+0 FILE 10143 - Top-045.0.ldr
+0 Top-045.0
+0 Name: 10143 - Top-045.0.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 71 50 -2 20 1 0 0 0 1 0 0 0 1 44568.dat
+1 71 -50 -2 20 1 0 0 0 1 0 0 0 1 44568.dat
+1 71 -20 -10 40 0 0 1 0 1 0 -1 0 0 3623.dat
+1 71 -20 -10 130 0 0 1 0 1 0 -1 0 0 3666.dat
+1 71 20 -10 30 -1 0 0 0 1 0 0 0 -1 3021.dat
+1 71 80 -10 30 -1 0 0 0 1 0 0 0 -1 3021.dat
+1 71 50 -10 60 -1 0 0 0 1 0 0 0 -1 3666.dat
+1 71 50 -10 130 0 0 -1 0 1 0 1 0 0 6106.dat
+1 71 -70 -10 100 -1 0 0 0 1 0 0 0 -1 2413.dat
+1 72 -60 -2 40 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -60 -2 60 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -60 -2 80 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 60 -2 40 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 60 -2 60 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 60 -2 80 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 0 -2 40 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 0 -2 60 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -20 -2 80 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 20 -2 80 1 0 0 0 1 0 0 0 1 3794a.dat
+1 19 -30 -2 50 0 0 1 0 1 0 -1 0 0 3069b.dat
+1 19 30 -2 50 0 0 1 0 1 0 -1 0 0 3069b.dat
+1 72 0 6 20 1 0 0 0 1 0 0 0 1 3794a.dat
+1 71 0 6 40 1 0 0 0 1 0 0 0 1 3460.dat
+1 71 0 6 70 1 0 0 0 1 0 0 0 1 3034.dat
+1 72 -40 6 20 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 40 6 20 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 0 14 40 -1 0 0 0 1 0 0 0 -1 2419.dat
+1 0 0 22 60 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 0 0 22 40 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 0 0 22 180 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 0 0 22 160 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 71 0 14 170 -1 0 0 0 1 0 0 0 -1 3022.dat
+1 72 -40 6 170 -1 0 0 0 1 0 0 0 -1 3795.dat
+1 72 0 -2 180 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 0 -2 160 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 -80 -2 180 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 72 -80 -2 160 -1 0 0 0 1 0 0 0 -1 3794a.dat
+1 0 0 32 110 0 0 -1 0 1 0 1 0 0 3737.dat
+1 0 0 32 220 1 0 0 0 0.92388 0.382683 0 -0.382683 0.92388 10143 - Top-045.0_Mid.ldr
+1 71 0 32 20 1 0 0 0 1 0 0 0 1 3713.dat
+
+
+
+0 FILE 10143 - Top-045.0_Mid.ldr
+0 Top-045.0_Mid
+0 Name: 10143 - Top-045.0_Mid.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 -1 0 0 0 -1 32016.dat
+1 0 0 0 110 0 0 -1 0 1 0 1 0 0 3737.dat
+1 0 0 0 220 1 0 0 0 0.92388 0.382683 0 -0.382683 0.92388 10143 - Top-045.0_Mid_End.ldr
+1 71 0 0 185 1 0 0 0 1 0 0 0 1 32123a.dat
+1 0 0 -10 170 1 0 0 0 1 0 0 0 1 32064a.dat
+1 19 -40 -10 100 0 0 1 0 1 0 -1 0 0 3007.dat
+1 71 -20 -18 170 -1 0 0 0 1 0 0 0 -1 3710.dat
+1 71 -20 -18 130 -1 0 0 0 1 0 0 0 -1 3710.dat
+1 71 -30 -18 100 -1 0 0 0 1 0 0 0 -1 3021.dat
+1 71 -20 -26 160 0 0 -1 0 1 0 1 0 0 3020.dat
+1 71 40 -26 160 1 0 0 0 1 0 0 0 1 30503.dat
+1 71 0 -26 80 1 0 0 0 1 0 0 0 1 41770.dat
+1 71 0 -26 0 -1 0 0 0 1 0 0 0 -1 41769.dat
+1 71 -30 -26 40 0 0 -1 0 1 0 1 0 0 3460.dat
+1 71 -70 -26 80 -1 0 0 0 1 0 0 0 -1 47397.dat
+1 72 -40 -18 40 -1 0 0 0 1 0 0 0 -1 3031.dat
+1 0 0 -10 130 1 0 0 0 1 0 0 0 1 32064a.dat
+1 71 -20 14 170 1 0 0 0 1 0 0 0 1 3710.dat
+1 71 0 14 130 1 0 0 0 1 0 0 0 1 3710.dat
+
+
+
+0 FILE 10143 - Top-045.0_Mid_End.ldr
+0 Top-045.0_Mid_End
+0 Name: 10143 - Top-045.0_Mid_End.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 -1 0 0 0 -1 32016.dat
+1 1 0 0 180 1 0 0 0 -1 0 0 0 -1 32034.dat
+1 19 10 0 180 0 1 0 1 0 0 0 0 -1 3062b.dat
+1 19 -10 0 180 0 -1 0 1 0 0 0 0 1 3062b.dat
+1 0 0 0 260 -1 0 0 0 -1 0 0 0 1 32016.dat
+1 71 0 0 220 0 0 -1 0 -1 0 -1 0 0 4519.dat
+1 71 0 0 35 1 0 0 0 -1 0 0 0 -1 32123a.dat
+1 0 0 0 90 0 0 -1 0 1 0 1 0 0 3707.dat
+1 0 0 -10 50 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 -10 70 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 -10 90 1 0 0 0 1 0 0 0 1 32064a.dat
+1 71 -30 -18 100 -1 0 0 0 1 0 0 0 -1 47397.dat
+1 71 30 -18 100 -1 0 0 0 1 0 0 0 -1 47398.dat
+1 0 0 -10 110 1 0 0 0 1 0 0 0 1 32064a.dat
+
+
+
+0 FILE 10143 - Top-022.5.ldr
+0 Top-022.5
+0 Name: 10143 - Top-022.5.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 71 50 -2 20 1 0 0 0 1 0 0 0 1 44568.dat
+1 72 0 14 40 -1 0 0 0 1 0 0 0 -1 2419.dat
+1 71 -30 22 30 0 0 -1 0 1 0 1 0 0 3023.dat
+1 71 30 22 30 0 0 -1 0 1 0 1 0 0 3023.dat
+1 0 0 22 20 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 30 30 0 0 1 0 1 0 -1 0 0 4871.dat
+1 4 0 32 30 0 0 1 0 1 0 -1 0 0 32062.dat
+1 4 0 32 60 1 0 0 0 0.707107 0.707107 0 -0.707107 0.707107 10143 - Top-022.5_AP1.ldr
+1 71 -50 -2 20 1 0 0 0 1 0 0 0 1 44568.dat
+1 71 0 -2 60 1 0 0 0 1 0 0 0 1 3710.dat
+1 71 -70 -2 70 1 0 0 0 1 0 0 0 1 3021.dat
+1 71 70 -2 70 1 0 0 0 1 0 0 0 1 3021.dat
+1 71 0 -10 30 1 0 0 0 1 0 0 0 1 3021.dat
+1 71 70 -10 30 1 0 0 0 1 0 0 0 1 3020.dat
+1 71 -70 -10 30 1 0 0 0 1 0 0 0 1 3020.dat
+1 71 0 -10 70 1 0 0 0 1 0 0 0 1 3022.dat
+1 71 60 -10 60 1 0 0 0 1 0 0 0 1 3710.dat
+1 71 -60 -10 60 1 0 0 0 1 0 0 0 1 3710.dat
+1 71 60 -10 90 0 0 1 0 1 0 -1 0 0 41769.dat
+1 71 -60 -10 90 0 0 -1 0 1 0 1 0 0 41770.dat
+1 72 -60 -2 40 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -20 -2 40 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 20 -2 40 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 60 -2 40 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 0 6 20 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -40 6 20 1 0 0 0 1 0 0 0 1 3794a.dat
+1 19 -50 6 60 0 0 -1 0 1 0 1 0 0 2450.dat
+1 19 50 6 60 -1 0 0 0 1 0 0 0 -1 2450.dat
+1 71 0 6 50 -1 0 0 0 1 0 0 0 -1 3022.dat
+1 72 40 6 20 1 0 0 0 1 0 0 0 1 3794a.dat
+
+
+
+0 FILE 10143 - Top-022.5_AP1.ldr
+0 Top-022.5_AP1
+0 Name: 10143 - Top-022.5_AP1.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 4 0 0 0 1 0 0 0 -1 0 0 0 -1 32192.dat
+1 4 0 0 30 0 0 -1 0 1 0 1 0 0 32062.dat
+1 4 0 0 60 1 0 0 0 0.92388 -0.382684 0 0.382684 0.92388 10143 - Top-022.5_AP1_Mid.ldr
+
+
+
+0 FILE 10143 - Top-022.5_AP1_Mid.ldr
+0 Top-022.5_AP1_Mid
+0 Name: 10143 - Top-022.5_AP1_Mid.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 -1 0 0 0 1 0 0 0 -1 32016.dat
+1 0 0 0 280 1 0 0 0 0.382683 -0.92388 0 0.92388 0.382683 10143 - Top-022.5_AP1_Mid_AP2.ldr
+1 14 0 0 170 1 0 0 0 -1 0 0 0 -1 6538b.dat
+1 71 0 0 145 1 0 0 0 -1 0 0 0 -1 32123a.dat
+1 0 0 0 90 0 0 -1 0 1 0 1 0 0 3707.dat
+1 0 0 10 130 -1 0 0 0 -1 0 0 0 1 32064a.dat
+1 0 0 10 110 -1 0 0 0 -1 0 0 0 1 32064a.dat
+1 72 0 -14 120 -1 0 0 0 -1 0 0 0 1 3961.dat
+1 72 0 -38 120 -1 0 0 0 -1 0 0 0 1 3961.dat
+1 42 0 -46 120 -1 0 0 0 -1 0 0 0 1 3062b.dat
+1 42 0 -70 120 -1 0 0 0 -1 0 0 0 1 3062b.dat
+1 42 0 -94 120 -1 0 0 0 -1 0 0 0 1 3062b.dat
+1 42 0 -118 120 -1 0 0 0 -1 0 0 0 1 3062b.dat
+1 42 0 -142 120 -1 0 0 0 -1 0 0 0 1 3062b.dat
+1 42 0 -166 120 -1 0 0 0 -1 0 0 0 1 3062b.dat
+1 42 0 -190 120 -1 0 0 0 -1 0 0 0 1 3062b.dat
+1 42 0 -214 120 -1 0 0 0 -1 0 0 0 1 3062b.dat
+1 42 0 -238 120 -1 0 0 0 -1 0 0 0 1 3062b.dat
+1 42 0 -262 120 -1 0 0 0 -1 0 0 0 1 3062b.dat
+1 42 0 -286 120 -1 0 0 0 -1 0 0 0 1 3062b.dat
+1 42 0 -310 120 -1 0 0 0 -1 0 0 0 1 3062b.dat
+1 42 0 -334 120 -1 0 0 0 -1 0 0 0 1 3062b.dat
+1 42 0 -358 120 -1 0 0 0 -1 0 0 0 1 3062b.dat
+1 42 0 -382 120 -1 0 0 0 -1 0 0 0 1 3062b.dat
+1 42 0 -406 120 -1 0 0 0 -1 0 0 0 1 3062b.dat
+1 42 0 -430 120 -1 0 0 0 -1 0 0 0 1 3062b.dat
+1 42 0 -454 120 -1 0 0 0 -1 0 0 0 1 3062b.dat
+1 42 0 -478 120 -1 0 0 0 -1 0 0 0 1 3062b.dat
+1 42 0 -502 120 -1 0 0 0 -1 0 0 0 1 3062b.dat
+1 42 0 -526 120 -1 0 0 0 -1 0 0 0 1 3062b.dat
+1 42 0 -550 120 -1 0 0 0 -1 0 0 0 1 3062b.dat
+1 42 0 -574 120 -1 0 0 0 -1 0 0 0 1 3062b.dat
+1 42 0 -598 120 -1 0 0 0 -1 0 0 0 1 3062b.dat
+1 71 0 -22 120 -1 0 0 0 -1 0 0 0 1 44375a.dat
+1 71 0 -30 120 -1 0 0 0 -1 0 0 0 1 44375a.dat
+1 71 154 -56 90 0 1 0 0 0 1 1 0 0 10143 - Dish_01.ldr
+1 71 0 0 220 0 0 -1 0 1 0 1 0 0 32073.dat
+
+
+
+0 FILE 10143 - Top-022.5_AP1_Mid_AP2.ldr
+0 Top-022.5_AP1_Mid_AP2
+0 Name: 10143 - Top-022.5_AP1_Mid_AP2.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 19 0 0 0 -1 0 0 0 1 0 0 0 -1 32015.dat
+1 4 0 0 30 0 0 -1 0 1 0 1 0 0 32062.dat
+1 4 0 0 60 1 0 0 0 0 1 0 -1 0 10143 - Top-022.5_AP1_Mid_AP2_End.ldr
+
+
+
+0 FILE 10143 - Top-022.5_AP1_Mid_AP2_End.ldr
+0 Top-022.5_AP1_Mid_AP2_End
+0 Name: 10143 - Top-022.5_AP1_Mid_AP2_End.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 14 0 0 0 1 0 0 0 -1 0 0 0 -1 32014.dat
+1 0 0 0 70 0 0 -1 0 1 0 1 0 0 3706.dat
+1 0 0 -10 60 1 0 0 0 1 0 0 0 1 32064a.dat
+1 71 30 -18 110 -1 0 0 0 1 0 0 0 -1 47398.dat
+1 71 -30 -18 110 -1 0 0 0 1 0 0 0 -1 47397.dat
+1 71 0 -18 -20 -1 0 0 0 1 0 0 0 -1 3710.dat
+1 72 -30 -10 0 0 0 -1 0 1 0 1 0 0 3623.dat
+1 72 30 -10 0 0 0 -1 0 1 0 1 0 0 3623.dat
+1 0 0 -10 80 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 -10 100 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 -10 120 1 0 0 0 1 0 0 0 1 32064a.dat
+1 71 0 0 40 -1 0 0 0 1 0 0 0 -1 3713.dat
+
+
+
+0 FILE 10143 - Dish-HP1.ldr
+0 Dish-HP1
+0 Name: 10143 - Dish-HP1.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 72 30 -2 0 -1 0 0 0 1 0 0 0 -1 44302.dat
+1 71 30 -10 0 1 0 0 0 1 0 0 0 1 44301.dat
+1 19 30 -34 0 1 0 0 0 1 0 0 0 1 3937.dat
+
+
+
+0 FILE 10143 - Dish-HP2.ldr
+0 Dish-HP2
+0 Name: 10143 - Dish-HP2.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 72 30 -2 0 -1 0 0 0 1 0 0 0 -1 44302.dat
+1 19 30 -26 0 1 0 0 0 1 0 0 0 1 3937.dat
+1 71 30 6 0 1 0 0 0 1 0 0 0 1 44301.dat
+
+
+
+0 FILE 10143 - Dish-AP1.ldr
+0 Dish-AP1
+0 Name: 10143 - Dish-AP1.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 -10 0 -1 0 0 0 1 0 0 0 -1 6134.dat
+1 71 0 -18 -20 -1 0 0 0 1 0 0 0 -1 3023.dat
+1 72 0 -18 30 -1 0 0 0 1 0 0 0 -1 41770.dat
+
+
+
+0 FILE 10143 - Dish-AP2.ldr
+0 Dish-AP2
+0 Name: 10143 - Dish-AP2.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 -10 0 -1 0 0 0 1 0 0 0 -1 6134.dat
+1 72 0 -18 -20 -1 0 0 0 1 0 0 0 -1 3623.dat
+1 72 0 -18 30 -1 0 0 0 1 0 0 0 -1 41770.dat
+1 42 0 -42 -20 -1 0 0 0 1 0 0 0 -1 3062b.dat
+1 42 0 -66 -20 -1 0 0 0 1 0 0 0 -1 3062b.dat
+1 42 0 -90 -20 -1 0 0 0 1 0 0 0 -1 3062b.dat
+1 42 0 -114 -20 -1 0 0 0 1 0 0 0 -1 3062b.dat
+1 42 0 -122 -20 -1 0 0 0 1 0 0 0 -1 2569.dat
+
+
+
+0 FILE 10143 - Dish-AP3.ldr
+0 Dish-AP3
+0 Name: 10143 - Dish-AP3.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 -10 0 -1 0 0 0 1 0 0 0 -1 6134.dat
+1 72 0 -18 -20 -1 0 0 0 1 0 0 0 -1 3023.dat
+1 72 0 -18 30 -1 0 0 0 1 0 0 0 -1 41770.dat
+
+
+
+0 FILE 10143 - Dish-AP4.ldr
+0 Dish-AP4
+0 Name: 10143 - Dish-AP4.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 -10 0 -1 0 0 0 1 0 0 0 -1 6134.dat
+1 71 0 -18 -20 -1 0 0 0 1 0 0 0 -1 3623.dat
+1 42 0 -42 -20 -1 0 0 0 1 0 0 0 -1 3062b.dat
+1 42 0 -66 -20 -1 0 0 0 1 0 0 0 -1 3062b.dat
+1 42 0 -90 -20 -1 0 0 0 1 0 0 0 -1 3062b.dat
+1 42 0 -114 -20 -1 0 0 0 1 0 0 0 -1 3062b.dat
+1 42 0 -122 -20 -1 0 0 0 1 0 0 0 -1 2569.dat
+1 71 0 -18 30 -1 0 0 0 1 0 0 0 -1 41770.dat
+
+
+
+0 FILE 10143 - Dish-AP5.ldr
+0 Dish-AP5
+0 Name: 10143 - Dish-AP5.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 -10 0 -1 0 0 0 1 0 0 0 -1 6134.dat
+1 71 0 -18 -20 -1 0 0 0 1 0 0 0 -1 3023.dat
+1 71 0 -18 30 -1 0 0 0 1 0 0 0 -1 41770.dat
+
+
+
+0 FILE 10143 - Dish_01.ldr
+0 Dish_01
+0 Name: 10143 - Dish_01.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Dish-HP1.ldr
+1 0 60 -8 0 0.92388 0.382683 0 -0.382683 0.92388 0 0 0 1 10143 - Dish_02.ldr
+1 0 30 -24 0 1 0 0 0 0.422618 -0.906308 0 0.906308 0.422618 10143 - Dish-AP1.ldr
+
+
+
+0 FILE 10143 - Dish_02.ldr
+0 Dish_02
+0 Name: 10143 - Dish_02.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Dish-HP2.ldr
+1 0 30 -16 0 1 0 0 0 0.422618 -0.906308 0 0.906308 0.422618 10143 - Dish-AP2.ldr
+1 0 60 8 0 0.92388 0.382683 0 -0.382683 0.92388 0 0 0 1 10143 - Dish_03.ldr
+
+
+
+0 FILE 10143 - Dish_03.ldr
+0 Dish_03
+0 Name: 10143 - Dish_03.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Dish-HP1.ldr
+1 0 30 -24 0 1 0 0 0 0.422618 -0.906308 0 0.906308 0.422618 10143 - Dish-AP3.ldr
+1 0 60 -8 0 0.92388 0.382683 0 -0.382683 0.92388 0 0 0 1 10143 - Dish_04.ldr
+
+
+
+0 FILE 10143 - Dish_04.ldr
+0 Dish_04
+0 Name: 10143 - Dish_04.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Dish-HP2.ldr
+1 0 30 -16 0 1 0 0 0 0.422618 -0.906308 0 0.906308 0.422618 10143 - Dish-AP2.ldr
+1 0 60 8 0 0.92388 0.382683 0 -0.382683 0.92388 0 0 0 1 10143 - Dish_05.ldr
+
+
+
+0 FILE 10143 - Dish_05.ldr
+0 Dish_05
+0 Name: 10143 - Dish_05.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Dish-HP1.ldr
+1 0 60 -8 0 0.92388 0.382683 0 -0.382683 0.92388 0 0 0 1 10143 - Dish_06.ldr
+1 0 30 -24 0 1 0 0 0 0.422618 -0.906308 0 0.906308 0.422618 10143 - Dish-AP3.ldr
+
+
+
+0 FILE 10143 - Dish_06.ldr
+0 Dish_06
+0 Name: 10143 - Dish_06.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Dish-HP2.ldr
+1 0 60 8 0 0.92388 0.382683 0 -0.382683 0.92388 0 0 0 1 10143 - Dish_07.ldr
+1 0 30 -16 0 1 0 0 0 0.422618 -0.906308 0 0.906308 0.422618 10143 - Dish-AP2.ldr
+
+
+
+0 FILE 10143 - Dish_07.ldr
+0 Dish_07
+0 Name: 10143 - Dish_07.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Dish-HP1.ldr
+1 0 30 -24 0 1 0 0 0 0.422618 -0.906308 0 0.906308 0.422618 10143 - Dish-AP3.ldr
+1 0 60 -8 0 0.92388 0.382683 0 -0.382683 0.92388 0 0 0 1 10143 - Dish_08.ldr
+
+
+
+0 FILE 10143 - Dish_08.ldr
+0 Dish_08
+0 Name: 10143 - Dish_08.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Dish-HP2.ldr
+1 0 60 8 0 0.92388 0.382683 0 -0.382683 0.92388 0 0 0 1 10143 - Dish_09.ldr
+1 0 30 -16 0 1 0 0 0 0.422618 -0.906308 0 0.906308 0.422618 10143 - Dish-AP2.ldr
+
+
+
+0 FILE 10143 - Dish_09.ldr
+0 Dish_09
+0 Name: 10143 - Dish_09.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Dish-HP1.ldr
+1 0 30 -24 0 1 0 0 0 0.422618 -0.906308 0 0.906308 0.422618 10143 - Dish-AP3.ldr
+1 0 60 -8 0 0.92388 0.382683 0 -0.382683 0.92388 0 0 0 1 10143 - Dish_10.ldr
+
+
+
+0 FILE 10143 - Dish_10.ldr
+0 Dish_10
+0 Name: 10143 - Dish_10.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Dish-HP2.ldr
+1 0 30 -16 0 1 0 0 0 0.422618 -0.906308 0 0.906308 0.422618 10143 - Dish-AP2.ldr
+1 0 60 8 0 0.92388 0.382683 0 -0.382683 0.92388 0 0 0 1 10143 - Dish_11.ldr
+
+
+
+0 FILE 10143 - Dish_11.ldr
+0 Dish_11
+0 Name: 10143 - Dish_11.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Dish-HP1.ldr
+1 0 30 -24 0 1 0 0 0 0.422618 -0.906308 0 0.906308 0.422618 10143 - Dish-AP1.ldr
+1 0 60 -8 0 0.92388 0.382683 0 -0.382683 0.92388 0 0 0 1 10143 - Dish_12.ldr
+
+
+
+0 FILE 10143 - Dish_12.ldr
+0 Dish_12
+0 Name: 10143 - Dish_12.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Dish-HP2.ldr
+1 0 30 -16 0 1 0 0 0 0.422618 -0.906308 0 0.906308 0.422618 10143 - Dish-AP4.ldr
+1 0 60 8 0 0.92388 0.382683 0 -0.382683 0.92388 0 0 0 1 10143 - Dish_13.ldr
+
+
+
+0 FILE 10143 - Dish_13.ldr
+0 Dish_13
+0 Name: 10143 - Dish_13.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Dish-HP1.ldr
+1 0 30 -24 0 1 0 0 0 0.422618 -0.906308 0 0.906308 0.422618 10143 - Dish-AP5.ldr
+1 0 60 -8 0 0.92388 0.382683 0 -0.382683 0.92388 0 0 0 1 10143 - Dish_14.ldr
+
+
+
+0 FILE 10143 - Dish_14.ldr
+0 Dish_14
+0 Name: 10143 - Dish_14.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Dish-HP2.ldr
+1 0 30 -16 0 1 0 0 0 0.422618 -0.906308 0 0.906308 0.422618 10143 - Dish-AP4.ldr
+1 0 60 8 0 0.92388 0.382683 0 -0.382683 0.92388 0 0 0 1 10143 - Dish_15.ldr
+
+
+
+0 FILE 10143 - Dish_15.ldr
+0 Dish_15
+0 Name: 10143 - Dish_15.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Dish-HP1.ldr
+1 0 30 -24 0 1 0 0 0 0.422618 -0.906308 0 0.906308 0.422618 10143 - Dish-AP5.ldr
+1 0 60 -8 0 0.92388 0.382683 0 -0.382683 0.92388 0 0 0 1 10143 - Dish_16.ldr
+
+
+
+0 FILE 10143 - Dish_16.ldr
+0 Dish_16
+0 Name: 10143 - Dish_16.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Dish-HP2.ldr
+1 0 30 -16 0 1 0 0 0 0.422618 -0.906308 0 0.906308 0.422618 10143 - Dish-AP4.ldr
+
+
+
+0 FILE 10143 - Top-XXX_Bot.ldr
+0 Top-XXX_Bot
+0 Name: 10143 - Top-XXX_Bot.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 71 50 -2 20 1 0 0 0 1 0 0 0 1 44568.dat
+1 72 -60 -2 40 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -60 -2 60 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -60 -2 180 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -60 -2 160 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -20 -2 180 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -20 -2 160 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 20 -2 180 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 20 -2 160 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 60 -2 180 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 60 -2 160 1 0 0 0 1 0 0 0 1 3794a.dat
+1 71 0 -10 180 1 0 0 0 1 0 0 0 1 3623.dat
+1 71 -10 -10 90 0 0 1 0 1 0 -1 0 0 3034.dat
+1 71 20 -10 90 0 0 1 0 1 0 -1 0 0 3460.dat
+1 71 -70 -10 100 -1 0 0 0 1 0 0 0 -1 2413.dat
+1 71 70 -10 100 -1 0 0 0 1 0 0 0 -1 2413.dat
+1 72 -20 -2 40 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 -20 -2 60 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 20 -2 40 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 20 -2 60 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 60 -2 40 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 60 -2 60 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 0 6 20 1 0 0 0 1 0 0 0 1 3794a.dat
+1 71 0 6 50 1 0 0 0 1 0 0 0 1 3034.dat
+1 72 -40 6 20 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 40 6 20 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 0 14 40 -1 0 0 0 1 0 0 0 -1 2419.dat
+1 0 0 22 60 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 0 0 22 40 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 0 0 22 180 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 0 0 22 160 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 71 0 14 170 -1 0 0 0 1 0 0 0 -1 3022.dat
+1 71 0 6 170 -1 0 0 0 1 0 0 0 -1 3034.dat
+1 0 0 32 110 0 0 -1 0 1 0 1 0 0 3737.dat
+1 71 0 32 20 1 0 0 0 1 0 0 0 1 3713.dat
+1 71 -50 -2 20 1 0 0 0 1 0 0 0 1 44568.dat
+
+
+
+0 FILE 10143 - Top-XXX_Mid.ldr
+0 Top-XXX_Mid
+0 Name: 10143 - Top-XXX_Mid.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 -1 0 0 0 -1 32016.dat
+1 71 0 0 35 1 0 0 0 -1 0 0 0 -1 32123a.dat
+1 71 0 0 185 1 0 0 0 -1 0 0 0 -1 32123a.dat
+1 0 0 0 110 0 0 -1 0 1 0 1 0 0 3737.dat
+1 0 0 -10 50 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 -10 70 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 -10 170 1 0 0 0 1 0 0 0 1 32064a.dat
+1 72 0 -18 160 1 0 0 0 1 0 0 0 1 3795.dat
+1 71 0 -18 60 1 0 0 0 1 0 0 0 1 3034.dat
+1 71 0 -26 80 0 0 1 0 1 0 -1 0 0 3029.dat
+1 71 -70 -26 80 -1 0 0 0 1 0 0 0 -1 47397.dat
+1 71 70 -26 80 -1 0 0 0 1 0 0 0 -1 47398.dat
+1 0 0 -10 150 1 0 0 0 1 0 0 0 1 32064a.dat
+
+
+
+0 FILE 10143 - Top-XXX.0.ldr
+0 Top-XXX.0
+0 Name: 10143 - Top-XXX.0.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Top-XXX_Bot.ldr
+1 0 0 32 220 1 0 0 0 0.92388 0.382683 0 -0.382683 0.92388 10143 - Top-XXX.0_Mid.ldr
+
+
+
+0 FILE 10143 - Top-XXX.0_Mid.ldr
+0 Top-XXX.0_Mid
+0 Name: 10143 - Top-XXX.0_Mid.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Top-XXX_Mid.ldr
+1 0 0 0 220 1 0 0 0 0.92388 0.382683 0 -0.382683 0.92388 10143 - Top-XXX.0_Mid_End.ldr
+
+
+
+0 FILE 10143 - Top-XXX.0_Mid_End.ldr
+0 Top-XXX.0_Mid_End
+0 Name: 10143 - Top-XXX.0_Mid_End.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 -1 0 0 0 -1 32016.dat
+1 1 0 0 180 1 0 0 0 -1 0 0 0 -1 32034.dat
+1 19 10 0 180 0 1 0 1 0 0 0 0 -1 3062b.dat
+1 19 -10 0 180 0 -1 0 1 0 0 0 0 1 3062b.dat
+1 0 0 0 260 -1 0 0 0 -1 0 0 0 1 32016.dat
+1 71 0 0 35 1 0 0 0 -1 0 0 0 -1 32123a.dat
+1 0 0 0 90 0 0 -1 0 1 0 1 0 0 3707.dat
+1 71 0 0 220 0 0 -1 0 1 0 1 0 0 4519.dat
+1 0 0 -10 50 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 -10 70 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 -10 90 1 0 0 0 1 0 0 0 1 32064a.dat
+1 0 0 -10 110 1 0 0 0 1 0 0 0 1 32064a.dat
+1 71 -30 -18 100 -1 0 0 0 1 0 0 0 -1 47397.dat
+1 71 30 -18 100 -1 0 0 0 1 0 0 0 -1 47398.dat
+
+
+
+0 FILE 10143 - Top-XXX.5.ldr
+0 Top-XXX.5
+0 Name: 10143 - Top-XXX.5.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Top-XXX_Bot.ldr
+1 0 0 32 220 1 0 0 0 0.92388 0.382683 0 -0.382683 0.92388 10143 - Top-XXX.5_Mid.ldr
+
+
+
+0 FILE 10143 - Top-XXX.5_Mid.ldr
+0 Top-XXX.5_Mid
+0 Name: 10143 - Top-XXX.5_Mid.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 10143 - Top-XXX_Mid.ldr
+1 0 0 0 220 1 0 0 0 0.92388 0.382683 0 -0.382683 0.92388 10143 - Top-XXX.5_Mid_End.ldr
+
+
+
+0 FILE 10143 - Top-XXX.5_Mid_End.ldr
+0 Top-XXX.5_Mid_End
+0 Name: 10143 - Top-XXX.5_Mid_End.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 1 0 0 0 -1 0 0 0 -1 32016.dat
+1 0 0 -10 50 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 0 0 -10 110 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 71 -30 -18 100 -1 0 0 0 1 0 0 0 -1 47397.dat
+1 71 30 -18 100 -1 0 0 0 1 0 0 0 -1 47398.dat
+1 0 0 -10 70 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 0 0 -10 90 -1 0 0 0 1 0 0 0 -1 32064a.dat
+1 72 0 0 67 0 0 -1 0 1 0 1 0 0 32209.dat
+
+
+
+0 FILE 10143 - SSD.ldr
+0 SSD
+0 Name: 10143 - SSD.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 71 20 0 -20 0 0 -1 0 1 0 1 0 0 2430.dat
+1 47 100 8 -10 0 0 1 0 1 0 -1 0 0 42445.dat
+1 0 220 12 -10 0 0 1 0 1 0 -1 0 0 6538b.dat
+1 0 0 -8 -10 1 0 0 0 1 0 0 0 1 44567.dat
+1 71 0 -8 10 -1 0 0 0 1 0 0 0 -1 2436a.dat
+1 71 0 -16 20 0 0 -1 0 1 0 1 0 0 3020.dat
+1 72 0 -24 10 1 0 0 0 1 0 0 0 1 3794a.dat
+1 72 0 -32 10 1 0 0 0 1 0 0 0 1 6141.dat
+1 72 0 -36 10 1 0 0 0 1 0 0 0 1 30162.dat
+1 72 0 -24 -10 1 0 0 0 1 0 0 0 1 2412b.dat
+1 72 0 -24 -40 0 0 1 0 1 0 -1 0 0 2412b.dat
+1 72 0 -6 -75 0 -1 0 0 0 1 -1 0 0 30162.dat
+1 71 10 2 48 -1 0 0 0 0 -1 0 -1 0 4589.dat
+1 71 -10 2 48 -1 0 0 0 0 -1 0 -1 0 4589.dat
+1 38 30 2 32 -1 0 0 0 0 -1 0 -1 0 6141.dat
+1 38 -30 2 32 -1 0 0 0 0 -1 0 -1 0 6141.dat
+1 38 -10 2 56 -1 0 0 0 0 -1 0 -1 0 6141.dat
+1 38 10 2 56 -1 0 0 0 0 -1 0 -1 0 6141.dat
+1 72 0 -16 -49 0 0 -1 0 1 0 1 0 0 41529.dat
+1 71 -20 0 -20 0 0 1 0 1 0 -1 0 0 2429.dat
+1 71 20 0 -20 0.986286 0 0.165048 0 1 0 -0.165048 0 0.986286 10143 - SSD_L-Side.ldr
+1 71 -20 0 -20 0.986286 0 -0.165048 0 1 0 0.165048 0 0.986286 10143 - SSD_R-Side.ldr
+
+
+
+0 FILE 10143 - SSD_L-Side.ldr
+0 SSD_L-Side
+0 Name: 10143 - SSD_L-Side.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 71 0 0 0 0 0 1 0 1 0 -1 0 0 2429.dat
+1 71 0 0 -120 0 0 1 0 1 0 -1 0 0 2429.dat
+1 71 10 0 -50 0 0 1 0 1 0 -1 0 0 3623.dat
+1 71 10 -8 -40 0 0 1 0 1 0 -1 0 0 3460.dat
+
+
+
+0 FILE 10143 - SSD_R-Side.ldr
+0 SSD_R-Side
+0 Name: 10143 - SSD_R-Side.ldr
+0 Author: Jude Parrill [theJudeAbides]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !HISTORY 2018-12-21 [technicbasics] OMRize File
+
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 71 0 0 0 0 0 -1 0 1 0 1 0 0 2430.dat
+1 71 0 0 -120 0 0 -1 0 1 0 1 0 0 2430.dat
+1 71 -10 0 -50 0 0 -1 0 1 0 1 0 0 3623.dat
+1 71 -10 -8 -40 0 0 -1 0 1 0 1 0 0 3460.dat
+
+
+
+
+
+
