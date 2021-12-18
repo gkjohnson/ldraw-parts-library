@@ -1,0 +1,470 @@
+0 FILE 40448 - main.ldr
+0 main
+0 Name: 40448 - main.ldr
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 72 0 0 0 -1 0 0 0 1 0 0 0 -1 4282.dat
+1 0 -130 0 -30 -1 0 0 0 1 0 0 0 -1 3623.dat
+1 0 -130 0 30 -1 0 0 0 1 0 0 0 -1 3623.dat
+0 STEP
+1 0 -120 -8 0 0 0 -1 0 1 0 1 0 0 3020.dat
+1 72 -150 -8 -20 0 0 1 0 1 0 -1 0 0 99780.dat
+1 72 -150 -8 20 0 0 1 0 1 0 -1 0 0 99780.dat
+0 STEP
+1 71 -140 -16 -30 -1 0 0 0 1 0 0 0 -1 3023.dat
+1 71 -140 -16 30 -1 0 0 0 1 0 0 0 -1 3023.dat
+0 STEP
+1 3 -140 -16 0 0 0 1 0 1 0 -1 0 0 40448 - step4.ldr
+0 STEP
+1 3 -80 -8 0 0 0 1 0 1 0 -1 0 0 3022.dat
+1 29 120 -8 0 0 0 1 0 1 0 -1 0 0 3022.dat
+1 0 20 -8 0 1 0 0 0 1 0 0 0 1 3035.dat
+0 STEP
+1 0 120 -8 0 0 0 1 0 1 0 -1 0 0 18892.dat
+1 0 -80 -8 0 0 0 1 0 1 0 -1 0 0 18892.dat
+0 STEP
+1 0 150 -8 -10 0 0 1 0 1 0 -1 0 0 2420.dat
+1 0 150 -8 10 1 0 0 0 1 0 0 0 1 2420.dat
+0 STEP
+1 19 20 -16 0 1 0 0 0 1 0 0 0 1 91988.dat
+1 71 170 -16 0 0 0 -1 0 1 0 1 0 0 99781.dat
+0 STEP
+1 3 -80 -40 40 -1 0 0 0 1 0 0 0 -1 35789.dat
+1 3 -80 -40 -40 1 0 0 0 1 0 0 0 1 35789.dat
+0 STEP
+1 15 -110 -40 -30 0 0 -1 0 1 0 1 0 0 2357.dat
+1 15 -110 -40 30 -1 0 0 0 1 0 0 0 -1 2357.dat
+1 3 -110 -40 50 -1 0 0 0 1 0 0 0 -1 3024.dat
+1 3 -110 -40 -50 -1 0 0 0 1 0 0 0 -1 3024.dat
+0 STEP
+1 15 -90 -48 -50 1 0 0 0 1 0 0 0 1 3623.dat
+1 15 -90 -48 50 1 0 0 0 1 0 0 0 1 3623.dat
+1 15 -50 -40 -50 1 0 0 0 1 0 0 0 1 3024.dat
+1 15 -50 -40 50 1 0 0 0 1 0 0 0 1 3024.dat
+0 STEP
+1 15 -60 -40 50 0 0 -1 0 1 0 1 0 0 11477.dat
+1 15 -60 -40 -50 0 0 -1 0 1 0 1 0 0 11477.dat
+1 0 -172 -10 0 0 1 0 0 0 1 1 0 0 3069b.dat
+0 STEP
+1 16 -150 -40 30 -1 0 0 0 1 0 0 0 -1 40448 - step13.ldr
+1 16 -150 -40 -30 -1 0 0 0 1 0 0 0 -1 40448 - step13.ldr
+0 STEP
+1 71 -140 -12 -50 0 0 1 0 -1 0 1 0 0 40448 - step14.ldr
+0 STEP
+1 71 -140 -12 50 0 0 1 0 -1 0 1 0 0 40448 - step15.ldr
+0 STEP
+1 3 -140 -30 50 -1 0 0 0 1 0 0 0 -1 40448 - step16.ldr
+1 3 -140 -30 -50 -1 0 0 0 -1 0 0 0 1 40448 - step16.ldr
+0 STEP
+1 15 -140 -48 -40 -1 0 0 0 1 0 0 0 -1 40448 - step17.ldr
+0 STEP
+1 15 -140 -48 40 -1 0 0 0 1 0 0 0 -1 40448 - step18.ldr
+0 STEP
+1 16 -20 -16 30 -1 0 0 0 1 0 0 0 -1 40448 - step19.ldr
+1 16 20 -16 30 -1 0 0 0 1 0 0 0 -1 40448 - step19.ldr
+1 16 60 -16 30 -1 0 0 0 1 0 0 0 -1 40448 - step19.ldr
+1 16 -20 -16 -30 1 0 0 0 1 0 0 0 1 40448 - step19.ldr
+1 16 20 -16 -30 1 0 0 0 1 0 0 0 1 40448 - step19.ldr
+1 16 60 -16 -30 1 0 0 0 1 0 0 0 1 40448 - step19.ldr
+0 STEP
+1 29 -50 -24 0 0 0 1 0 1 0 -1 0 0 3710.dat
+1 15 -30 -24 0 0 0 1 0 1 0 -1 0 0 2431.dat
+1 19 -10 -24 -20 0 0 1 0 1 0 -1 0 0 15573.dat
+1 19 -10 -24 20 0 0 1 0 1 0 -1 0 0 15573.dat
+1 19 10 -24 20 0 0 1 0 1 0 -1 0 0 15573.dat
+1 19 10 -24 -20 0 0 1 0 1 0 -1 0 0 15573.dat
+1 15 30 -24 -20 0 0 1 0 1 0 -1 0 0 15573.dat
+1 15 30 -24 20 0 0 -1 0 1 0 1 0 0 3829c01.dat
+0 STEP
+1 15 -50 -32 0 0 0 -1 0 1 0 1 0 0 40448 - step21.ldr
+0 STEP
+1 3 30 -32 0 -1 0 0 0 1 0 0 0 -1 40448 - step22.ldr
+0 STEP
+1 15 60 -32 50 -1 0 0 0 1 0 0 0 -1 99206.dat
+1 15 60 -32 -50 1 0 0 0 1 0 0 0 1 99206.dat
+1 3 -50 -56 0 0 0 1 0 1 0 -1 0 0 45677.dat
+0 STEP
+1 3 70 -40 -10 0 0 1 0 1 0 -1 0 0 3005.dat
+1 3 70 -40 10 0 0 1 0 1 0 -1 0 0 40448 - step24.ldr
+0 STEP
+1 29 110 -24 0 1 0 0 0 1 0 0 0 1 3021.dat
+1 15 160 -24 0 0 0 -1 0 1 0 1 0 0 33909.dat
+0 STEP
+1 0 120 -40 40 -1 0 0 0 1 0 0 0 -1 40448 - step26.ldr
+1 0 120 -40 -40 1 0 0 0 1 0 0 0 1 40448 - step26.ldr
+0 STEP
+1 0 150 -32 -30 1 0 0 0 1 0 0 0 1 6141.dat
+1 0 150 -32 30 -1 0 0 0 1 0 0 0 -1 6141.dat
+1 0 120 -32 0 1 0 0 0 1 0 0 0 1 3020.dat
+1 0 70 -32 -30 1 0 0 0 1 0 0 0 1 3623.dat
+1 0 70 -32 30 1 0 0 0 1 0 0 0 1 3623.dat
+0 STEP
+1 322 120 -40 0 0 0 1 0 1 0 -1 0 0 3020.dat
+1 29 90 -40 0 0 0 1 0 1 0 -1 0 0 3710.dat
+1 71 150 -40 0 0 0 1 0 1 0 -1 0 0 3023.dat
+1 3 80 -40 -50 1 0 0 0 1 0 0 0 1 3023.dat
+1 3 80 -40 50 1 0 0 0 1 0 0 0 1 3023.dat
+0 STEP
+1 3 50 -56 -50 0 0 1 0 1 0 -1 0 0 40448 - step29.ldr
+1 3 50 -56 50 0 0 -1 0 1 0 1 0 0 40448 - step30.ldr
+0 STEP
+1 3 150 -40 40 0 0 -1 0 1 0 1 0 0 11458.dat
+1 3 150 -40 -40 0 0 1 0 1 0 -1 0 0 11458.dat
+1 3 130 -40 -50 1 0 0 0 1 0 0 0 1 49307.dat
+1 3 110 -40 -50 1 0 0 0 1 0 0 0 1 49307.dat
+1 3 90 -40 -50 1 0 0 0 1 0 0 0 1 49307.dat
+1 3 70 -40 -50 1 0 0 0 1 0 0 0 1 49307.dat
+1 3 70 -40 50 1 0 0 0 1 0 0 0 1 49307.dat
+1 3 90 -40 50 1 0 0 0 1 0 0 0 1 49307.dat
+1 3 110 -40 50 1 0 0 0 1 0 0 0 1 49307.dat
+1 3 130 -40 50 1 0 0 0 1 0 0 0 1 49307.dat
+0 STEP
+1 0 100 -48 0 1 0 0 0 1 0 0 0 1 3020.dat
+1 3 140 -48 -30 1 0 0 0 1 0 0 0 1 3069b.dat
+1 3 140 -48 30 1 0 0 0 1 0 0 0 1 3069b.dat
+0 STEP
+1 71 176 -6 0 0 -1 0 0 0 1 -1 0 0 40448 - step33.ldr
+0 STEP
+1 47 170 -40 0 1 0 0 0 1 0 0 0 1 40448 - step34.ldr
+0 STEP
+1 3 120 -56 0 0 0 -1 0 1 0 1 0 0 3176.dat
+1 3 80 -56 0 0 0 -1 0 1 0 1 0 0 3068b.dat
+1 179 150 -56 0 0 0 -1 0 -1 0 -1 0 0 93555.dat
+0 STEP
+1 71 100 -48 0 -1 0 0 0 1 0 0 0 -1 40448 - step36.ldr
+0 STEP
+1 15 30 -26 68 0 0 1 -1 0 0 0 -1 0 90397.dat
+1 15 30 -26 -68 0 0 1 1 0 0 0 1 0 90397.dat
+0 STEP
+1 16 48 -70 70 -1 0 0 0 1 0 0 0 -1 40448 - step38.ldr
+1 16 48 -70 -70 -1 0 0 0 -1 0 0 0 1 40448 - step38.ldr
+0 STEP
+1 0 120 -3 -53 1 0 0 0 -1 0 0 0 -1 40448 - step39.ldr
+1 0 -80 -3 -53 1 0 0 0 -1 0 0 0 -1 40448 - step39.ldr
+1 0 120 -3 53 -1 0 0 0 -1 0 0 0 1 40448 - step39.ldr
+1 0 -80 -3 53 -1 0 0 0 -1 0 0 0 1 40448 - step39.ldr
+1 0 -8 -45 -30 0 0 -1 0 1 0 1 0 0 40448 - minifig-1.ldr
+1 0 -8 -45 30 0 0 -1 0 1 0 1 0 0 40448 - minifig-2.ldr
+
+
+0 FILE 40448 - minifig-1.ldr
+0 minifig-1
+0 Name: 40448 - minifig-1.ldr
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 3815.dat
+1 0 0 12 0 1 0 0 0 0 1 0 -1 0 3816.dat
+1 0 0 12 0 1 0 0 0 0 1 0 -1 0 3817.dat
+1 321 0 -32 0 1 0 0 0 1 0 0 0 1 973.dat
+1 25 -15.552 -23 0 0.968 -0.217 0.12 0.073 0.713 0.697 -0.237 -0.666 0.707 3818.dat
+1 25 15.552 -23 0 0.984 0.12 0.12 -0.17 0.696 0.696 0 -0.706 0.707 3819.dat
+1 14 -25.681 -16.776 -18.4 0.968 -0.068 0.238 0.073 0.997 -0.012 -0.237 0.029 0.971 3820.dat
+1 14 21.558 -17.575 -20.357 0.985 0.17 0 -0.17 0.985 0 0 0 0.999 3820.dat
+1 14 0 -56 0 1 0 0 0 1 0 0 0 1 3626cp8h.dat
+1 0 0 -56 0 1 0 0 0 1 0 0 0 1 23186.dat
+
+
+0 FILE 40448 - minifig-2.ldr
+0 minifig-2
+0 Name: 40448 - minifig-2.ldr
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 30 0 0 0 1 0 0 0 1 0 0 0 1 3815.dat
+1 30 0 12 0 1 0 0 0 0 1 0 -1 0 3816.dat
+1 30 0 12 0 1 0 0 0 0 1 0 -1 0 3817.dat
+1 0 0 -32 0 1 0 0 0 1 0 0 0 1 973.dat
+1 0 -15.552 -23 0 0.985 -0.12 -0.12 0.17 0.697 0.697 0 -0.706 0.707 3818.dat
+1 0 15.552 -23 0 0.985 0.12 0.12 -0.17 0.697 0.697 0 -0.706 0.707 3819.dat
+1 14 -21.558 -17.575 -20.357 0.985 -0.17 0 0.17 0.985 0 0 0 0.999 3820.dat
+1 14 21.558 -17.575 -20.357 0.985 0.17 0 -0.17 0.985 0 0 0 0.999 3820.dat
+1 14 0 -56 0 -1 0 0 0 1 0 0 0 -1 3626cp8x.dat
+1 226 0 -56 0 1 0 0 0 1 0 0 0 1 87990.dat
+
+
+0 FILE 40448 - step4.ldr
+0 step4
+0 Name: 40448 - step4.ldr
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 33909.dat
+1 15 0 -24 10 1 0 0 0 1 0 0 0 1 11211.dat
+0 STEP
+1 3 0 -14 -8 1 0 0 0 0 -1 0 1 0 3023.dat
+0 STEP
+1 3 0 -14 -8 -1 0 0 0 0 1 0 1 0 85984.dat
+
+
+0 FILE 40448 - step13.ldr
+0 step13
+0 Name: 40448 - step13.ldr
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 71 0 0 0 0 0 -1 0 1 0 1 0 0 6541.dat
+1 71 10 10 0 1 0 0 0 1 0 0 0 1 4274.dat
+
+
+0 FILE 40448 - step14.ldr
+0 step14
+0 Name: 40448 - step14.ldr
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 71 0 0 -10 1 0 0 0 1 0 0 0 1 36840.dat
+1 3 0 0 10 1 0 0 0 1 0 0 0 1 3024.dat
+0 STEP
+1 3 0 0 0 0 0 1 0 1 0 -1 0 0 85984.dat
+0 STEP
+1 71 0 -2 -32 0 0 1 1 0 0 0 1 0 15070.dat
+0 STEP
+1 71 10 -2 -24 0 0 -1 -1 0 0 0 1 0 11477.dat
+
+
+0 FILE 40448 - step15.ldr
+0 step15
+0 Name: 40448 - step15.ldr
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 71 0 0 -10 1 0 0 0 1 0 0 0 1 36840.dat
+1 3 0 0 10 1 0 0 0 1 0 0 0 1 3024.dat
+0 STEP
+1 3 0 0 0 0 0 -1 0 1 0 1 0 0 85984.dat
+0 STEP
+1 71 0 -2 -32 0 0 -1 -1 0 0 0 1 0 15070.dat
+0 STEP
+1 71 -10 -2 -24 0 0 1 1 0 0 0 1 0 11477.dat
+
+
+0 FILE 40448 - step16.ldr
+0 step16
+0 Name: 40448 - step16.ldr
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 3 0 0 0 1 0 0 0 0 1 0 -1 0 62462.dat
+1 71 20 0 0 1 0 0 0 -1 0 0 0 -1 4274.dat
+0 STEP
+1 71 28 0 10 0 -1 0 0 0 1 -1 0 0 35480.dat
+1 36 36 0 0 0 -1 0 0 0 1 -1 0 0 6141.dat
+1 36 36 0 20 0 -1 0 0 0 1 -1 0 0 6141.dat
+
+
+0 FILE 40448 - step17.ldr
+0 step17
+0 Name: 40448 - step17.ldr
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 3022.dat
+0 STEP
+1 15 -20 -8 10 1 0 0 0 1 0 0 0 1 2431.dat
+1 15 0 8 -20 1 0 0 0 1 0 0 0 1 15068.dat
+
+
+0 FILE 40448 - step18.ldr
+0 step18
+0 Name: 40448 - step18.ldr
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 15 0 0 0 -1 0 0 0 1 0 0 0 -1 3022.dat
+0 STEP
+1 15 -20 -8 -10 -1 0 0 0 1 0 0 0 -1 2431.dat
+1 15 0 8 20 -1 0 0 0 1 0 0 0 -1 15068.dat
+
+
+0 FILE 40448 - step19.ldr
+0 step19
+0 Name: 40448 - step19.ldr
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 71 0 0 0 1 0 0 0 1 0 0 0 1 99781.dat
+1 3 0 10 -14 1 0 0 0 0 -1 0 1 0 85984.dat
+
+
+0 FILE 40448 - step21.ldr
+0 step21
+0 Name: 40448 - step21.ldr
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 19 20 0 0 1 0 0 0 1 0 0 0 1 99207.dat
+1 19 -20 0 0 1 0 0 0 1 0 0 0 1 99207.dat
+0 STEP
+1 29 0 -2 -22 1 0 0 0 0 -1 0 1 0 3710.dat
+0 STEP
+1 19 -20 -12 -14 -1 0 0 0 0 1 0 1 0 15068.dat
+1 19 20 -12 -14 -1 0 0 0 0 1 0 1 0 15068.dat
+1 15 0 -8 0 1 0 0 0 1 0 0 0 1 2431.dat
+
+
+0 FILE 40448 - step22.ldr
+0 step22
+0 Name: 40448 - step22.ldr
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 2420.dat
+1 15 30 8 0 0 0 -1 0 1 0 1 0 0 11477.dat
+0 STEP
+1 3 0 0 10 0 0 -1 0 1 0 1 0 0 85984.dat
+
+
+0 FILE 40448 - step24.ldr
+0 step24
+0 Name: 40448 - step24.ldr
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 4070.dat
+1 0 0 10 -14 1 0 0 0 0 -1 0 1 0 6141.dat
+1 71 0 10 -22 1 0 0 0 0 -1 0 1 0 32828.dat
+
+
+0 FILE 40448 - step26.ldr
+0 step26
+0 Name: 40448 - step26.ldr
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 3 0 0 0 1 0 0 0 1 0 0 0 1 35789.dat
+0 STEP
+1 0 30 16 10 1 0 0 0 1 0 0 0 1 6141.dat
+1 0 -30 16 10 1 0 0 0 1 0 0 0 1 6141.dat
+
+
+0 FILE 40448 - step29.ldr
+0 step29
+0 Name: 40448 - step29.ldr
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 3 0 20 -82 0 0 1 1 0 0 0 1 0 87544.dat
+1 3 0 20 -90 0 0 1 1 0 0 0 1 0 3069b.dat
+0 STEP
+1 3 0 0 0 1 0 0 0 1 0 0 0 1 87087.dat
+1 71 0 -8 0 0 0 -1 0 1 0 1 0 0 15712.dat
+
+
+0 FILE 40448 - step30.ldr
+0 step30
+0 Name: 40448 - step30.ldr
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 3 0 20 82 0 0 1 -1 0 0 0 -1 0 87544.dat
+1 3 0 20 90 0 0 1 -1 0 0 0 -1 0 3069b.dat
+0 STEP
+1 3 0 0 0 -1 0 0 0 1 0 0 0 -1 87087.dat
+1 71 0 -8 0 0 0 -1 0 1 0 1 0 0 15712.dat
+
+
+0 FILE 40448 - step33.ldr
+0 step33
+0 Name: 40448 - step33.ldr
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 71 -40 8 0 1 0 0 0 1 0 0 0 1 35480.dat
+1 71 -40 0 0 1 0 0 0 1 0 0 0 1 3023.dat
+0 STEP
+1 71 0 0 0 0 0 1 0 1 0 -1 0 0 93273.dat
+1 71 -50 -8 0 0 0 1 0 1 0 -1 0 0 15070.dat
+0 STEP
+1 71 40 0 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 71 40 8 0 1 0 0 0 1 0 0 0 1 35480.dat
+1 71 50 -8 0 0 0 -1 0 1 0 1 0 0 15070.dat
+
+
+0 FILE 40448 - step34.ldr
+0 step34
+0 Name: 40448 - step34.ldr
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 71 0 0 0 1 0 0 0 1 0 0 0 1 62361.dat
+0 STEP
+1 57 0 8 -50 1 0 0 0 1 0 0 0 1 6141.dat
+1 57 0 8 50 1 0 0 0 1 0 0 0 1 6141.dat
+0 STEP
+1 3 0 0 40 0 0 -1 0 1 0 1 0 0 11458.dat
+1 3 0 0 -40 0 0 1 0 1 0 -1 0 0 11458.dat
+0 STEP
+1 3 0 -8 -30 1 0 0 0 1 0 0 0 1 25269.dat
+1 3 0 -8 30 0 0 -1 0 1 0 1 0 0 25269.dat
+1 3 -10 -8 0 0 0 -1 0 1 0 1 0 0 3068b.dat
+0 STEP
+1 71 10 -6 -50 1 0 0 0 1 0 0 0 1 4274.dat
+1 71 10 -6 50 1 0 0 0 1 0 0 0 1 4274.dat
+0 STEP
+1 47 18 -6 -50 0 -1 0 1 0 0 0 0 1 6141.dat
+1 47 18 -6 50 0 -1 0 1 0 0 0 0 1 6141.dat
+
+
+0 FILE 40448 - step36.ldr
+0 step36
+0 Name: 40448 - step36.ldr
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !LDCAD GROUP_DEF [topLevel=true] [LID=0] [GID=IFFXkVpDyOF] [name=Group 1] [center=0 -6 30]
+0 !LDCAD GROUP_NXT [ids=0] [nrs=3]
+1 43 40.725 -6.999 0 0 0.766 0.643 0 -0.643 0.766 1 0 0 2437.dat
+0 !LDCAD GROUP_NXT [ids=0] [nrs=-1]
+1 71 34.596 -1.857 -30 -0.643 0.766 0 -0.766 -0.643 0 0 0 1 15712.dat
+0 !LDCAD GROUP_NXT [ids=0] [nrs=2]
+1 71 34.596 -1.857 30 -0.643 0.766 0 -0.766 -0.643 0 0 0 1 15712.dat
+0 STEP
+1 3 0 0 -30 1 0 0 0 1 0 0 0 1 60478.dat
+1 3 0 0 30 1 0 0 0 1 0 0 0 1 60478.dat
+
+
+0 FILE 40448 - step38.ldr
+0 step38
+0 Name: 40448 - step38.ldr
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 71 0 0 0 0 -1 0 0 0 -1 1 0 0 32828.dat
+1 71 8 0 0 0 -1 0 0 0 -1 1 0 0 98138.dat
+
+
+0 FILE 40448 - step39.ldr
+0 step39
+0 Name: 40448 - step39.ldr
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 71 0 0 0 1 0 0 0 1 0 0 0 1 11208.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 11209.dat
+
+
+
