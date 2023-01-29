@@ -1,0 +1,834 @@
+0 FILE 6983 - Ice Station Odyssey.ldr
+0 Ice Station Odyssey
+0 Name: 6983 - Ice Station Odyssey.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 6983 - Base + Minifig.ldr
+1 0 44.772 -8 884.991 0.707107 0 0.707107 0 1 0 -0.707107 0 0.707107 6983 - Vehicle 1 + Minifig.ldr
+1 0 542.637 -44 148.15 -0.956305 0 0.292372 0 1 0 -0.292372 0 -0.956305 6983 - Vehicle 2.ldr
+
+
+0 FILE 6983 - Rocket.ldr
+0 Rocket
+0 Name: 6983 - Rocket.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 0 -12 0 0 1 0 -1 0 0 0 0 1 3708.dat
+1 0 0 96 0 1 0 0 0 1 0 0 0 1 3943b.dat
+1 38 0 72 0 1 0 0 0 1 0 0 0 1 6143.dat
+1 38 0 48 0 1 0 0 0 1 0 0 0 1 6143.dat
+1 15 0 24 0 1 0 0 0 1 0 0 0 1 6143.dat
+1 15 10 10 0 0 -1 0 0 0 1 -1 0 0 3700.dat
+1 15 10 -10 0 0 -1 0 0 0 1 -1 0 0 3700.dat
+1 1 -14 0 0 0 -1 0 0 0 1 -1 0 0 2654.dat
+1 15 18 0 0 0 -1 0 -1 0 0 0 0 -1 2609a.dat
+1 0 24.6 0 0 0 0 1 1 0 0 0 1 0 2959c01.dat
+1 15 0 -44 0 0 0 1 0 1 0 -1 0 0 6143.dat
+1 38 0 -68 0 0 0 1 0 1 0 -1 0 0 6143.dat
+1 0 0 -116 0 0 0 1 0 1 0 -1 0 0 4591.dat
+1 0 0 -164 0 0 0 1 0 1 0 -1 0 0 3942b.dat
+
+
+0 FILE 6983 - Rocket - Top.ldr
+0 Rocket - Top
+0 Name: 6983 - Rocket - Top.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 3957a.dat
+1 0 0 -84 0 1 0 0 0 1 0 0 0 1 4733.dat
+1 15 0 -60 0 1 0 0 0 1 0 0 0 1 4740.dat
+1 38 0 -92 0 1 0 0 0 1 0 0 0 1 4740.dat
+1 15 0 -74 -18 -1 0 0 0 0 1 0 1 0 4592.dat
+1 15 0 -74 18 -1 0 0 0 0 -1 0 -1 0 4592.dat
+1 15 -18 -74 0 0 1 0 0 0 1 1 0 0 4592.dat
+1 15 18 -74 0 0 -1 0 0 0 -1 1 0 0 4592.dat
+1 0 18 -74 0 0 -0.5 -0.866 0 -0.866 0.5 -1 0 0 4593.dat
+1 0 -18 -74 0 0 0.5 0.866 0 -0.866 0.5 1 0 0 4593.dat
+1 0 0 -74 18 1 0 0 0 -0.866 0.5 0 -0.5 -0.866 4593.dat
+1 0 0 -74 -18 -1 0 0 0 -0.866 0.5 0 0.5 0.866 4593.dat
+
+
+0 FILE 6983 - Rocket + Rocket - Top.ldr
+0 Rocket + Rocket - Top
+0 Name: 6983 - Rocket + Rocket - Top.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 0 0 -10 1 0 0 0 1 0 0 0 1 6983 - Rocket.ldr
+1 0 0 -172 -10 1 0 0 0 1 0 0 0 1 6983 - Rocket - Top.ldr
+
+
+0 FILE 6983 - Vehicle 1.ldr
+0 Vehicle 1
+0 Name: 6983 - Vehicle 1.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 3031.dat
+1 15 19.999 0 30.001 1 0 0 0 1 0 0 0 1 2713.dat
+1 15 19.999 0 -29.999 1 0 0 0 1 0 0 0 1 2713.dat
+1 1 0 -8 -30 1 0 0 0 1 0 0 0 1 2419.dat
+1 1 0 -8 30 -1 0 0 0 1 0 0 0 -1 2419.dat
+1 1 -50 -32 0 0 0 -1 0 1 0 1 0 0 4865a.dat
+1 0 -10 -16 -50 0 0 -1 0 1 0 1 0 0 2555.dat
+1 0 10 -16 -50 0 0 -1 0 1 0 1 0 0 2555.dat
+1 0 -10 -16 50 0 0 -1 0 1 0 1 0 0 2555.dat
+1 0 10 -16 50 0 0 -1 0 1 0 1 0 0 2555.dat
+1 1 10 -32 0 0 0 -1 0 1 0 1 0 0 3298p61.dat
+1 15 10 -40 0 0 0 1 0 1 0 -1 0 0 3069bp61.dat
+1 0 -2 -22 50 0 0 1 0 1 0 -1 0 0 2923.dat
+1 0 -2 -22 -50 0 0 1 0 1 0 -1 0 0 2923.dat
+1 0 28 -30 -50 -0.5 -0.866 0 -0.866 0.5 0 0 0 -1 6983 - Vehicle 1 - Hinge 1.ldr
+1 0 28 -30 50 -0.5 -0.866 0 -0.866 0.5 0 0 0 -1 6983 - Vehicle 1 - Hinge 1.ldr
+1 0 -32 -22 -50 0 0.2588 -0.9659 0 0.9659 0.2588 1 0 0 6983 - Vehicle 1 - Hinge 2.ldr
+1 0 -32 -22 50 0 0.2588 -0.9659 0 0.9659 0.2588 1 0 0 6983 - Vehicle 1 - Hinge 2.ldr
+
+
+0 FILE 6983 - Vehicle 1 - Hinge 1.ldr
+0 Vehicle 1 - Hinge 1
+0 Name: 6983 - Vehicle 1 - Hinge 1.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 0 -36 0 1 0 0 0 1 0 0 0 1 2433.dat
+1 38 0 -60 0 1 0 0 0 1 0 0 0 1 4589.dat
+
+
+0 FILE 6983 - Vehicle 1 - Hinge 2.ldr
+0 Vehicle 1 - Hinge 2
+0 Name: 6983 - Vehicle 1 - Hinge 2.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 15 0 -4 30 0 0 1 0 1 0 -1 0 0 4276b.dat
+1 1 0 -12 30 0 0 1 0 1 0 -1 0 0 2412b.dat
+
+
+0 FILE 6983 - Vehicle 1 + Minifig.ldr
+0 Vehicle 1 + Minifig
+0 Name: 6983 - Vehicle 1 + Minifig.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 6983 - Vehicle 1.ldr
+1 0 -28 -61 0 0 0 -1 0 1 0 1 0 0 6983 - Minifig 2.ldr
+
+
+0 FILE 6983 - Vehicle 2.ldr
+0 Vehicle 2
+0 Name: 6983 - Vehicle 2.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 6983 - Vehicle 2 - Front + Minifig.ldr
+1 0 0 -4 92 0.980785 0 -0.19509 0 1 0 0.19509 0 0.980785 6983 - Vehicle 2 - Back.ldr
+
+
+0 FILE 6983 - Vehicle 2 - Front.ldr
+0 Vehicle 2 - Front
+0 Name: 6983 - Vehicle 2 - Front.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 0 0 0 0 0 -1 0 1 0 1 0 0 3034.dat
+1 1 0 -24 -30 1 0 0 0 1 0 0 0 1 3298p61.dat
+1 1 0 -8 60 -1 0 0 0 1 0 0 0 -1 3730.dat
+1 15 -10 -16 60 0 0 1 0 1 0 -1 0 0 4623.dat
+1 15 10 -16 60 0 0 -1 0 1 0 1 0 0 4623.dat
+1 1 0 -24 70 1 0 0 0 1 0 0 0 1 3794a.dat
+1 1 0 -24 50 1 0 0 0 1 0 0 0 1 3794a.dat
+1 15 0 -32 -30 -1 0 0 0 1 0 0 0 -1 3069bp61.dat
+1 0 0 8 40 -1 0 0 0 1 0 0 0 -1 2817.dat
+1 7 -20 18 40 -1 0 0 0 1 0 0 0 -1 3673.dat
+1 7 20 18 40 -1 0 0 0 1 0 0 0 -1 3673.dat
+1 15 -30 18 40 0 0 1 0 1 0 -1 0 0 6118.dat
+1 15 30 18 40 0 0 -1 0 1 0 1 0 0 6118.dat
+1 0 0 8 -20 -1 0 0 0 1 0 0 0 -1 2817.dat
+1 7 -20 18 -20 -1 0 0 0 1 0 0 0 -1 3673.dat
+1 7 20 18 -20 -1 0 0 0 1 0 0 0 -1 3673.dat
+1 15 -30 18 -20 0 0 1 0 1 0 -1 0 0 6118.dat
+1 15 30 18 -20 0 0 -1 0 1 0 1 0 0 6118.dat
+1 0 0 -40 60 -1 0 0 0 1 0 0 0 -1 4595.dat
+1 38 32 -19 62 1 0 0 0 1 0 0 0 1 6120.dat
+1 38 -32 -19 62 1 0 0 0 1 0 0 0 1 6120.dat
+
+
+0 FILE 6983 - Vehicle 2 - Front + Minifig.ldr
+0 Vehicle 2 - Front + Minifig
+0 Name: 6983 - Vehicle 2 - Front + Minifig.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 6983 - Vehicle 2 - Front.ldr
+1 0 0 -53 8 1 0 0 0 1 0 0 0 1 6983 - Minifig 3.ldr
+
+
+0 FILE 6983 - Vehicle 2 - Back.ldr
+0 Vehicle 2 - Back
+0 Name: 6983 - Vehicle 2 - Back.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 0 4 120 0 0 1 0 1 0 -1 0 0 3832.dat
+1 1 0 -4 40 1 0 0 0 1 0 0 0 1 3729.dat
+1 1 0 -2 230 1 0 0 0 1 0 0 0 1 3149e.dat
+1 4 0 -2 230 1 0 0 0 1 0 0 0 1 313.dat
+1 0 0 12 200 1 0 0 0 1 0 0 0 1 2817.dat
+1 7 -20 22 200 1 0 0 0 1 0 0 0 1 3673.dat
+1 7 20 22 200 1 0 0 0 1 0 0 0 1 3673.dat
+1 15 -30 22 200 0 0 1 0 -1 0 1 0 0 6118.dat
+1 15 30 22 200 0 0 -1 0 -1 0 -1 0 0 6118.dat
+1 0 0 12 140 1 0 0 0 1 0 0 0 1 2817.dat
+1 7 -20 22 140 1 0 0 0 1 0 0 0 1 3673.dat
+1 7 20 22 140 1 0 0 0 1 0 0 0 1 3673.dat
+1 15 -30 22 140 0 0 1 0 -1 0 1 0 0 6118.dat
+1 15 30 22 140 0 0 -1 0 -1 0 -1 0 0 6118.dat
+1 0 0 12 80 1 0 0 0 1 0 0 0 1 2817.dat
+1 7 -20 22 80 1 0 0 0 1 0 0 0 1 3673.dat
+1 7 20 22 80 1 0 0 0 1 0 0 0 1 3673.dat
+1 15 -30 22 80 0 0 1 0 -1 0 1 0 0 6118.dat
+1 15 30 22 80 0 0 -1 0 -1 0 -1 0 0 6118.dat
+1 0 0 -2 230 1 0 0 0 0.9659 0.2588 0 -0.2588 0.9659 6983 - Vehicle 2 - Back - Rocket Holder.ldr
+
+
+0 FILE 6983 - Vehicle 2 - Back - Rocket Holder.ldr
+0 Vehicle 2 - Back - Rocket Holder
+0 Name: 6983 - Vehicle 2 - Back - Rocket Holder.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 1 0 0 0 1 0 0 0 1 0 0 0 1 314e.dat
+1 1 0 -18 -70 0 0 1 0 1 0 -1 0 0 3034.dat
+1 1 0 -26 -130 0 0 1 0 1 0 -1 0 0 3022.dat
+1 1 -10 -26 -30 0 0 1 0 1 0 -1 0 0 4315.dat
+1 1 10 -26 -30 0 0 -1 0 1 0 1 0 0 4315.dat
+1 0 0 -34 -60 -1 0 0 0 1 0 0 0 -1 3023.dat
+1 0 0 -34 0 -1 0 0 0 1 0 0 0 -1 3023.dat
+1 0 0 -50 -130 0 0 1 0 1 0 -1 0 0 4871.dat
+1 15 -30 -58 -120 0 0 1 0 1 0 -1 0 0 6141.dat
+1 15 -30 -58 -140 0 0 1 0 1 0 -1 0 0 6141.dat
+1 15 30 -58 -120 0 0 1 0 1 0 -1 0 0 6141.dat
+1 15 30 -58 -140 0 0 1 0 1 0 -1 0 0 6141.dat
+1 0 24 -22 -30 0 -0.225 0.9744 0 0.9744 0.225 -1 0 0 6983 - Vehicle 2 - Back - Rocket Holder - Door.ldr
+1 0 -24 -22 -30 0 0.225 -0.9744 0 0.9744 0.225 1 0 0 6983 - Vehicle 2 - Back - Rocket Holder - Door.ldr
+
+
+0 FILE 6983 - Vehicle 2 - Back - Rocket Holder - Door.ldr
+0 Vehicle 2 - Back - Rocket Holder - Door
+0 Name: 6983 - Vehicle 2 - Back - Rocket Holder - Door.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 38 0 -68 -26 -1 0 0 0 1 0 0 0 -1 2582.dat
+1 0 0 -60 -26 -1 0 0 0 1 0 0 0 -1 3710.dat
+1 15 0 -76 -26 1 0 0 0 1 0 0 0 1 3069bp13.dat
+
+
+0 FILE 6983 - Base.ldr
+0 Base
+0 Name: 6983 - Base.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 2552p01.dat
+1 0 -320 -120 -110 0 0 1 0 1 0 -1 0 0 2454.dat
+1 0 -320 -120 90 0 0 1 0 1 0 -1 0 0 2454.dat
+1 1 -320 -144 -10 0 0 1 0 1 0 -1 0 0 6112.dat
+1 0 180 -152 -90 0 0 1 0 1 0 -1 0 0 3710.dat
+1 0 110 -152 180 -1 0 0 0 1 0 0 0 -1 4477.dat
+1 0 300 -120 40 -1 0 0 0 1 0 0 0 -1 2453.dat
+1 0 300 -120 100 -1 0 0 0 1 0 0 0 -1 2453.dat
+1 1 -170 -144 50 0 0 -1 0 1 0 1 0 0 2445.dat
+1 0 -210 -152 -40 1 0 0 0 1 0 0 0 1 3666.dat
+1 0 -210 -152 20 1 0 0 0 1 0 0 0 1 3666.dat
+1 0 180 -160 -110 0 0 1 0 1 0 -1 0 0 4275b.dat
+1 0 180 -160 -70 0 0 1 0 1 0 -1 0 0 3023.dat
+1 0 180 -156 -140 0 0 -1 -0.9986 0.0523 0 0.0523 0.9986 0 6983 - Base - Fence 1.ldr
+1 0 300 -128 70 0 0 -1 0 1 0 1 0 0 3710.dat
+1 1 180 -184 -60 1 0 0 0 1 0 0 0 1 4286.dat
+1 0 110 -168 -40 1 0 0 0 1 0 0 0 1 6111.dat
+1 1 -270 -152 -150 0 0 1 0 1 0 -1 0 0 2401.dat
+1 1 -270 -152 130 -1 0 0 0 1 0 0 0 -1 2401.dat
+1 15 220 -96 -90 0 0 -1 0 1 0 1 0 0 3039pc8.dat
+1 15 220 -104 -90 0 0 -1 0 1 0 1 0 0 3794a.dat
+1 15 220 -112 -90 0.5 0 -0.866 0 1 0 0.866 0 0.5 4592.dat
+1 0 220 -112 -90 0.5 -0.433 -0.75 0 0.866 -0.5 0.866 0.25 0.433 4593.dat
+1 15 -10 0 470 1 0 0 0 1 0 0 0 1 3857.dat
+1 38 300 -136 70 0 0 -1 0 1 0 1 0 0 2466.dat
+1 1 170 -176 -40 1 0 0 0 1 0 0 0 1 3710.dat
+1 1 70 -176 -40 1 0 0 0 1 0 0 0 1 3023.dat
+1 1 30 -176 -40 1 0 0 0 1 0 0 0 1 4623.dat
+1 1 110 -176 -40 1 0 0 0 1 0 0 0 1 4623.dat
+1 0 -260 -176 -40 0 0 1 0 1 0 -1 0 0 2357.dat
+1 0 -260 -176 20 1 0 0 0 1 0 0 0 1 2357.dat
+1 0 -290 -160 -130 1 0 0 0 1 0 0 0 1 3680.dat
+1 1 -190 -160 220 1 0 0 0 1 0 0 0 1 3023.dat
+1 1 -200 -168 220 1 0 0 0 1 0 0 0 1 4085c.dat
+1 1 -180 -168 220 1 0 0 0 1 0 0 0 1 4085c.dat
+1 15 -290 -24 310 1 0 0 0 1 0 0 0 1 3003.dat
+1 15 230 -24 310 1 0 0 0 1 0 0 0 1 3003.dat
+1 0 -150 -120 550 -1 0 0 0 1 0 0 0 -1 4476.dat
+1 0 -70 -120 550 -1 0 0 0 1 0 0 0 -1 4476.dat
+1 1 50 -24 530 -1 0 0 0 1 0 0 0 -1 6143.dat
+1 1 50 -24 450 -1 0 0 0 1 0 0 0 -1 6143.dat
+1 0 50 -48 450 0 0 -1 0 1 0 1 0 0 4871.dat
+1 0 50 -48 530 0 0 -1 0 1 0 1 0 0 4871.dat
+1 1 -110 -144 560 1 0 0 0 1 0 0 0 1 3009.dat
+1 1 -160 -144 540 1 0 0 0 1 0 0 0 1 3665.dat
+1 1 -60 -144 540 1 0 0 0 1 0 0 0 1 3665.dat
+1 0 300 -144 70 0 0 -1 0 1 0 1 0 0 3839b.dat
+1 1 -190 -160 -240 1 0 0 0 1 0 0 0 1 3023.dat
+1 1 -190 -168 -240 1 0 0 0 1 0 0 0 1 3023.dat
+1 1 -180 -176 -240 0 0 -1 0 1 0 1 0 0 4085c.dat
+1 1 -200 -176 -240 -1 0 0 0 1 0 0 0 -1 4085c.dat
+1 0 -210 -176 20 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 0 -250 -184 -10 0 0 -1 0 1 0 1 0 0 3795.dat
+1 0 -250 -192 -10 0 0 -1 0 1 0 1 0 0 3020.dat
+1 15 -250 -192 -60 1 0 0 0 1 0 0 0 1 3069bp61.dat
+1 1 -360 -176 -70 0 0 1 0 1 0 -1 0 0 3004.dat
+1 1 -360 -176 50 0 0 1 0 1 0 -1 0 0 3004.dat
+1 1 -110 -168 220 -1 0 0 0 1 0 0 0 -1 3010.dat
+1 0 180 -152 70 0 0 -1 0 1 0 1 0 0 3023.dat
+1 0 -290 -160 -130 -0.5 0 -0.866 0 1 0 0.866 0 -0.5 6983 - Base - Seat.ldr
+1 0 250 -152 40 1 0 0 0 1 0 0 0 1 2419.dat
+1 0 250 -152 100 -1 0 0 0 1 0 0 0 -1 2419.dat
+1 15 -210 -200 -40 1 0 0 0 1 0 0 0 1 4864a.dat
+1 15 -210 -200 20 -1 0 0 0 1 0 0 0 -1 3039pc8.dat
+1 0 230 -72 310 -1 0 0 0 1 0 0 0 -1 3940.dat
+1 1 -160 -168 540 -1 0 0 0 1 0 0 0 -1 3040b.dat
+1 1 -60 -168 540 -1 0 0 0 1 0 0 0 -1 3040b.dat
+1 15 20 -56 450 0 0 -1 0 1 0 1 0 0 2412b.dat
+1 15 80 -56 450 0 0 -1 0 1 0 1 0 0 2412b.dat
+1 15 20 -56 530 0 0 -1 0 1 0 1 0 0 2412b.dat
+1 15 80 -56 530 0 0 -1 0 1 0 1 0 0 2412b.dat
+1 0 230 -80 270 0 0 -1 0 1 0 1 0 0 3020.dat
+1 0 220 -80 320 0 0 1 0 1 0 -1 0 0 4081b.dat
+1 0 240 -80 320 0 0 -1 0 1 0 1 0 0 4081b.dat
+1 1 -160 -168 370 0 0 -1 0 1 0 1 0 0 2465.dat
+1 1 -60 -168 370 0 0 -1 0 1 0 1 0 0 2465.dat
+1 0 -170 -200 -10 0 0 -1 0 1 0 1 0 0 2426c01.dat
+1 0 -170 -182 -10 0 0.5 -0.866 0 0.866 0.5 1 0 0 u9068.dat
+1 0 59.5 -144 70 1 0 0 0 1 0 0 0 1 6983 - Base - Platform.ldr
+1 0 110 -200 -62 1 0 0 0 1 0 0 0 1 6983 - Base - Tool.ldr
+1 0 30 -200 -62 1 0 0 0 1 0 0 0 1 6983 - Base - Tool.ldr
+1 1 230 -88 310 0 0 -1 0 1 0 1 0 0 3068bp61.dat
+1 1 110 -184 -30 1 0 0 0 1 0 0 0 1 3832.dat
+1 1 110 -160 170 1 0 0 0 1 0 0 0 1 3832.dat
+1 1 -170 -182 -74 0.866 0 -0.5 -0.5 0 -0.866 0 1 0 6143.dat
+1 0 -270 -200 -10 0 0 1 0 1 0 -1 0 0 3315.dat
+1 15 -250 -200 -40 -1 0 0 0 1 0 0 0 -1 3023.dat
+1 15 -250 -200 20 -1 0 0 0 1 0 0 0 -1 3023.dat
+1 0 -160 -176 470 0 0 -1 0 1 0 1 0 0 4510.dat
+1 0 -160 -176 310 0 0 -1 0 1 0 1 0 0 4510.dat
+1 0 -60 -176 310 0 0 1 0 1 0 -1 0 0 4510.dat
+1 0 -60 -176 470 0 0 1 0 1 0 -1 0 0 4510.dat
+1 0 -130 -176 220 -1 0 0 0 1 0 0 0 -1 3460.dat
+1 0 -326 -196 -10 0 -0.7071 -0.7071 0 0.7071 -0.7071 1 0 0 6983 - Base - Radar 1.ldr
+1 0 210 -160 70 0 0 1 0 1 0 -1 0 0 3597.dat
+1 38 -208 -182 -220 0 1 0 0 0 -1 -1 0 0 6117.dat
+1 38 -206.928 -177 204 -0.5 0.866 0 0 0 -1 -0.866 -0.5 0 6117.dat
+1 38 -186.928 -177 204 -0.5 0.866 0 0 0 -1 -0.866 -0.5 0 6117.dat
+1 0 -160 -184 220 1 0 0 0 1 0 0 0 1 2420.dat
+1 0 -60 -184 220 0 0 -1 0 1 0 1 0 0 2420.dat
+1 15 -110 -184 220 1 0 0 0 1 0 0 0 1 2412b.dat
+1 1 180 -192 -40 0 0 1 0 1 0 -1 0 0 3623.dat
+1 0 186 -164 70 0 -0.6428 -0.766 0 0.766 -0.6428 1 0 0 6983 - Base - Rocket Holder + Rocket.ldr
+1 0 -190 -328 -10 0 0 1 0 1 0 -1 0 0 2680.dat
+1 1 -190 -352 -10 0 0 1 0 1 0 -1 0 0 3003.dat
+1 15 -190 -400 -10 0 0 1 0 1 0 -1 0 0 3940.dat
+1 1 -190 -408 -10 0 0 1 0 1 0 -1 0 0 3022.dat
+1 1 -190 -432 -20 1 0 0 0 1 0 0 0 1 3747a.dat
+1 1 -190 -432 0 -1 0 0 0 1 0 0 0 -1 3747a.dat
+1 0 -190 -440 -10 -1 0 0 0 1 0 0 0 -1 3022.dat
+1 0 220 -88 240 1 0 0 0 1 0 0 0 1 4085c.dat
+1 38 220 -80 220 1 0 0 0 1 0 0 0 1 2569.dat
+1 0 290 -168 70 0 0 -1 0 1 0 1 0 0 4590.dat
+1 0 220 -168 70 0 0 -1 0 1 0 1 0 0 3710.dat
+1 15 -160 -184 390 0 0 1 0 1 0 -1 0 0 3069bp06.dat
+1 15 -60 -184 390 0 0 -1 0 1 0 1 0 0 3069bp06.dat
+1 0 -210 -208 -10 -1 0 0 0 1 0 0 0 -1 3032.dat
+1 38 -200 -440 -80 0 0 1 0 1 0 -1 0 0 2409.dat
+1 38 -200 -440 60 -1 0 0 0 1 0 0 0 -1 2409.dat
+1 0 -160 -202 -240 0 -1 0 1 0 0 0 0 1 6983 - Base - Fence 2.ldr
+1 0 -110 -160 350 0 0 -1 0 1 0 1 0 0 6983 - Base - Crane.ldr
+1 0 250 -176 40 1 0 0 0 1 0 0 0 1 2431.dat
+1 0 250 -176 100 1 0 0 0 1 0 0 0 1 2431.dat
+1 0 250 -184 120 -1 0 0 0 1 0 0 0 -1 2432.dat
+1 0 250 -184 20 1 0 0 0 1 0 0 0 1 2432.dat
+1 1 -190 -448 -10 0 0 1 0 1 0 -1 0 0 3795.dat
+1 0 -190 -456 -10 0 0 1 0 1 0 -1 0 0 3680.dat
+1 0 -190 -456 -10 0.2588 0 -0.9659 0 1 0 0.9659 0 0.2588 6983 - Base - Radar 2.ldr
+1 0 200 -78 332 0.866 0 -0.5 0.5 0 0.866 0 -1 0 6983 - Rocket - Top.ldr
+
+
+0 FILE 6983 - Base - Fence 1.ldr
+0 Base - Fence 1
+0 Name: 6983 - Base - Fence 1.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 -30 -4 0 1 0 0 0 1 0 0 0 1 4276b.dat
+1 0 -50 4 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 0 -70 -4 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 38 -80 4 0 1 0 0 0 1 0 0 0 1 6141.dat
+1 1 -50 -12 0 1 0 0 0 1 0 0 0 1 3710.dat
+1 38 -80 -20 0 1 0 0 0 1 0 0 0 1 3957a.dat
+1 38 -60 -20 0 1 0 0 0 1 0 0 0 1 3957a.dat
+1 38 -40 -20 0 1 0 0 0 1 0 0 0 1 3957a.dat
+1 38 -20 -20 0 1 0 0 0 1 0 0 0 1 3957a.dat
+
+
+0 FILE 6983 - Base - Fence 2.ldr
+0 Base - Fence 2
+0 Name: 6983 - Base - Fence 2.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 30 -2 20 1 0 0 0 1 0 0 0 1 2540.dat
+1 0 30 -10 20 -1 0 0 0 1 0 0 0 -1 4596.dat
+1 38 30 -8 90 -1 0 0 0 0 1 0 1 0 4589.dat
+
+
+0 FILE 6983 - Base - Seat.ldr
+0 Base - Seat
+0 Name: 6983 - Base - Seat.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 7 0 0 0 1 0 0 0 1 0 0 0 1 3679.dat
+1 15 0 -8 -10 1 0 0 0 1 0 0 0 1 4598.dat
+
+
+0 FILE 6983 - Base - Platform.ldr
+0 Base - Platform
+0 Name: 6983 - Base - Platform.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 1 0 0 0 0 0 1 0 1 0 -1 0 0 3030.dat
+1 1 -30 -8 -80 0 0 1 0 1 0 -1 0 0 3794a.dat
+1 1 30 -8 -80 0 0 1 0 1 0 -1 0 0 3794a.dat
+1 1 20 -8 -30 -1 0 0 0 1 0 0 0 -1 3069b.dat
+1 1 20 -8 30 -1 0 0 0 1 0 0 0 -1 3069b.dat
+1 1 0 -8 90 -1 0 0 0 1 0 0 0 -1 3069b.dat
+1 1 -20 -16 -70 -1 0 0 0 1 0 0 0 -1 3034.dat
+1 1 -30 -24 0 0 0 -1 0 1 0 1 0 0 3010.dat
+1 0 0 -8 0 0 0 -1 0 1 0 1 0 0 2460.dat
+1 0 -30 -32 0 0 0 -1 0 1 0 1 0 0 2412b.dat
+1 0 -140 -30 -80 1 0 0 0 1 0 0 0 1 2428.dat
+1 7 0 -18 0 0.9781 0.2079 0 0 0 -1 -0.2079 0.9781 0 2852.dat
+1 7 0 -18 0 0.9781 0.2079 0 0 0 1 0.2079 -0.9781 0 2852.dat
+
+
+0 FILE 6983 - Base - Tool.ldr
+0 Base - Tool
+0 Name: 6983 - Base - Tool.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 0 0 8 -1 0 0 0 0 -1 0 -1 0 2516.dat
+1 38 13 12 0 0 -1 0 0 0 1 -1 0 0 6120.dat
+1 38 -13 12 0 0 1 0 0 0 1 1 0 0 6120.dat
+
+
+0 FILE 6983 - Base - Radar 1.ldr
+0 Base - Radar 1
+0 Name: 6983 - Base - Radar 1.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 0 4 24 1 0 0 0 1 0 0 0 1 3597.dat
+1 0 0 -4 64 1 0 0 0 1 0 0 0 1 3022.dat
+1 0 0 4 74 -1 0 0 0 1 0 0 0 -1 4596.dat
+1 0 0 12 64 1 0 0 0 1 0 0 0 1 4229.dat
+1 15 0 38 0 0 0 -1 -1 0 0 0 1 0 3062b.dat
+1 0 0 6 144 0 0 -1 -1 0 0 0 1 0 4285a.dat
+1 38 0 6 220 0 0 -1 -1 0 0 0 1 0 3957a.dat
+
+
+0 FILE 6983 - Base - Radar 2.ldr
+0 Base - Radar 2
+0 Name: 6983 - Base - Radar 2.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 7 0 0 0 1 0 0 0 1 0 0 0 1 3679.dat
+1 0 0 -8 10 1 0 0 0 1 0 0 0 1 3023.dat
+1 0 0 -16 10 1 0 0 0 1 0 0 0 1 2452.dat
+1 0 0 -12 -10 1 0 0 0 -0.5 0.866 0 -0.866 -0.5 6983 - Base - Radar 2 - 1.ldr
+
+
+0 FILE 6983 - Base - Radar 2 - 1.ldr
+0 Base - Radar 2 - 1
+0 Name: 6983 - Base - Radar 2 - 1.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 15 0 -4 -30 0 0 -1 0 1 0 1 0 0 4531.dat
+1 15 0 12 -30 0 0 -1 0 1 0 1 0 0 3938.dat
+1 0 0 22 -30 0.9659 -0.2588 0 -0.2588 -0.9659 0 0 0 -1 6983 - Base - Radar 2 - 2.ldr
+
+
+0 FILE 6983 - Base - Radar 2 - 2.ldr
+0 Base - Radar 2 - 2
+0 Name: 6983 - Base - Radar 2 - 2.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 1 0 -10 0 1 0 0 0 1 0 0 0 1 2440p67.dat
+
+
+0 FILE 6983 - Base - Rocket Holder.ldr
+0 Base - Rocket Holder
+0 Name: 6983 - Base - Rocket Holder.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 0 -4 56 1 0 0 0 1 0 0 0 1 3315.dat
+1 0 -10 -12 76 0 0 1 0 1 0 -1 0 0 3184.dat
+1 0 10 -12 76 0 0 -1 0 1 0 1 0 0 3184.dat
+1 1 0 -12 26 -1 0 0 0 1 0 0 0 -1 4590.dat
+1 1 0 -20 136 0 0 -1 0 1 0 1 0 0 3832.dat
+1 1 0 -28 196 0 0 -1 0 1 0 1 0 0 3022.dat
+1 1 -10 -28 96 0 0 1 0 1 0 -1 0 0 4315.dat
+1 1 10 -28 96 0 0 -1 0 1 0 1 0 0 4315.dat
+1 0 24 -24 96 0 -0.2588 -0.9659 0 0.9659 -0.2588 1 0 0 6983 - Base - Rocket Holder - Door.ldr
+1 0 -24 -24 96 0 0.2588 0.9659 0 0.9659 -0.2588 -1 0 0 6983 - Base - Rocket Holder - Door.ldr
+1 0 0 -52 196 0 0 -1 0 1 0 1 0 0 4871.dat
+1 0 0 -36 66 1 0 0 0 1 0 0 0 1 3023.dat
+1 0 0 -36 126 1 0 0 0 1 0 0 0 1 3023.dat
+1 0 -38 -8 76 -0.0045 -0.9998 -0.0169 0.2588 -0.0175 0.9658 -0.9659 0 0.2588 2739a.dat
+1 0 38 -8 76 -0.0045 0.9998 0.0169 -0.2588 -0.0175 0.9658 0.9659 0 0.2588 2739a.dat
+1 15 30 -60 186 0.2588 0 0.9659 0 1 0 -0.9659 0 0.2588 6141.dat
+1 15 30 -60 206 0.2588 0 0.9659 0 1 0 -0.9659 0 0.2588 6141.dat
+1 15 -30 -60 186 0.2588 0 0.9659 0 1 0 -0.9659 0 0.2588 6141.dat
+1 15 -30 -60 206 0.2588 0 0.9659 0 1 0 -0.9659 0 0.2588 6141.dat
+1 38 -30 -20 16 0.2588 0 0.9659 0 1 0 -0.9659 0 0.2588 6141.dat
+1 38 30 -20 16 0.2588 0 0.9659 0 1 0 -0.9659 0 0.2588 6141.dat
+
+
+0 FILE 6983 - Base - Rocket Holder - Door.ldr
+0 Base - Rocket Holder - Door
+0 Name: 6983 - Base - Rocket Holder - Door.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 38 0 -68 26 1 0 0 0 1 0 0 0 1 2582.dat
+1 0 0 -60 26 1 0 0 0 1 0 0 0 1 3710.dat
+1 15 0 -76 26 -1 0 0 0 1 0 0 0 -1 3069bp13.dat
+
+
+0 FILE 6983 - Base - Rocket Holder + Rocket.ldr
+0 Base - Rocket Holder + Rocket
+0 Name: 6983 - Base - Rocket Holder + Rocket.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 6983 - Base - Rocket Holder.ldr
+1 0 10 -60 156 0 0 1 -1 0 0 0 -1 0 6983 - Rocket + Rocket - Top.ldr
+
+
+0 FILE 6983 - Base - Crane.ldr
+0 Base - Crane
+0 Name: 6983 - Base - Crane.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 3031.dat
+1 1 0 -24 0 1 0 0 0 1 0 0 0 1 3003.dat
+1 0 0 -24 -30 1 0 0 0 1 0 0 0 1 2653.dat
+1 0 0 -24 30 -1 0 0 0 1 0 0 0 -1 2653.dat
+1 0 0 -48 0 -1 0 0 0 1 0 0 0 -1 3403.dat
+1 0 0 -48 0 -0.7071 0 0.7071 0 1 0 -0.7071 0 -0.7071 6983 - Base - Crane - 1.ldr
+
+
+0 FILE 6983 - Base - Crane - 1.ldr
+0 Base - Crane - 1
+0 Name: 6983 - Base - Crane - 1.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 3404.dat
+1 1 0 -6 50 1 0 0 0 1 0 0 0 1 3149e.dat
+1 4 0 -6 50 1 0 0 0 1 0 0 0 1 313.dat
+1 0 0 -6 50 -1 0 0 0 -0.5 -0.866 0 -0.866 0.5 6983 - Base - Crane - 2.ldr
+
+
+0 FILE 6983 - Base - Crane - 2.ldr
+0 Base - Crane - 2
+0 Name: 6983 - Base - Crane - 2.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 1 0 0 0 -1 0 0 0 1 0 0 0 -1 314e.dat
+1 1 0 -16 100 1 0 0 0 1 0 0 0 1 3149e.dat
+1 4 0 -16 100 1 0 0 0 1 0 0 0 1 313.dat
+1 0 0 -16 100 -1 0 0 0 0.7071 -0.7071 0 -0.7071 -0.7071 6983 - Base - Crane - 3.ldr
+
+
+0 FILE 6983 - Base - Crane - 3.ldr
+0 Base - Crane - 3
+0 Name: 6983 - Base - Crane - 3.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 1 0 0 0 -1 0 0 0 1 0 0 0 -1 314e.dat
+1 0 0 -18 60 -1 0 0 0 1 0 0 0 -1 2412b.dat
+1 0 0 -2 90 -1 0 0 0 1 0 0 0 -1 3022.dat
+1 1 0 -10 110 0 0 -1 0 1 0 1 0 0 2444.dat
+1 7 0 0 130 0 0 -1 0 1 0 1 0 0 3673.dat
+1 0 0 -18 120 1 0 0 0 1 0 0 0 1 2412b.dat
+1 1 0 -18 90 -1 0 0 0 1 0 0 0 -1 3068bp61.dat
+1 0 0 0 140 1 0 0 0 1 0 0 0 1 6983 - Base - Crane - 4.ldr
+
+
+0 FILE 6983 - Base - Crane - 4.ldr
+0 Base - Crane - 4
+0 Name: 6983 - Base - Crane - 4.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 1 0 -10 0 -1 0 0 0 1 0 0 0 -1 2607.dat
+1 0 0 -1 26.6 1 0 0 0 1 0 0 0 1 6983 - Base - Crane - 5 + Rocket.ldr
+
+
+0 FILE 6983 - Base - Crane - 5.ldr
+0 Base - Crane - 5
+0 Name: 6983 - Base - Crane - 5.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 2959c01.dat
+
+
+0 FILE 6983 - Base - Crane - 5 + Rocket.ldr
+0 Base - Crane - 5 + Rocket
+0 Name: 6983 - Base - Crane - 5 + Rocket.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 6983 - Base - Crane - 5.ldr
+1 0 0 0 40.6 0 0.5 0.866 0 0.866 -0.5 -1 0 0 6983 - Rocket.ldr
+
+
+0 FILE 6983 - Base + Minifig.ldr
+0 Base + Minifig
+0 Name: 6983 - Base + Minifig.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 6983 - Base.ldr
+1 0 -210 -216 80 1 0 0 0 1 0 0 0 1 6983 - Minifig 1.ldr
+
+
+0 FILE 6983 - Minifig 1.ldr
+0 Minifig 1
+0 Name: 6983 - Minifig 1.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 0 -27 0 0.956305 0 -0.292372 0 1 0 0.292372 0 0.956305 6983 - Minifig 1 - Helmet.ldr
+1 14 0 -27 0 0.956305 0 -0.292372 0 1 0 0.292372 0 0.956305 3626bp61.dat
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 3838.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 973p61.dat
+1 1 0 32 0 1 0 0 0 1 0 0 0 1 3815.dat
+1 15 -15.552 9 0 0.985 -0.0581434 -0.159748 0.17 0.33689 0.925597 0 -0.939693 0.34202 3818.dat
+1 15 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 1 -20.1161 4.8833 -21.1596 0.985 -0.154049 -0.0718343 0.17 0.892578 0.416216 0 -0.422554 0.906171 3820.dat
+1 1 23.8634 26.5956 -10.321 0.985 0.12019 -0.12019 -0.17 0.696395 -0.696395 0 0.707 0.707 3820.dat
+1 0 0 44 0 1 0 0 0 1 0 0 0 1 3816.dat
+1 0 0 44 0 1 0 0 0 1 0 0 0 1 3817.dat
+
+
+0 FILE 6983 - Minifig 1 - Helmet.ldr
+0 Minifig 1 - Helmet
+0 Name: 6983 - Minifig 1 - Helmet.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 2446.dat
+1 38 0 1.904 4.596 1 0 0 0 0.707107 0.707107 0 -0.707107 0.707107 6119.dat
+
+
+0 FILE 6983 - Minifig 2.ldr
+0 Minifig 2
+0 Name: 6983 - Minifig 2.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 0 -27 0 0.87462 0 -0.48481 0 1 0 0.48481 0 0.87462 6983 - Minifig 2 - Helmet.ldr
+1 14 0 -27 0 0.87462 0 -0.48481 0 1 0 0.48481 0 0.87462 3626bp65.dat
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 3838.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 973p62.dat
+1 1 0 32 0 1 0 0 0 1 0 0 0 1 3815.dat
+1 15 -15.552 9 0 0.985 -0.0207178 -0.168733 0.17 0.120041 0.977658 0 -0.992546 0.121869 3818.dat
+1 1 -19.3212 0.277687 -19.879 0.985 -0.133942 -0.104647 0.17 0.776073 0.606335 0 -0.615569 0.787892 3820.dat
+1 0 0 44 0 1 0 0 0 0 1 0 -1 0 3816.dat
+1 0 0 44 0 1 0 0 0 0 1 0 -1 0 3817.dat
+1 15 15.552 9 0 0.985 0.104662 0.133962 -0.17 0.606427 0.776191 0 -0.788011 0.615661 3819.dat
+1 1 21.255 11.4821 -21.1381 0.985 0.168707 0.0207147 -0.17 0.97751 0.120023 0 -0.121851 0.992396 3820.dat
+
+
+0 FILE 6983 - Minifig 2 - Helmet.ldr
+0 Minifig 2 - Helmet
+0 Name: 6983 - Minifig 2 - Helmet.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 2446.dat
+1 38 0 0 0 1 0 0 0 1 0 0 0 1 6119.dat
+
+
+0 FILE 6983 - Minifig 3.ldr
+0 Minifig 3
+0 Name: 6983 - Minifig 3.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 0 -26.61 7.421 0.87462 0 0.48481 -0.050676 0.994522 0.091423 -0.482154 -0.104528 0.869828 6983 - Minifig 3 - Helmet.ldr
+1 14 0 -26.61 7.421 0.87462 0 0.48481 -0.0506764 0.994522 0.0914227 -0.482154 -0.104528 0.869828 3626bp62.dat
+1 15 0 0.24 4.6 1 0 0 0 0.994522 0.104528 0 -0.104528 0.994522 3838.dat
+1 0 0 0.24 4.6 1 0 0 0 0.994522 0.104528 0 -0.104528 0.994522 973p62.dat
+1 1 0 32.066 1.256 1 0 0 0 0.994522 0.104528 0 -0.104528 0.994522 3815.dat
+1 15 -15.552 9.192 3.657 0.985 -0.126335 -0.113752 0.169069 0.658044 0.733163 -0.0177698 -0.74198 0.67018 3818.dat
+1 15 15.552 9.192 3.657 0.985 0.0497032 0.162572 -0.169069 0.186447 0.967361 0.0177698 -0.981169 0.192308 3819.dat
+1 1 -21.87 13.091 -17.087 0.985 -0.169741 0.00889577 0.169069 0.983584 0.0531087 -0.0177698 -0.0507625 0.998397 3820.dat
+1 1 19.929 1.827 -16.642 0.985 0.150078 0.0797981 -0.169069 0.815743 0.552106 0.0177698 -0.557724 0.829648 3820.dat
+1 0 0 44 0 1 0 0 0 0 1 0 -1 0 3816.dat
+1 0 0 44 0 1 0 0 0 0 1 0 -1 0 3817.dat
+
+
+0 FILE 6983 - Minifig 3 - Helmet.ldr
+0 Minifig 3 - Helmet
+0 Name: 6983 - Minifig 3 - Helmet.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 2446.dat
+1 38 0 0 0 1 0 0 0 1 0 0 0 1 6119.dat

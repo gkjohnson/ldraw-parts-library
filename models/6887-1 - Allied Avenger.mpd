@@ -1,0 +1,209 @@
+0 FILE 6887 - Allied Avenger.ldr
+0 Allied Avenger
+0 Name: 6887 - Allied Avenger.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Blacktron II
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 6887 - Spaceship.ldr
+
+0 FILE 6887 - Spaceship.ldr
+0 Spaceship
+0 Name: 6887 - Spaceship.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Blacktron II
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 6887 - Spaceship - Rear.ldr
+1 0 0 48 -200 1 0 0 0 1 0 0 0 1 6887 - Spaceship - Cockpit.ldr
+1 0 35.466 -57.768 40 0.309017 0.951057 0 -0.951057 0.309017 0 0 0 1 6887 - Spaceship - Wing 1.ldr
+1 0 -35.466 -57.768 -20 0.309017 -0.951057 0 0.951057 0.309017 0 0 0 1 6887 - Spaceship - Wing 2.ldr
+
+
+0 FILE 6887 - Spaceship - Cockpit.ldr
+0 Spaceship - Cockpit
+0 Name: 6887 - Spaceship - Cockpit.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Blacktron II
+
+1 0 0 0 0 0 0 1 0 1 0 -1 0 0 3795.dat
+1 15 0 -24 50 -1 0 0 0 1 0 0 0 -1 3747a.dat
+1 0 0 -24 10 1 0 0 0 1 0 0 0 1 3039.dat
+1 15 10 -24 30 0 0 -1 0 1 0 1 0 0 4070.dat
+1 15 -10 -24 30 0 0 1 0 1 0 -1 0 0 4070.dat
+1 0 0 -72 40 0 0 1 0 1 0 -1 0 0 2434.dat
+1 0 44 -52 10 0 -1 0 -1 0 0 0 0 -1 3937.dat
+1 0 -44 -52 10 0 1 0 1 0 0 0 0 -1 3937.dat
+1 0 -68 -52 80 0 1 0 -1 0 0 0 0 1 3479.dat
+1 0 68 -52 80 0 -1 0 1 0 0 0 0 1 3479.dat
+1 0 0 -48 90 -1 0 0 0 1 0 0 0 -1 3004.dat
+1 0 0 -72 90 -1 0 0 0 1 0 0 0 -1 3700.dat
+1 15 0 -96 50 -1 0 0 0 1 0 0 0 -1 3298.dat
+1 0 0 -96 30 1 0 0 0 1 0 0 0 1 3747a.dat
+1 0 0 8 40 1 0 0 0 1 0 0 0 1 4032a.dat
+1 0 0 8 0 1 0 0 0 1 0 0 0 1 4032a.dat
+1 0 10 8 -40 0 0 1 0 1 0 -1 0 0 4275b.dat
+1 0 -10 8 -40 0 0 1 0 1 0 -1 0 0 4275b.dat
+1 0 10 -104 40 0 0 1 0 1 0 -1 0 0 2412b.dat
+1 0 -10 -104 40 0 0 1 0 1 0 -1 0 0 2412b.dat
+1 0 0 -104 -10 1 0 0 0 1 0 0 0 1 2412b.dat
+1 15 76 -52 90 0 -1 0 1 0 0 0 0 1 2412b.dat
+1 15 -76 -52 90 0 1 0 1 0 0 0 0 -1 2412b.dat
+1 0 30 -14 30 0 -1 0 1 0 0 0 0 1 3959.dat
+1 0 -30 -14 30 0 1 0 -1 0 0 0 0 1 3959.dat
+1 15 76 -52 70 0 -1 0 1 0 0 0 0 1 3839b.dat
+1 15 -76 -52 70 0 1 0 -1 0 0 0 0 1 3839b.dat
+1 0 -10 -7.008 -93.553 1 0 0 0 -0.688355 -0.725374 0 0.725374 -0.688355 6887 - Spaceship - Cockpit - Door.ldr
+1 42 -68 -52 -40 0 1 0 -1 0 0 0 0 1 2418a.dat
+1 42 68 -52 -40 0 -1 0 1 0 0 0 0 1 2418a.dat
+1 0 0 -53 -32 1 0 0 0 1 0 0 0 1 6887 - Minifig.ldr
+
+
+0 FILE 6887 - Spaceship - Cockpit - Door.ldr
+0 Spaceship - Cockpit - Door
+0 Name: 6887 - Spaceship - Cockpit - Door.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Blacktron II
+
+1 0 0 0 0 0 0 1 0 1 0 -1 0 0 4276b.dat
+1 0 20 0 0 0 0 1 0 1 0 -1 0 0 4276b.dat
+1 0 10 8 -10 1 0 0 0 1 0 0 0 1 3023.dat
+1 42 10 8 10 -1 0 0 0 1 0 0 0 -1 2466.dat
+1 15 20 144 10 -1 0 0 0 1 0 0 0 -1 4589.dat
+1 15 0 144 10 -1 0 0 0 1 0 0 0 -1 4589.dat
+1 0 10 16 0 -1 0 0 0 1 0 0 0 -1 4032a.dat
+1 0 10 44 -8 1 0 0 0 0 -1 0 1 0 2516.dat
+
+
+0 FILE 6887 - Spaceship - Rear.ldr
+0 Spaceship - Rear
+0 Name: 6887 - Spaceship - Rear.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Blacktron II
+
+1 0 0 0 0 0 0 1 0 1 0 -1 0 0 3832.dat
+1 0 0 8 80 0 0 1 0 1 0 -1 0 0 3022.dat
+1 0 0 8 -40 0 0 1 0 1 0 -1 0 0 3022.dat
+1 0 0 8 -80 -1 0 0 0 1 0 0 0 -1 4859.dat
+1 15 0 -24 -80 0 0 1 0 1 0 -1 0 0 4730.dat
+1 15 0 -24 20 0 0 1 0 1 0 -1 0 0 3007.dat
+1 0 0 -32 90 -1 0 0 0 1 0 0 0 -1 3839b.dat
+1 0 0 -32 -70 0 0 -1 0 1 0 1 0 0 3021.dat
+1 0 10 -32 10 0 0 -1 0 1 0 1 0 0 4085b.dat
+1 0 -10 -32 10 0 0 1 0 1 0 -1 0 0 4085b.dat
+1 0 0 -32 70 -1 0 0 0 1 0 0 0 -1 3023.dat
+1 0 -10 -32 40 0 0 1 0 1 0 -1 0 0 2452.dat
+1 0 10 -32 40 0 0 -1 0 1 0 1 0 0 2452.dat
+1 0 10 -32 -20 0 0 -1 0 1 0 1 0 0 2452.dat
+1 0 -10 -32 -20 0 0 1 0 1 0 -1 0 0 2452.dat
+1 0 0 16 80 0 0 1 0 1 0 -1 0 0 3940.dat
+1 0 0 16 -60 0 0 1 0 1 0 -1 0 0 3940.dat
+1 0 0 -12 100 -1 0 0 0 0 1 0 1 0 3956.dat
+1 15 0 -12 108 -1 0 0 0 0 1 0 1 0 4591.dat
+1 0 0 -40 20 0 0 -1 0 1 0 1 0 0 3020.dat
+1 15 0 -40 -30 -1 0 0 0 1 0 0 0 -1 3069bp13.dat
+1 0 0 -64 30 1 0 0 0 1 0 0 0 1 3298.dat
+1 0 0 -64 70 0 0 1 0 1 0 -1 0 0 3002.dat
+1 0 0 -112 100 1 0 0 0 1 0 0 0 1 3479.dat
+1 42 30 -21 10 1 0 0 0 1 0 0 0 1 2569.dat
+1 42 -30 -21 10 1 0 0 0 1 0 0 0 1 2569.dat
+1 15 0 -120 110 1 0 0 0 1 0 0 0 1 2419.dat
+
+
+0 FILE 6887 - Spaceship - Wing 1.ldr
+0 Spaceship - Wing 1
+0 Name: 6887 - Spaceship - Wing 1.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Blacktron II
+
+1 0 0 0 0 -1 0 0 0 1 0 0 0 -1 4276b.dat
+1 0 0 0 -60 -1 0 0 0 1 0 0 0 -1 4276b.dat
+1 0 -20 36 10 0 -1 0 0 0 1 -1 0 0 3956.dat
+1 0 -20 36 -70 0 -1 0 0 0 1 -1 0 0 3956.dat
+1 0 60 0 -30 0 0 -1 0 1 0 1 0 0 4475.dat
+1 15 -10 -8 10 0 0 -1 0 1 0 1 0 0 2412b.dat
+1 15 -10 -8 -70 0 0 -1 0 1 0 1 0 0 2412b.dat
+1 0 -28 96 -30 0 -1 0 0 0 -1 1 0 0 4475.dat
+1 15 -28 36 0 0 -1 0 -1 0 0 0 0 -1 3023.dat
+1 15 -28 36 -60 0 -1 0 -1 0 0 0 0 -1 3023.dat
+1 0 -36 36 10 0 -1 0 -1 0 0 0 0 -1 4032a.dat
+1 0 -36 36 -70 0 -1 0 -1 0 0 0 0 -1 4032a.dat
+1 15 -20 136 -30 0 -1 0 -1 0 0 0 0 -1 4150p04.dat
+1 0 -36 156 -30 0 -1 0 1 0 0 0 0 1 4229.dat
+
+
+0 FILE 6887 - Spaceship - Wing 2.ldr
+0 Spaceship - Wing 2
+0 Name: 6887 - Spaceship - Wing 2.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Blacktron II
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 4276b.dat
+1 0 0 0 60 1 0 0 0 1 0 0 0 1 4276b.dat
+1 0 20 36 -10 0 1 0 0 0 1 1 0 0 3956.dat
+1 0 20 36 70 0 1 0 0 0 1 1 0 0 3956.dat
+1 0 -60 0 30 0 0 1 0 1 0 -1 0 0 4475.dat
+1 15 10 -8 -10 0 0 1 0 1 0 -1 0 0 2412b.dat
+1 15 10 -8 70 0 0 1 0 1 0 -1 0 0 2412b.dat
+1 0 28 96 30 0 1 0 0 0 -1 -1 0 0 4475.dat
+1 15 28 36 0 0 1 0 -1 0 0 0 0 1 3023.dat
+1 15 28 36 60 0 1 0 -1 0 0 0 0 1 3023.dat
+1 0 36 36 -10 0 1 0 -1 0 0 0 0 1 4032a.dat
+1 0 36 36 70 0 1 0 -1 0 0 0 0 1 4032a.dat
+1 15 20 136 30 0 1 0 1 0 0 0 0 -1 4150p04.dat
+1 0 36 156 30 0 1 0 -1 0 0 0 0 1 4229.dat
+
+
+0 FILE 6887 - Minifig.ldr
+0 Minifig
+0 Name: 6887 - Minifig.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Blacktron II
+
+1 0 0 -26.672 6.805 0.787994 0.007972 0.615631 -0.068429 0.994855 0.074705 -0.611868 -0.100995 0.784486 6887 - Minifig - Helmet.ldr
+1 14 0 -26.672 6.805 0.787994 0.00797202 0.615631 -0.0684293 0.994855 0.0747053 -0.611868 -0.100995 0.784486 3626bp01.dat
+1 15 0 0.202 4.218 1 0 0 0 0.995396 0.0958458 0 -0.0958458 0.995396 973p51.dat
+1 0 0 32.055 1.152 1 0 0 0 0.995396 0.0958458 0 -0.0958458 0.995396 3815.dat
+1 0 -15.552 9.161 3.353 0.985 -0.159748 -0.0581434 0.169217 0.888555 0.425404 -0.0162938 -0.42916 0.903077 3818.dat
+1 0 15.552 9.161 3.353 0.985 0.158709 0.0609226 -0.169217 0.880995 0.440847 0.0162938 -0.444856 0.89545 3819.dat
+1 0 -23.071 20.563 -13.933 0.985 -0.154049 0.0718343 0.169217 0.928969 -0.327447 -0.0162938 0.335059 0.941892 3820.dat
+1 0 23.023 20.26 -14.149 0.985 0.155279 -0.0691348 -0.169217 0.934542 -0.311185 0.0162938 0.31857 0.947596 3820.dat
+1 15 0 44 0 1 0 0 0 0 1 0 -1 0 3816.dat
+1 15 0 44 0 1 0 0 0 0 1 0 -1 0 3817.dat
+1 0 0 0.202 4.218 1 0 0 0 0.995396 0.0958458 0 -0.0958458 0.995396 3838.dat
+
+0 FILE 6887 - Minifig - Helmet.ldr
+0 Minifig - Helmet
+0 Name: 6887 - Minifig - Helmet.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Blacktron II
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 2446.dat
+1 42 0 1.729 4.416 1 0 0 0 0.731354 0.681998 0 -0.681998 0.731354 2447.dat
+
+

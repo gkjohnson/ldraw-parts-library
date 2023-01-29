@@ -1,0 +1,113 @@
+0 FILE 6831 - Message Decoder.ldr
+0 Message Decoder
+0 Name: 6831 - Message Decoder.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Space Police I
+
+1 0 0 2.1145 -2.1035 1 0 0 0 0.995 -0.1002 0 0.1002 0.995 6831 - Vehicle + Minifig.ldr
+
+
+0 FILE 6831 - Vehicle.ldr
+0 Vehicle
+0 Name: 6831 - Vehicle.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Space Police I
+
+1 0 0 0 0 0 0 -1 0 1 0 1 0 0 3832.dat
+1 0 0 -8 -80 0 0 -1 0 1 0 1 0 0 3020.dat
+1 0 0 -16 20 1 0 0 0 1 0 0 0 1 3787.dat
+1 1 0 -24 70 -1 0 0 0 1 0 0 0 -1 3039.dat
+1 0 0 -24 -60 -1 0 0 0 1 0 0 0 -1 3787.dat
+1 1 -10 -48 70 -1 0 0 0 1 0 0 0 -1 4070.dat
+1 1 10 -48 70 -1 0 0 0 1 0 0 0 -1 4070.dat
+1 0 0 -38 60 -1 0 0 0 0 -1 0 -1 0 3938.dat
+1 1 0 -16 -120 1 0 0 0 1 0 0 0 1 4859.dat
+1 0 -10 -24 -50 0.866 0 -0.5 0 1 0 0.5 0 0.866 4592c01.dat
+1 0 10 -24 -50 0.866 0 0.5 0 1 0 -0.5 0 0.866 4592c01.dat
+1 0 0 -38 50 1 0 0 0 -0.1392 0.9903 0 -0.9903 -0.1392 6831 - Vehicle - Bars.ldr
+1 0 0 -40 -70 1 0 0 0 1 0 0 0 1 3298p53.dat
+1 0 0 8 20 1 0 0 0 1 0 0 0 1 3022.dat
+1 0 0 16 20 1 0 0 0 1 0 0 0 1 122c01.dat
+1 256 -41 22 20 0 0 1 0 1 0 -1 0 0 4288.dat
+1 256 40 22 20 0 0 -1 0 -1 0 -1 0 0 4288.dat
+1 0 0 8 -60 1 0 0 0 1 0 0 0 1 122c01.dat
+1 256 -41 14 -60 0 0 1 0 1 0 -1 0 0 4288.dat
+1 256 40 14 -60 0 0 -1 0 -1 0 -1 0 0 4288.dat
+1 0 0 -38 84 -1 0 0 0 0 -1 0 -1 0 4590.dat
+1 36 -30 -48 68 -1 0 0 0 0 -1 0 -1 0 6141.dat
+1 36 30 -48 68 -1 0 0 0 0 -1 0 -1 0 6141.dat
+
+
+0 FILE 6831 - Vehicle - Bars.ldr
+0 Vehicle - Bars
+0 Name: 6831 - Vehicle - Bars.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Space Police I
+
+1 1 0 -10 0 1 0 0 0 1 0 0 0 1 3937.dat
+1 0 0 14 0 1 0 0 0 1 0 0 0 1 4873.dat
+1 36 50 38 0 1 0 0 0 1 0 0 0 1 4740.dat
+1 36 -50 38 0 1 0 0 0 1 0 0 0 1 4740.dat
+1 0 -50 122 0 1 0 0 0 1 0 0 0 1 3957a.dat
+1 0 50 122 0 1 0 0 0 1 0 0 0 1 3957a.dat
+
+
+
+0 FILE 6831 - Vehicle + Minifig.ldr
+0 Vehicle + Minifig
+0 Name: 6831 - Vehicle + Minifig.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Space Police I
+
+1 0 0 -53 -12 1 0 0 0 1 0 0 0 1 6831 - Minifig.ldr
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 6831 - Vehicle.ldr
+
+
+0 FILE 6831 - Minifig.ldr
+0 Minifig
+0 Name: 6831 - Minifig.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Space Police I
+
+1 0 0 -27 0 0.829038 0 -0.559193 0 1 0 0.559193 0 0.829038 6831 - Minifig - Helmet.ldr
+1 14 0 -27 0 0.829038 0 -0.559193 0 1 0 0.559193 0 0.829038 3626bp01.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 3838.dat
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 973p6b.dat
+1 0 0 32 0 1 0 0 0 1 0 0 0 1 3815.dat
+1 0 -15.552 9 0 0.985 0.0207178 -0.168733 0.17 -0.120041 0.977658 0 -0.992546 -0.121869 3818.dat
+1 0 15.552 9 0 0.985 0.144168 0.0900863 -0.17 0.835327 0.52197 0 -0.529919 0.848048 3819.dat
+1 15 -18.5438 -4.2265 -17.3633 0.985 -0.104647 -0.133942 0.17 0.606335 0.776073 0 -0.787892 0.615569 3820.dat
+1 15 22.449 18.4003 -18.6945 0.985 0.165618 -0.0382359 -0.17 0.95961 -0.221543 0 0.224917 0.974223 3820.dat
+1 15 0 44 0 1 0 0 0 0 1 0 -1 0 3816.dat
+1 15 0 44 0 1 0 0 0 0 1 0 -1 0 3817.dat
+
+
+0 FILE 6831 - Minifig - Helmet.ldr
+0 Minifig - Helmet
+0 Name: 6831 - Minifig - Helmet.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Space Police I
+
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 2446.dat
+1 36 0 0 0 1 0 0 0 1 0 0 0 1 2447.dat
+
+
+

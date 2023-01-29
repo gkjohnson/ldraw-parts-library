@@ -1,0 +1,216 @@
+0 FILE 6879 - Blizzard Baron.ldr
+0 Blizzard Baron
+0 Name: 6879 - Blizzard Baron.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 6879 - Spaceship.ldr
+
+
+0 FILE 6879 - Spaceship.ldr
+0 Spaceship
+0 Name: 6879 - Spaceship.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 0 0 0 1 0 0 0 0.996821 -0.079677 0 0.079677 0.996821 6879 - Spaceship - Main + Minifig.ldr
+1 38 -50 9 -12 1 0 0 0 1 0 0 0 1 6120.dat
+1 38 -30 9 -12 1 0 0 0 1 0 0 0 1 6120.dat
+1 38 50 9 -12 1 0 0 0 1 0 0 0 1 6120.dat
+1 38 30 9 -12 1 0 0 0 1 0 0 0 1 6120.dat
+1 38 10 8.987 -212.638 1 0 0 0 1 0 0 0 1 6120.dat
+1 38 -10 8.987 -212.638 1 0 0 0 1 0 0 0 1 6120.dat
+
+
+0 FILE 6879 - Spaceship - Main.ldr
+0 Spaceship - Main
+0 Name: 6879 - Spaceship - Main.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 0 0 0 0 0 1 0 1 0 -1 0 0 3030.dat
+1 0 0 -24 90 -1 0 0 0 1 0 0 0 -1 3700.dat
+1 15 30 -8 0 0 0 -1 0 1 0 1 0 0 3023.dat
+1 15 -30 -8 0 0 0 -1 0 1 0 1 0 0 3023.dat
+1 15 -100 -8 60 0 0 1 0 1 0 -1 0 0 3934.dat
+1 15 100 -8 60 0 0 -1 0 1 0 1 0 0 3933.dat
+1 15 0 -8 -90 1 0 0 0 1 0 0 0 1 2625.dat
+1 1 30 -16 20 0 0 1 0 1 0 -1 0 0 4477.dat
+1 1 -30 -16 20 0 0 1 0 1 0 -1 0 0 4477.dat
+1 0 -30 -24 80 0 0 1 0 1 0 -1 0 0 3023.dat
+1 0 30 -24 80 0 0 1 0 1 0 -1 0 0 3023.dat
+1 0 0 -16 -100 0 0 1 0 1 0 -1 0 0 3020.dat
+1 15 0 -16 -50 -1 0 0 0 1 0 0 0 -1 3069bp61.dat
+1 0 50 0 60 0 0 1 0 1 0 -1 0 0 3023.dat
+1 0 -50 0 60 0 0 1 0 1 0 -1 0 0 3023.dat
+1 0 0 8 60 1 0 0 0 1 0 0 0 1 3795.dat
+1 0 0 8 90 1 0 0 0 1 0 0 0 1 3666.dat
+1 1 -50 16 80 0 0 1 0 1 0 -1 0 0 4275b.dat
+1 1 -30 16 80 0 0 1 0 1 0 -1 0 0 4275b.dat
+1 1 50 16 80 0 0 1 0 1 0 -1 0 0 4275b.dat
+1 1 30 16 80 0 0 1 0 1 0 -1 0 0 4275b.dat
+1 1 10 0 -120 0 0 1 0 1 0 -1 0 0 4275b.dat
+1 1 -10 0 -120 0 0 1 0 1 0 -1 0 0 4275b.dat
+1 0 0 8 -100 0 0 1 0 1 0 -1 0 0 2654.dat
+1 15 -30 -32 -90 0 0 1 0 1 0 -1 0 0 4070.dat
+1 15 30 -32 -90 0 0 -1 0 1 0 1 0 0 4070.dat
+1 15 0 -16 -30 -1 0 0 0 1 0 0 0 -1 2342.dat
+1 0 0 -32 80 -1 0 0 0 1 0 0 0 -1 3795.dat
+1 1 -50 -14.354 -79.727 -1 0 0 0 -0.999391 -0.0348995 0 -0.0348995 0.999391 2516.dat
+1 38 -50 -15.192 -55.741 -1 0 0 0 -0.999391 -0.0348995 0 -0.0348995 0.999391 6117.dat
+1 1 -110 -16 40 0 0 -1 0 1 0 1 0 0 2412b.dat
+1 1 110 -16 40 0 0 -1 0 1 0 1 0 0 2412b.dat
+1 0 0 -56 80 0 0 -1 0 1 0 1 0 0 6143.dat
+1 15 60 -32 70 0 0 -1 0 1 0 1 0 0 2463.dat
+1 15 -50 -32 60 1 0 0 0 1 0 0 0 1 2463.dat
+1 1 0 -64 80 1 0 0 0 1 0 0 0 1 3795.dat
+1 1 0 -40 -90 1 0 0 0 1 0 0 0 1 3298p61.dat
+1 1 0 -64 -90 -1 0 0 0 1 0 0 0 -1 3937.dat
+1 15 0 -72 80 -1 0 0 0 1 0 0 0 -1 3020.dat
+1 0 -50 -72 80 0 0 -1 0 1 0 1 0 0 3475b.dat
+1 0 50 -72 80 0 0 1 0 1 0 -1 0 0 3475b.dat
+1 1 0 -80 80 -1 0 0 0 1 0 0 0 -1 3795.dat
+1 38 -80 -68 40 0 0 -1 1 0 0 0 -1 0 4740.dat
+1 38 80 -68 40 0 0 -1 1 0 0 0 -1 0 4740.dat
+1 15 0 -88 90 -1 0 0 0 1 0 0 0 -1 2412b.dat
+1 1 -30 -88 80 0 0 1 0 1 0 -1 0 0 4623.dat
+1 1 30 -88 80 0 0 -1 0 1 0 1 0 0 4623.dat
+1 38 52 -91 82 1 0 0 0 1 0 0 0 1 6120.dat
+1 38 -52 -91 82 1 0 0 0 1 0 0 0 1 6120.dat
+1 0 0 -54 -90 1 0 0 0 0.1089 0.9941 0 -0.9941 0.1089 6879 - Spaceship - Cockpit.ldr
+1 0 0 0 130 1 0 0 0 1 0 0 0 1 6879 - Spaceship - Radar.ldr
+
+
+0 FILE 6879 - Spaceship - Cockpit.ldr
+0 Spaceship - Cockpit
+0 Name: 6879 - Spaceship - Cockpit.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 15 0 -10 0 1 0 0 0 1 0 0 0 1 3938.dat
+1 38 0 -146 0 1 0 0 0 1 0 0 0 1 2466.dat
+
+
+0 FILE 6879 - Spaceship - Radar.ldr
+0 Spaceship - Radar
+0 Name: 6879 - Spaceship - Radar.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 0 0 0 -1 0 0 0 1 0 0 0 -1 2419.dat
+1 15 -30 -8 -20 -1 0 0 0 1 0 0 0 -1 3070b.dat
+1 15 30 -8 -20 -1 0 0 0 1 0 0 0 -1 3070b.dat
+1 0 0 -24 20 -1 0 0 0 1 0 0 0 -1 3700.dat
+1 0 0 -24 -10 0 0 1 0 1 0 -1 0 0 4730.dat
+1 7 0 -14 30 0 0 -1 0 1 0 1 0 0 3749.dat
+1 38 0 -14 54 0 0 1 -1 0 0 0 -1 0 6143.dat
+1 38 0 -16 78 0 0 1 -1 0 0 0 -1 0 4589.dat
+1 15 0 -32 0 0 0 -1 0 1 0 1 0 0 3021.dat
+1 15 0 -40 -20 1 0 0 0 1 0 0 0 1 3069bp61.dat
+1 1 0 -40 10 1 0 0 0 1 0 0 0 1 3680.dat
+1 0 0 -40 10 0.9397 0 0.342 0 1 0 -0.342 0 0.9397 6879 - Spaceship - Radar - Turntable.ldr
+
+0 FILE 6879 - Spaceship - Radar - Turntable.ldr
+0 Spaceship - Radar - Turntable
+0 Name: 6879 - Spaceship - Radar - Turntable.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !THEME Space / Ice Planet 2002
+1 7 0 0 0 1 0 0 0 1 0 0 0 1 3679.dat
+1 0 0 -8 0 1 0 0 0 1 0 0 0 1 4032a.dat
+1 0 0 -16 10 -1 0 0 0 1 0 0 0 -1 2540.dat
+1 1 0 -24 10 1 0 0 0 1 0 0 0 1 2452.dat
+1 0 0 -14 30 1 0 0 0 0.9659 0.2588 0 -0.2588 0.9659 6879 - Spaceship - Radar - Turntable - Antenna.ldr
+1 0 0 -20 -10 1 0 0 0 -0.5 0.866 0 -0.866 -0.5 6879 - Spaceship - Radar - Turntable - Radar.ldr
+
+0 FILE 6879 - Spaceship - Radar - Turntable - Antenna.ldr
+0 Spaceship - Radar - Turntable - Antenna
+0 Name: 6879 - Spaceship - Radar - Turntable - Antenna.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 0 -2 20 1 0 0 0 1 0 0 0 1 6019.dat
+1 38 0 -10 20 1 0 0 0 1 0 0 0 1 2569.dat
+
+
+0 FILE 6879 - Spaceship - Radar - Turntable - Radar.ldr
+0 Spaceship - Radar - Turntable - Radar
+0 Name: 6879 - Spaceship - Radar - Turntable - Radar.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 1 0 -4 -30 0 0 -1 0 1 0 1 0 0 4276b.dat
+1 38 0 4 -20 0 0 -1 0 1 0 1 0 0 3960.dat
+1 38 0 20 -20 0 0 -1 0 1 0 1 0 0 4589.dat
+
+
+0 FILE 6879 - Spaceship - Main + Minifig.ldr
+0 Spaceship - Main + Minifig
+0 Name: 6879 - Spaceship - Main + Minifig.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 0 -20 -50 1 0 0 0 1 0 0 0 1 6879 - Spaceship - Main.ldr
+1 0 0 -73 -42 1 0 0 0 1 0 0 0 1 6879 - Minifig.ldr
+
+
+0 FILE 6879 - Minifig.ldr
+0 Minifig
+0 Name: 6879 - Minifig.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 0 0 -25.636 13.851 0.906308 0 0.422618 -0.082449 0.980785 0.176812 -0.414498 -0.19509 0.888893 6879 - Minifig - Helmet.ldr
+1 14 0 -25.636 13.851 0.906308 0 0.422618 -0.0824487 0.980785 0.176812 -0.414498 -0.19509 0.888893 3626bp62.dat
+1 15 0 0.845 8.584 1 0 0 0 0.980785 0.19509 0 -0.19509 0.980785 3838.dat
+1 0 0 0.845 8.584 1 0 0 0 0.980785 0.19509 0 -0.19509 0.980785 973p62.dat
+1 1 0 32.231 2.341 1 0 0 0 0.980785 0.19509 0 -0.19509 0.980785 3815.dat
+1 15 -15.552 9.673 6.828 0.985 -0.128301 -0.11153 0.166733 0.601114 0.781038 -0.0331654 -0.788481 0.614137 3818.dat
+1 15 15.552 9.673 6.828 0.985 0.0411267 0.16495 -0.166733 0.044419 0.984574 0.0331654 -0.99814 0.0508176 3819.dat
+1 1 -21.93 12.023 -14.13 0.985 -0.16956 0.0118568 0.166733 0.977181 0.127206 -0.0331654 -0.123261 0.991651 3820.dat
+1 1 19.743 -0.523 -12.25 0.985 0.145696 0.0875433 -0.166733 0.727498 0.664689 0.0331654 -0.669757 0.741613 3820.dat
+1 0 0 44 0 1 0 0 0 0 1 0 -1 0 3816.dat
+1 0 0 44 0 1 0 0 0 0 1 0 -1 0 3817.dat
+
+
+0 FILE 6879 - Minifig - Helmet.ldr
+0 Minifig - Helmet
+0 Name: 6879 - Minifig - Helmet.ldr
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !THEME Space / Ice Planet 2002
+
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 2446.dat
+1 38 0 1.904 4.596 1 0 0 0 0.707107 0.707107 0 -0.707107 0.707107 6119.dat
+
+

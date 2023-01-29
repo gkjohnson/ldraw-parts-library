@@ -1,0 +1,161 @@
+0 FILE 6716 - Main Model.ldr
+0 Main Model
+0 Name: 6716 - Main Model.ldr
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !THEME Western / Cowboys
+0 !HISTORY 2016-03-16 [Holly-Wood] Creation
+
+1 6 0 0 0 1 0 0 0 1 0 0 0 1 6716 - Wagon.ldr
+1 6 0 0 0 1 0 0 0 1 0 0 0 1 6716 - Drawbar.ldr
+1 6 0 0 0 1 0 0 0 1 0 0 0 1 6716 - Horse.ldr
+1 0 0 10 279 1 0 0 0 0.966 0.259 0 -0.259 0.966 6716 - Cannon.ldr
+1 0 0 -109 8 1 0 0 0 1 0 0 0 1 6716 - Cavalry Soldier.ldr
+1 6 159 9 131 1 0 0 0 1 0 0 0 1 2489.dat
+1 6 126 9 59 1 0 0 0 1 0 0 0 1 2489.dat
+1 7 126 2 57 0.616 0.765 0.191 0 -0.242 0.97 0.788 -0.597 -0.149 30141.dat
+1 15 158 40 -13 -0.276 0 -0.961 0 1 0 0.961 0 -0.276 3069bp03.dat
+
+
+0 FILE 6716 - Wagon.ldr
+0 Wagon
+0 Name: 6716 - Wagon.ldr
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !THEME Western / Cowboys
+0 !HISTORY 2016-03-16 [Holly-Wood] Creation
+
+1 0 0 8 120 0 0 1 0 1 0 -1 0 0 3032.dat
+0 STEP
+1 7 0 0 80 0 0 1 0 1 0 -1 0 0 3022.dat
+0 STEP
+1 0 40 0 80 0 0 -1 0 1 0 1 0 0 3176.dat
+1 0 -40 0 80 0 0 1 0 1 0 -1 0 0 3176.dat
+0 STEP
+1 7 -30 0 120 0 0 1 0 1 0 -1 0 0 3023.dat
+1 7 30 0 120 0 0 1 0 1 0 -1 0 0 3023.dat
+1 0 0 0 150 1 0 0 0 1 0 0 0 1 2926.dat
+0 STEP
+1 7 10 0 170 1 0 0 0 1 0 0 0 1 2420.dat
+1 7 -10 0 170 0 0 -1 0 1 0 1 0 0 2420.dat
+0 STEP
+1 0 -30 -24 140 0 0 1 0 1 0 -1 0 0 3010.dat
+1 0 30 -24 140 0 0 1 0 1 0 -1 0 0 3010.dat
+0 STEP
+1 0 0 -8 190 -1 0 0 0 1 0 0 0 -1 4623.dat
+1 0 0 -24 80 1 0 0 0 1 0 0 0 1 3001.dat
+0 STEP
+1 0 0 -32 190 -1 0 0 0 1 0 0 0 -1 4865a.dat
+1 7 0 -2 115 0 -0.242 -0.97 0.993 0.118 -0.029 0.122 -0.963 0.24 2530.dat
+0 STEP
+1 0 0 -32 80 0 0 1 0 1 0 -1 0 0 3030.dat
+0 STEP
+1 0 30 -56 100 0 0 1 0 1 0 -1 0 0 3008.dat
+1 0 -30 -56 100 0 0 1 0 1 0 -1 0 0 3008.dat
+0 STEP
+1 0 0 -24 0 1 0 0 0 1 0 0 0 1 3003.dat
+1 7 0 0 0 1 0 0 0 1 0 0 0 1 3679.dat
+0 STEP
+1 0 -30 -64 40 0 0 1 0 1 0 -1 0 0 4623.dat
+1 0 -30 -64 100 0 0 1 0 1 0 -1 0 0 4623.dat
+1 0 -30 -64 160 0 0 1 0 1 0 -1 0 0 4623.dat
+1 0 30 -64 160 0 0 -1 0 1 0 1 0 0 4623.dat
+1 0 30 -64 100 0 0 -1 0 1 0 1 0 0 4623.dat
+1 0 30 -64 40 0 0 -1 0 1 0 1 0 0 4623.dat
+0 STEP
+1 7 -10 -56 150 0 0 -1 0 1 0 1 0 0 3062b.dat
+1 7 -10 -56 130 0 0 -1 0 1 0 1 0 0 3062b.dat
+1 7 -10 -56 110 0 0 -1 0 1 0 1 0 0 3062b.dat
+1 7 10 -56 130 0 0 -1 0 1 0 1 0 0 3062b.dat
+1 7 10 -56 150 0 0 -1 0 1 0 1 0 0 3062b.dat
+1 7 -10 -80 150 0 0 -1 0 1 0 1 0 0 3062b.dat
+1 0 -30 -56 0 0 0 -1 0 1 0 1 0 0 4865a.dat
+1 0 30 -56 0 0 0 1 0 1 0 -1 0 0 4865a.dat
+0 STEP
+1 0 -50 5 150 0 0 1 0 1 0 -1 0 0 4489a.dat
+1 0 50 5 150 0 0 -1 0 1 0 1 0 0 4489a.dat
+1 15 0 -178 100 1 0 0 0 1 0 0 0 1 71396p01c01.dat
+
+0 FILE 6716 - Drawbar.ldr
+0 Drawbar
+0 Name: 6716 - Drawbar.ldr
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !THEME Western / Cowboys
+0 !HISTORY 2016-03-16 [Holly-Wood] Creation
+
+1 0 0 8 0 1 0 0 0 1 0 0 0 1 6157.dat
+0 STEP
+1 7 0 8 0 1 0 0 0 1 0 0 0 1 3022.dat
+0 STEP
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 4508.dat
+0 STEP
+1 0 -40 13 0 0 0 1 0 1 0 -1 0 0 2470.dat
+1 0 40 13 0 0 0 -1 0 1 0 1 0 0 2470.dat
+
+0 FILE 6716 - Horse.ldr
+0 Horse
+0 Name: 6716 - Horse.ldr
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !THEME Western / Cowboys
+0 !HISTORY 2016-03-16 [Holly-Wood] Creation
+
+1 0 0 4 -40 0 0 -1 0 1 0 1 0 0 4587.dat
+0 STEP
+1 6 0 -39 -138 1 0 0 0 1 0 0 0 1 3004.dat
+0 STEP
+1 6 0 -7 -138 1 0 0 0 1 0 0 0 1 74323.dat
+
+
+0 FILE 6716 - Cannon.ldr
+0 Cannon
+0 Name: 6716 - Cannon.ldr
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !THEME Western / Cowboys
+0 !HISTORY 2016-03-16 [Holly-Wood] Creation
+
+1 0 0 0 0 0 0 -1 0 1 0 1 0 0 3020.dat
+0 STEP
+1 0 0 -16 20 1 0 0 0 1 0 0 0 1 6157.dat
+0 STEP
+1 6 0 -8 -10 1 0 0 0 1 0 0 0 1 3023.dat
+1 0 0 -8 -40 1 0 0 0 1 0 0 0 1 3176.dat
+0 STEP
+1 6 0 -16 0 -1 0 0 0 1 0 0 0 -1 2527.dat
+0 STEP
+1 7 0 -43 30 -1 0 0 0 0.974 0.225 0 0.225 -0.974 2533c01.dat
+0 STEP
+1 0 40 -11 20 0 0 -1 0 1 0 1 0 0 4489b.dat
+1 0 -40 -11 20 0 0 1 0 1 0 -1 0 0 4489b.dat
+
+
+0 FILE 6716 - Cavalry Soldier.ldr
+0 Cavalry Soldier
+0 Name: 6716 - Cavalry Soldier.ldr
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Model
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !THEME Western / Cowboys
+0 !HISTORY 2016-03-16 [Holly-Wood] Creation
+
+1 1 0 0 0 1 0 0 0 1 0 0 0 1 30135.dat
+1 14 0 0 0 1 0 0 0 1 0 0 0 1 3626bp39.dat
+1 1 0 24 0 1 0 0 0 1 0 0 0 1 973pw2.dat
+1 1 15.552 33 0 0.985 0.154 0.072 -0.16 0.694 0.701 0.058 -0.703 0.709 3819.dat
+1 1 -15.552 33 0 0.985 -0.155 -0.069 0.17 0.9 0.401 0 -0.407 0.914 3818.dat
+1 15 -20.596 44.485 -22.907 -0.056 -0.044 -0.998 -0.444 0.896 -0.014 0.894 0.442 -0.069 977.dat
+1 15 22 35.119 -24.492 0 0 -1 -0.088 0.996 0 0.996 0.088 0 977.dat
+1 7 22.2 36.204 -28.622 1 0 0 0 0.996 -0.088 0 0.088 0.996 30132.dat
+1 1 0 68 0 1 0 0 0 0 1 0 -1 0 3817.dat
+1 1 0 68 0 1 0 0 0 0 1 0 -1 0 3816.dat
+1 1 0 56 0 1 0 0 0 1 0 0 0 1 3815.dat
+1 0 -20.224 35.661 -31.832 0.998 -0.041 -0.058 0.014 0.918 -0.397 0.069 0.395 0.916 2488.dat
+1 15 0 24 0 1 0 0 0 1 0 0 0 1 30133.dat
+
