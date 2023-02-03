@@ -1,0 +1,15 @@
+0 Panel  1 x  6 x  6 with  4 x  2 Window Cutout
+0 Name: 15627.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\15627s01.dat
+
+4 16 -60 0 -10 -36 28 -10 36 28 -10 60 0 -10
+4 16 -36 28 -10 -60 0 -10 -60 144 -10 -36 88 -10
+4 16 -36 88 -10 -60 144 -10 60 144 -10 36 88 -10
+4 16 60 144 -10 60 0 -10 36 28 -10 36 88 -10

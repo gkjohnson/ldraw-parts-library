@@ -1,0 +1,10 @@
+0 ~Train Track  9V Point Tongue Left
+0 Name: 2862.dat
+0 Author: Kevin Roach [KROACH]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 2860a.dat

@@ -1,0 +1,12 @@
+0 Technic Panel Fairing Smooth Right #60 (Wide Medium Parallelogram) with Black Stripe Pattern
+0 Name: 80268p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 42143, Ferrari Daytona SP3
+
+
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 80267p01.dat

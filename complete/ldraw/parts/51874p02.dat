@@ -1,0 +1,21 @@
+0 Animal Dragon Tail End with Faded Red Pattern
+0 Name: 51874p02.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS set 7094, set 7093, castle, Bricklink 51874pb02
+0 !KEYWORDS Rebrickable 51874pat0002, Brickowl 319261
+
+
+1 16 0 0 0 1 0 0 0 -1 0 0 0 1 s\51874p01s01.dat
+1 16 0 0 0 1 0 0 0 -1 0 0 0 -1 s\51874p01s01.dat
+1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 s\51874p01s01.dat
+1 16 0 0 0 -1 0 0 0 -1 0 0 0 -1 s\51874p01s01.dat
+
+1 4 0 0 0 1 0 0 0 -1 0 0 0 1 s\51874p01s02.dat
+1 4 0 0 0 1 0 0 0 -1 0 0 0 -1 s\51874p01s02.dat
+1 4 0 0 0 -1 0 0 0 -1 0 0 0 1 s\51874p01s02.dat
+1 4 0 0 0 -1 0 0 0 -1 0 0 0 -1 s\51874p01s02.dat

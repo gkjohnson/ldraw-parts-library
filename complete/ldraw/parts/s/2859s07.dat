@@ -1,0 +1,41 @@
+0 ~Train Track  9V Wire  1
+0 Name: s\2859s07.dat
+0 Author: Kevin Roach [KROACH]
+0 !LDRAW_ORG Unofficial_Subpart 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2011-01-28 [mikeheide] corrected wrong tori
+0 !HISTORY 2012-09-28 [KROACH] added missing edge lines
+0 !HISTORY 2012-09-29 [Steffen] BFCed
+
+1 16 -34 0 0 0 68 0 -1.25 0 0 0 0 1.25 4-4cyli.dat
+1 16 -34 0 0 0 1 0 -0.25 0 0 0 0 0.25 4-4ring4.dat
+1 16 -34 0 0 0 1 0 1 0 0 0 0 -1 4-4edge.dat
+1 16 -34 0 0 0 1 0 1.25 0 0 0 0 -1.25 4-4edge.dat
+1 16 34 0 0 0 -1 0 0.25 0 0 0 0 0.25 4-4ring4.dat
+1 16 34 0 0 0 1 0 1 0 0 0 0 -1 4-4edge.dat
+1 16 34 0 0 0 1 0 1.25 0 0 0 0 -1.25 4-4edge.dat
+0 // TUBE 2
+1 494 -34 -1.591 1.591 -2.25 0 0 0 -1.591 1.591 0 -1.591 -1.591 t04q4444.dat
+0 // CYLINDER SECTION 1
+1 494 -36.25 -1.591 1.591 0 0 -1 0.7071 -0.25 0 0.7071 0.25 0 4-4cyli.dat
+0 // TUBE 1
+1 494 -36.25 -3.432 0.25 0 2.25 0 1.591 0 -1.591 1.591 0 1.591 t08q4444.dat
+0 // CYLINDER SECTION 2
+1 494 -36.25 -3.432 2.5 1 0 0 0 -1.568 0 0 0 1 4-4cyli.dat
+0 // TOP
+1 494 -36.25 -5 2.5 1 0 0 0 1 0 0 0 1 4-4disc.dat
+1 494 -36.25 -5 2.5 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // TUBE 2
+1 494 34 -1.591 1.591 2.25 0 0 0 -1.59099 1.59099 0 -1.59099 -1.59099 t04q4444.dat
+0 // CYLINDER SECTION 1
+1 494 36.25 -1.591 1.591 0 0 1 0.707107 -0.250033 0 0.707107 0.250033 0 4-4cyli.dat
+0 // TUBE 1
+1 494 36.25 -3.432 0.25 0 -2.25 0 1.59099 0 -1.59099 1.59099 0 1.59099 t08q4444.dat
+0 // CYLINDER SECTION 2
+1 494 36.25 -3.432 2.5 -1 0 0 0 -1.568 0 0 0 1 4-4cyli.dat
+0 // TOP
+1 494 36.25 -5 2.5 1 0 0 0 1 0 0 0 1 4-4disc.dat
+1 494 36.25 -5 2.5 1 0 0 0 1 0 0 0 1 4-4edge.dat

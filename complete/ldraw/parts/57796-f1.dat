@@ -1,0 +1,14 @@
+0 Technic Competition Cannon with Flat Bottom (Relaxed)
+0 Name: 57796-f1.dat
+0 Author: Santeri Piippo [arezey]
+0 !LDRAW_ORG Unofficial_Shortcut 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 57029.dat
+1 494 0 -26 28.75 0 0 1 -1 0 0 0 -1 0 71830-f1.dat
+1 16 0 -19 37 1 0 0 0 0.994968 0.100188 0 -0.100188 0.994968 32075.dat
+1 16 0 -20 -49 1 0 0 0 0 -1 0 1 0 57759.dat
+0 1 16 0 -26 -1 1 0 0 0 1 0 0 0 1 57028a.dat

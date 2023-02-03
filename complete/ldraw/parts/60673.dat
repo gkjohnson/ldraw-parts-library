@@ -1,0 +1,15 @@
+0 Figure Troll Arm Left (Complete)
+0 Name: 60673.dat
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Unofficial_Shortcut 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP To add the hand, use
+0 !HELP 1 16 13.75 45.02 -46 1 0 0 0 1 0 0 0 1 60641.dat
+
+0 BFC CERTIFY CCW
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 60642.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 61531.dat
+0

@@ -1,0 +1,16 @@
+0 Duplo Brick  2 x  2 with Eye without White Spot on 1 Side Pattern
+0 Name: 3437pe0.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Brick
+0 !KEYWORDS Animal, Basic Bucket, Set 1544, Set 2424, bricklink 3437pb015
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3437s01.dat
+4 16 40 0 40 40 48 40 -40 48 40 -40 0 40
+
+1 16 0 0 -40 -1 0 0 0 1 0 0 0 1 s\3437pe2s01.dat

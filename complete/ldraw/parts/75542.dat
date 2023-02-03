@@ -1,0 +1,11 @@
+0 =Train Track  9V Point Left Straight
+0 Name: 75542.dat
+0 Author: [PTadmin]
+0 !LDRAW_ORG Unofficial_Part Alias 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+
+0 // Alias of 2861c01
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 2861c01.dat

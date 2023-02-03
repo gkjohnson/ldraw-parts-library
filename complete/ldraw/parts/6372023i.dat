@@ -1,0 +1,13 @@
+0 Sticker  0.4 x  4.5 with A-pillar in Bright Light Blue
+0 Name: 6372023i.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS set 77942, FIAT, 500, Nuova, Cinquecento
+
+
+1 16 0 -.25 0 45 0 0 0 .25 0 0 0 4 box5-12.dat
+4 212 45 -.25 4 -45 -.25 4 -45 -.25 -4 45 -.25 -4

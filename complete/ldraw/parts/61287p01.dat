@@ -1,0 +1,20 @@
+0 Minifig Helmet Bubble Half with Reddish Brown Western Earth Map Pattern
+0 Name: 61287p01.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS set 4191, set 10224, set 70810, set 76052, Bricklink 61287pb001
+0 !KEYWORDS globe
+
+
+0 !TEXMAP START SPHERICAL 0 -20 0 -26 -20 0 0 -20 -26 180 175 61287p01rb.png
+0 !: 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\61287s02.dat
+0 !TEXMAP FALLBACK
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\61287s02.dat
+0 !TEXMAP END
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\61287s01.dat

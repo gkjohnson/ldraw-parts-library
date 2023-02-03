@@ -1,0 +1,18 @@
+0 Duplo Kettle with Open Handles
+0 Name: 31330.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Figure Accessory
+0 !KEYWORDS Pot, Cauldron
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\31330s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\31330s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\31330s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\31330s01.dat
+1 16 0 -12 0 1 0 0 0 -3 0 0 0 1 stud8.dat
+1 16 0 -96 0 60 0 0 0 70 0 0 0 60 48\4-4cyli.dat

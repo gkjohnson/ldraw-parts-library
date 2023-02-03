@@ -1,0 +1,17 @@
+0 Windscreen  6 x 13 x  2 with SW X-wing Starfighter Cockpit Stickers
+0 Name: 13252ds0.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 13252pb01, Set 10240, Star Wars
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 13252.dat
+
+1 47 0 -9.879 -19.849 1 0 0 0 0.781 0.625 0 -0.625 0.781 6045898d.dat
+1 47 0 0 0 1 0 0 0 1 0 0 0 1 6045898ac01.dat
+1 47 0 0 0 1 0 0 0 1 0 0 0 1 6045898bc01.dat
+1 47 0 0 0 1 0 0 0 1 0 0 0 1 6045898cc01.dat

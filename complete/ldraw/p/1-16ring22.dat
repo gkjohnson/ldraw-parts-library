@@ -1,0 +1,11 @@
+0 Ring 22 x 0.0625
+0 Name: 1-16ring22.dat
+0 Author: Kevin Roach [KROACH]
+0 !LDRAW_ORG Unofficial_Primitive 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+
+4 16 23 0 0 21.2497 0 8.8021 20.3258 0 8.4194 22 0 0
+0 // Build by Primitive Generator 2

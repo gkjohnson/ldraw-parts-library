@@ -1,0 +1,16 @@
+0 Tile  2 x  2 Round with Brown Paw Print Pattern
+0 Name: 4150p09.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Friends, Pet, Puppy, Bricklink 4150pb084, Set 3188, Set 3316
+0 !KEYWORDS Set 3934, Set 3942
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4150s01.dat
+1 16 0 0 0 20 0 0 0 1 0 0 0 20 4-4ering.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4150p09s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\4150p09s01.dat

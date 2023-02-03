@@ -1,0 +1,15 @@
+0 Sticker  3.5 x  3.5 with Horseshoe and Black Horse Head
+0 Name: 190165a.dat
+0 Author: Stefan Frenz [smf]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 6379, Riding, Stable
+
+0 !HISTORY 2020-05-05 [smf] Original sticker data in OMR set 6379
+0 !HISTORY 2021-12-25 [RainbowDolphin] File preparation for LDraw Parts Tracker
+
+1 16 0 -0.25 0 35 0 0 0 0.25 0 0 0 35 box5-12.dat
+1 16 0 -.25 0 1 0 0 0 1 0 0 0 1 s\190165as01.dat

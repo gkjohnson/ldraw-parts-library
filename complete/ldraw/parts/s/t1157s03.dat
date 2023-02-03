@@ -1,0 +1,10 @@
+0 ~| Fx Bricks FxTrack  9V - Point Left - Metal Section  3
+0 Name: s\t1157s03.dat
+0 Author: Ulrich Röder [UR]
+0 !LDRAW_ORG Unofficial_Subpart 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\t1152s03.dat

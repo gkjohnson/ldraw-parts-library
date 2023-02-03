@@ -1,0 +1,21 @@
+0 ~Logo Michelin Colored with Text, Band and Complete Image with Outer Box
+0 Name: s\logomichl01.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Subpart 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP Exact dimensions X = 129.6; Z = 20.25
+
+0 BFC CERTIFY CCW
+
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\logomichi01.dat
+1 14 0 0 0 1 0 0 0 1 0 0 0 1 s\logomichb01.dat
+1 14 0 0 0 1 0 0 0 1 0 0 0 1 s\logomichb02.dat
+1 1 0 0 0 1 0 0 0 1 0 0 0 1 s\logomichb03.dat
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\logomicht01.dat
+1 1 0 0 0 1 0 0 0 1 0 0 0 1 s\logomichb04.dat
+4 14 -30.6061 0 -6.1456 -35.4314 0 -6.1456 -34.8044 0 -7.415 -29.8733 0 -7.415
+4 14 0 0 -6.165 -30.6061 0 -6.1456 -29.8733 0 -7.415 41.105 0 -7.415
+3 14 41.105 0 -7.415 28 0 -6.165 0 0 -6.165
+3 14 41.557 0 -6.165 28 0 -6.165 41.105 0 -7.415

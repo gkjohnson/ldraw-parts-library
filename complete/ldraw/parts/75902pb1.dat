@@ -1,0 +1,19 @@
+0 Minifig Shield Round Bowed with Red and White Concentric Rings, White Star and Silver Highlights Pattern
+0 Name: 75902pb1.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Bricklink 75902pb20, Set 71031, Marvel Superheros, Captain America
+0 !KEYWORDS Winter Soldier, Collectible Minifigures
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\75902s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\75902s02.dat
+
+0 // Pattern
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\75902pb1s01.dat
+1 16 0 0 0 1 0 0 0 -1 0 0 0 1 s\75902pb1s01.dat

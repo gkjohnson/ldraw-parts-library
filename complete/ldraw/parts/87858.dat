@@ -1,0 +1,16 @@
+0 Minifig Torso with Long Arms and Hands
+0 Name: 87858.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Unofficial_Shortcut 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Toy Story, Woody, Jessie, Zurg
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973.dat
+1 16 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 87774.dat
+1 16 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 87773.dat
+1 16 -25.56 37.6015 -11.9 0.985 -0.1202 0.1202 0.17 0.6965 -0.6965 0 0.7071 0.7071 3820.dat
+1 16 25.56 37.6015 -11.9 0.985 0.1202 -0.1202 -0.17 0.6965 -0.6965 0 0.7071 0.7071 3820.dat

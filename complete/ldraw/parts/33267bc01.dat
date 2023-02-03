@@ -1,0 +1,14 @@
+0 Scala Support Tall with Four Grooves  2 x  2 x 22.667 with Protruding Pins on Both Ends
+0 Name: 33267bc01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Shortcut 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+
+1 16 0 -16 0 1 0 0 0 1 0 0 0 1 33232.dat
+1 16 0 13 0 1 0 0 0 0 -1 0 1 0 u9542.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 33267b.dat
+1 16 0 560 0 -1 0 0 0 -1 0 0 0 1 33232.dat
+1 16 0 531 0 1 0 0 0 0 -1 0 1 0 u9542.dat

@@ -1,0 +1,24 @@
+0 | Fx Bricks FxTrack  9V Cross Rail Straight 38.4 - 22.62 Degrees - Metal Rails
+0 Name: t1159.dat
+0 Author: Ulrich Röder [UR]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Train
+0 !KEYWORDS Track System, Third Party
+
+
+1 16 -120 0 50 1 0 0 0 1 0 0 0 1 s\t1159s01.dat
+1 16 120 0 -50 1 0 0 0 1 0 0 0 1 s\t1159s01.dat
+1 16 130 0 0 .89908 0 .38462 0 1 0 -.37462 0 .92308 s\t1159s01.dat
+1 16 -130 0 0 .89908 0 .38462 0 1 0 -.37462 0 .92308 s\t1159s01.dat
+1 16 -321.75 0 50 1 0 0 0 1 0 0 0 1 s\t1159s02.dat
+1 16 321.75 0 -50 -1 0 0 0 1 0 0 0 -1 s\t1159s02.dat
+1 16 -316.231 0 77.597 .92308 0 .38462 0 1 0 -.38462 0 .92308 s\t1159s02.dat
+1 16 316.231 0 -77.597 -.92308 0 -.38462 0 1 0 .38462 0 -.92308 s\t1159s02.dat
+1 16 -194.22 0 -50 1 0 0 0 1 0 0 0 1 s\t1159s03.dat
+1 16 194.22 0 50 -1 0 0 0 1 0 0 0 -1 s\t1159s03.dat
+1 16 -160.049 0 120.854 .92308 0 .38462 0 1 0 -.38462 0 .92308 s\t1159s03.dat
+1 16 160.049 0 -120.854 -.92308 0 -.38462 0 1 0 .38462 0 -.92308 s\t1159s03.dat

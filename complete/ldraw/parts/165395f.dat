@@ -1,0 +1,28 @@
+0 Sticker  1.4 x  5.3 Cutout Rhombus with Yellow Top
+0 Name: 165395f.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 6551, Race car, Flag, Bricklink 6551stk01, Rebrickable 165395
+0 !KEYWORDS Brickowl 930700
+
+
+4 16 -8 0 14 0 0 9 0 0 -9 -8 0 -14
+3 16 -53 0 0 -8 0 14 -8 0 -14
+4 16 0 0 -9 0 0 9 8 0 14 8 0 -14
+3 16 8 0 -14 8 0 14 53 0 0
+4 14 0 -.25 -9 0 -.25 9 -8 -.25 14 -8 -.25 -14
+3 14 -8 -.25 14 -53 -.25 0 -8 -.25 -14
+4 14 8 -.25 14 0 -.25 9 0 -.25 -9 8 -.25 -14
+3 14 8 -.25 14 8 -.25 -14 53 -.25 0
+4 16 -53 0 0 -53 -.25 0 -8 -.25 14 -8 0 14
+4 16 -8 0 -14 -8 -.25 -14 -53 -.25 0 -53 0 0
+4 16 8 0 -14 8 -.25 -14 0 -.25 -9 0 0 -9
+4 16 0 0 -9 0 -.25 -9 -8 -.25 -14 -8 0 -14
+4 16 8 0 14 8 -.25 14 53 -.25 0 53 0 0
+4 16 53 0 0 53 -.25 0 8 -.25 -14 8 0 -14
+4 16 -8 0 14 -8 -.25 14 0 -.25 9 0 0 9
+4 16 0 0 9 0 -.25 9 8 -.25 14 8 0 14

@@ -1,0 +1,15 @@
+0 Minifig Torso with SW Vest with Dark Blue Plates Pattern
+0 Name: 973prj.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 75254, Bricklink 973pb3689, Carasynthia, Dune, Cara, Mandalorian
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
+1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973prjs01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\973prjs01.dat

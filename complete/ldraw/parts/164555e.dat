@@ -1,0 +1,15 @@
+0 =Sticker  1.2 x  1.9 with White Train Logo
+0 Name: 164555e.dat
+0 Author: [PTadmin]
+0 !LDRAW_ORG Unofficial_Part Alias 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 4554, Station, Train, Coffee, Shop, Bricklink 4554stk01
+0 !KEYWORDS Rebrickable 164555, Brickowl 156966
+
+
+0 // Alias of 164575d
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 164575d.dat

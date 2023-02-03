@@ -1,0 +1,18 @@
+0 Technic Beam  5 with Black Ferrari Horse Pattern
+0 Name: 32316pt0.dat
+0 Author: Jens Brühl [jb70]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+0 !KEYWORDS Ferrari, Daytona, set 42143, Bricklink 32316pb074
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\32316s01.dat
+1 0 9 0 0 0 -1 0 0 0 -1.6 1.6 0 0 s\logoferraris02a.dat
+1 16 9 0 0 0 -1 0 0 0 -1.6 1.6 0 0 s\logoferraris02b.dat
+4 16 9 -10 40 9 -9 6.4 9 -9 -6.4 9 -10 -40
+4 16 9 9 -6.4 9 9 6.4 9 10 40 9 10 -40
+4 16 9 9 -6.4 9 10 -40 9 -10 -40 9 -9 -6.4
+4 16 9 10 40 9 9 6.4 9 -9 6.4 9 -10 40

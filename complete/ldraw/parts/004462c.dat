@@ -1,0 +1,18 @@
+0 Sticker  1.1 x  1.1 with LEGO Logo
+0 Name: 004462c.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 392-1, Formula 1, Racer, Bricklink 392.1stk01
+0 !KEYWORDS Rebrickable 004462, Brickowl 792264
+
+
+1 16 0 -0.25 0 11 0 0 0 0.25 0 0 0 11 box5-12.dat
+1 4 0 0 0 0.36 0 0 0 1 0 0 0 0.36 logo-lego-1.dat
+4 4 10.008 -.25 3.6 11 -.25 11 -11 -.25 11 -10.008 -.25 3.6
+4 4 -10.008 -.25 -3.6 -10.008 -.25 3.6 -11 -.25 11 -11 -.25 -11
+4 4 10.008 -.25 -3.6 -10.008 -.25 -3.6 -11 -.25 -11 11 -.25 -11
+4 4 10.008 -.25 3.6 10.008 -.25 -3.6 11 -.25 -11 11 -.25 11

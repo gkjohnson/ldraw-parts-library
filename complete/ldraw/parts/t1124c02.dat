@@ -1,0 +1,20 @@
+0 | FX Bricks PFxBrick -  8 MB Lid
+0 Name: t1124c02.dat
+0 Author: Ulrich Röder [UR]
+0 !LDRAW_ORG Unofficial_Shortcut 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+0 !KEYWORDS Light, Sound and Motor Control, Third Party
+
+
+0 // Created with the express permission and behalf of Fx Bricks (Canada)
+0 // Based on the original production files by Michael Gale.
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 t1124.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\t1124s01.dat
+1 16 0 0 20 1 0 0 0 1 0 0 0 1 t1082.dat
+1 16 0 0 -20 1 0 0 0 1 0 0 0 1 t1082.dat
+1 34 0 0 0 1 0 0 0 1 0 0 0 1 t1084.dat

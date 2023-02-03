@@ -1,0 +1,12 @@
+0 Minifig Leg Right
+0 Name: 3816c.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP Move down 12 units to align with hips
+
+0 BFC CERTIFY CCW
+
+
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 3817c.dat

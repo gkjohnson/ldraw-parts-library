@@ -1,0 +1,15 @@
+0 ~Tyre 14/36 x 20 VR Deformed Quarter
+0 Name: s\6578c01s01.dat
+0 Author: Ulrich Röder [UR]
+0 !LDRAW_ORG Unofficial_Subpart 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6578c01s03.dat
+1 16 0 0 0 .96593 -.25882 0 .25882 .96593 0 0 0 1 s\6578c01s03.dat
+1 16 0 0 0 .86603 -.5 0 .5 .86603 0 0 0 1 s\6578c01s03.dat
+1 16 0 0 0 .70711 -.70711 0 .70711 .70711 0 0 0 1 s\6578c01s03.dat
+1 16 0 0 0 .5 -.86603 0 .86603 .5 0 0 0 1 s\6578c01s03.dat
+1 16 0 0 0 .25882 -.96593 0 .96593 .25882 0 0 0 1 s\6578c01s03.dat

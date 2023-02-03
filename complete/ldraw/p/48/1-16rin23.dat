@@ -1,0 +1,13 @@
+0 Hi-Res Ring 23 x 0.0625
+0 Name: 48\1-16rin23.dat
+0 Author: Max Murtazin [SwampKryakwa]
+0 !LDRAW_ORG Unofficial_48_Primitive 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+
+4 16 23 0 0 24 0 0 23.7936 0 3.132 22.8022 0 3.0015
+4 16 22.8022 0 3.0015 23.7936 0 3.132 23.1816 0 6.2112 22.2157 0 5.9524
+4 16 22.2157 0 5.9524 23.1816 0 6.2112 22.1736 0 9.1848 21.2497 0 8.8021
+0

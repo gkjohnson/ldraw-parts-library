@@ -1,0 +1,11 @@
+0 Ring 23 x 0.0625
+0 Name: 1-16ring23.dat
+0 Author: Max Murtazin [SwampKryakwa]
+0 !LDRAW_ORG Unofficial_Primitive 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-01-03 [MMR1988] Removed malformed at end of file
+
+4 16 23 0 0 24 0 0 22.1736 0 9.1848 21.2497 0 8.8021

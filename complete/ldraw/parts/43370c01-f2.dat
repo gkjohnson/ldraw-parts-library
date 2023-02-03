@@ -1,0 +1,17 @@
+0 Minifig Torso with Arms with Integral Hand (Up Position)
+0 Name: 43370c01-f2.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Shortcut 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Basketball, NBA
+
+
+0 // !Help Up position arm angle: 75°
+0 // !Help Ball position: y=5, z=-29
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 43370.dat
+1 16 -15.552 9 0 0.985 -0.044 -0.16428 0.17 0.25494 0.95185 0 -0.9655 0.25882 43368.dat
+1 16 15.552 9 0 0.985 0.044 0.16428 -0.17 0.25494 0.95185 0 -0.9655 0.25882 43369.dat

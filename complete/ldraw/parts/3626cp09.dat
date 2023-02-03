@@ -1,0 +1,21 @@
+0 Minifig Head with Pineapple Pattern
+0 Name: 3626cp09.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 3626cpb1018, Set 60268, Set 10747, Set 41316, Set 40264
+0 !KEYWORDS Set 41438, Set 41414, Set 561703, Set 40512, Set 41347, Set 41682
+0 !KEYWORDS Set 41108, Set 41035, Set 41312, Set 41313, Set 41118, Set 41397
+0 !KEYWORDS Set 41704, Set 41339, Set 561806, Set 41149, Set 43183, Set 41150
+0 !KEYWORDS Set 41412, Set 21322, Set 40236
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs05.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\3626bs05.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cp09s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\3626cp09s01.dat

@@ -1,0 +1,17 @@
+0 Train Track  9V Point Left Straight
+0 Name: 2861c01.dat
+0 Author: Kevin Roach [KROACH]
+0 !LDRAW_ORG Unofficial_Shortcut 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2012-09-05 [KROACH] Changed rect-4.dat to quads
+0 !HISTORY 2012-09-05 [KROACH] Made BFC compliant
+0 !HISTORY 2012-09-07 [KROACH] Fix the mirror problem
+0 !HISTORY 2012-09-08 [Steffen] changed subfiles structure, unmirrored studs, replaced color 383 by 494
+0 !HISTORY 2012-09-08 [KROACH] changed subfile 2860 to 2862
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 2861c00.dat
+1 16 -170 -8 -37 0.995185 0 0.0980164 0 1 0 -0.0980164 0 0.995185 2862c01.dat
+1 16 -250 0 72.75 0 0 1 0 1 0 1 0 0 2864c01.dat

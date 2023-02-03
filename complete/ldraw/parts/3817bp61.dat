@@ -1,0 +1,18 @@
+0 Minifig Leg Left with Insectoids Blue Circuitry Pattern
+0 Name: 3817bp61.dat
+0 Author: Mikkel Bech Jensen [gaia]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS set 6969, set 3072, Bricklink 970c10pb01, Zotaxian Alien
+0 !KEYWORDS Captain Wizer, Captain Zec
+
+0 !HISTORY 2020-06-21 [MagFors] Adapted to corrected geometry
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817bs01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817bp61s01.dat
+1 80 0 0 0 1 0 0 0 1 0 0 0 1 s\3817bp61s02.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\3817bp61s03.dat
+1 1 0 0 0 1 0 0 0 1 0 0 0 1 s\3817bp61s04.dat

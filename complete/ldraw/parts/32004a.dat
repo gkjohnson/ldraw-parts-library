@@ -1,0 +1,21 @@
+0 Wheel Rim 18 x 41 Model Team Type  1
+0 Name: 32004a.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS rim, 68.8 x 24S
+
+
+0 // Nomenclature: width_(mm) x rim_diameter_(mm) [optional qualifier]
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\32004s01.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\32004as01.dat
+1 16 0 0 0 .5 .866025 0 -.866025 .5 0 0 0 1 s\32004as01.dat
+1 16 0 0 0 -.5 .866025 0 -.866025 -.5 0 0 0 1 s\32004as01.dat
+1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 s\32004as01.dat
+1 16 0 0 0 -.5 -.866025 0 .866025 -.5 0 0 0 1 s\32004as01.dat
+1 16 0 0 0 .5 -.866025 0 .866025 .5 0 0 0 1 s\32004as01.dat

@@ -1,0 +1,17 @@
+0 Sticker  0.8 x  7.8 with Red and White Vertical Stripes
+0 Name: 4584252f.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 7936
+
+
+1 16 0 -.25 0 78 0 0 0 .25 0 0 0 8 box5-12.dat
+4 15 78 -.25 -8 78 -.25 8 60 -.25 8 60 -.25 -8
+4 15 -60 -.25 -8 -60 -.25 8 -78 -.25 8 -78 -.25 -8
+4 4 -60 -.25 8 -60 -.25 -8 -20 -.25 -8 -20 -.25 8
+4 4 20 -.25 -8 60 -.25 -8 60 -.25 8 20 -.25 8
+4 15 -20 -.25 -8 20 -.25 -8 20 -.25 8 -20 -.25 8

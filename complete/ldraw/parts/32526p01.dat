@@ -1,0 +1,14 @@
+0 Technic Beam  3 x  5 Bent 90 with Grille Pattern
+0 Name: 32526p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Jeep Wrangler, Set 42122
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\32526s01.dat
+1 16 20 0 89 0 1 0 1 0 0 0 0 -1 s\32523p02s01.dat
+1 16 20 0 89 0 -1 0 1 0 0 0 0 -1 s\32523p02s01.dat

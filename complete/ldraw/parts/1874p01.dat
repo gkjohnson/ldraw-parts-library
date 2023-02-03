@@ -1,0 +1,14 @@
+0 Windscreen  9 x  6 x  1.667 with Rear Window on Light Bluish Grey Roof Pattern
+0 Name: 1874p01.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 1874pb001, set 76911, Aston Martin, DB5
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1874s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1874p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\1874p01s01.dat

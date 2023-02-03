@@ -1,0 +1,15 @@
+0 Pneumatic Squeezable Bladder for Fire Hose Nozzle with Simulated Jet
+0 Name: 41818.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Technic
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\41818s01.dat
+1 16 0 0 0 0 -1 0 1 0 0 0 0 1 s\41818s01.dat
+1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 s\41818s01.dat
+1 16 0 0 0 0 1 0 -1 0 0 0 0 1 s\41818s01.dat

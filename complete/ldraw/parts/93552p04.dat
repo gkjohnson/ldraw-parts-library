@@ -1,0 +1,17 @@
+0 Minifig Paint Brush with Full Green Tip Pattern
+0 Name: 93552p04.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Set 10292, Set 10784, Set 40533, Set 40565, Set 41690, Set 41702
+0 !KEYWORDS Set 41711, Set 60329, BrickLink 93552pb04
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\93552s01.dat
+1 2 0 0 0 1 0 0 0 1 0 0 0 1 s\93552s02.dat
+1 2 0 0 0 1 0 0 0 1 0 0 0 1 s\93552s03.dat
+1 16 0 -30 0 0.4 0 0 0 -5 0 0 0 0.4 4-4con9.dat

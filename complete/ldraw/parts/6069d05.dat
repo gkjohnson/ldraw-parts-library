@@ -1,0 +1,15 @@
+0 Wedge  4 x  4 Triple with Octan Logo and Red Number Five Sticker
+0 Name: 6069d05.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Shortcut 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 6648, Race car, Mag racer, Bricklink 6069pb01b
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 6069.dat
+1 16 0 6.6667 -30 1 0 0 0 .94868 -.31623 0 .31623 .94868 165345b.dat
+1 16 30 10 0 0 -.70711 -.70711 0 .70711 -.70711 1 0 0 165345c.dat
+1 16 -30 10 0 0 .70711 .70711 0 .70711 -.70711 -1 0 0 165345c.dat

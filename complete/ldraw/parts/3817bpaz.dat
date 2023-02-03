@@ -1,0 +1,37 @@
+0 Minifig Leg Left with Dark Red Loincloth, Belt with White Spikes and White Claws Pattern
+0 Name: 3817bpaz.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP Move down 12 units to align with hips
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Chima, Crug, Bricklink 970c88pb09
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817bs01.dat
+0 // Front
+0 !TEXMAP START PLANAR 2 -6 -10 18 -6 -10 2 27.5 -10 3817bpaz.png
+0 // Rounded Front
+0 !: 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817bs03.dat
+0 // Flat Front
+0 !: 4 16 2 7.657 -4 1.5 20 -4 19.23 20 -4 18.804 7.399 -4
+0 !: 3 16 2 7.399 -4 2 7.657 -4 18.804 7.399 -4
+0 !: 3 16 1.5 7.657 -4 1.5 20 -4 2 7.657 -4
+0 // Foot Front
+0 !: 4 16 19.5 28 -10 19.23 20 -10 1.5 20 -10 1.5 28 -10
+0 !TEXMAP FALLBACK
+0 // Rounded Front
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817bs03.dat
+0 // Flat Front
+4 16 2 7.657 -4 1.5 20 -4 19.23 20 -4 18.804 7.399 -4
+3 16 2 7.399 -4 2 7.657 -4 18.804 7.399 -4
+3 16 1.5 7.657 -4 1.5 20 -4 2 7.657 -4
+0 // Foot Front
+4 16 19.5 28 -10 19.23 20 -10 1.5 20 -10 1.5 28 -10
+0 !TEXMAP END
+
+0 // Foot Top
+4 16 1.5 20 -4 1.5 20 -10 19.23 20 -10 19.23 20 -4

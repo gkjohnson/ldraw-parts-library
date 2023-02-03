@@ -1,0 +1,19 @@
+0 Tile  2 x  2 Round with White Eye Pattern
+0 Name: 14769p0r.dat
+0 Author: Marc Giraudet [Mad_Marc]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 40501, The Wooden Duck, Bricklink 14769pb332
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\14769s01.dat
+1 16 0 0 0 -7 0 0 0 1 0 0 0 -7 5-8disc.dat
+1 16 0 0 0 -7 0 0 0 1 0 0 0 7 1-8disc.dat
+1 15 0 0 0 0 0 7 0 1 0 7 0 0 1-8disc.dat
+1 15 0 0 0 0 0 -7 0 1 0 7 0 0 1-8disc.dat
+1 15 0 0 0 7 0 0 0 1 0 0 0 7 4-4ring1.dat
+1 16 0 0 0 -3.5 0 0 0 1 0 0 0 3.5 4-4ring4.dat
+1 16 0 0 0 -2.5 0 0 0 1 0 0 0 2.5 4-4ring7.dat

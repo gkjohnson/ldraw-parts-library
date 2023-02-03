@@ -1,0 +1,15 @@
+0 Train Track 6 Studs Wide Switch Point Left (Straight)
+0 Name: 53407c01.dat
+0 Author: Jens Brühl [jb70]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2020-12-17 [jb70] Used Left Hand parts 2862b.dat and 2939.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 53407.dat
+1 16 -170 -8 -37 .99518 0 .09802 0 1 0 -.09802 0 .99518 2862b.dat
+1 16 -250 0 72.75 0 0 1 0 1 0 1 0 0 2864.dat
+1 16 -250 0 60 1 0 0 0 1 0 0 0 1 2939.dat
+1 14 -250 -26 170 -1 0 0 0 .883 .469 0 .469 -.883 2866.dat

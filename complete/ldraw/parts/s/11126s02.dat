@@ -1,0 +1,25 @@
+0 ~Ripcord Flexible with Handle Thin for Chima Speedorz (91 Teeth) - Group of 13 Teeth
+0 Name: s\11126s02.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Subpart 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+
+0 // Subparts
+1 16 -24 0 0 1 0 0 0 1 0 0 0 1 s\11126s03.dat
+1 16 -20 0 0 1 0 0 0 1 0 0 0 1 s\11126s03.dat
+1 16 -16 0 0 1 0 0 0 1 0 0 0 1 s\11126s03.dat
+1 16 -12 0 0 1 0 0 0 1 0 0 0 1 s\11126s03.dat
+1 16 -8 0 0 1 0 0 0 1 0 0 0 1 s\11126s03.dat
+1 16 -4 0 0 1 0 0 0 1 0 0 0 1 s\11126s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11126s03.dat
+1 16 4 0 0 1 0 0 0 1 0 0 0 1 s\11126s03.dat
+1 16 8 0 0 1 0 0 0 1 0 0 0 1 s\11126s03.dat
+1 16 12 0 0 1 0 0 0 1 0 0 0 1 s\11126s03.dat
+1 16 16 0 0 1 0 0 0 1 0 0 0 1 s\11126s03.dat
+1 16 20 0 0 1 0 0 0 1 0 0 0 1 s\11126s03.dat
+1 16 24 0 0 1 0 0 0 1 0 0 0 1 s\11126s03.dat
+0 // Primivites
+1 16 -23.175 0 0 0 50.35 0 3 0 0 0 0 3 4-4cyli.dat

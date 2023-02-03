@@ -1,0 +1,11 @@
+0 ~Electric Hub Mario Body Screen
+0 Name: u9117.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+
+4 16 27 17 -23.5 -27 17 -23.5 -27 103 -23.5 27 103 -23.5
+1 16 0 60 -23.5 27 0 0 0 0 -43 0 1 0 box5.dat

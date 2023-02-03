@@ -1,0 +1,21 @@
+0 Duplo Stool with  4 Studs
+0 Name: 65273.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Figure Accessory
+0 !KEYWORDS Furniture, Chair, Seat
+
+0 !HISTORY 2020-12-12 {LEGO/Unity Microgame} Original part shape
+0 !HISTORY 2020-12-30 [Philo] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\65273s01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\65273s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\65273s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\65273s01.dat
+4 16 40 0 20 -20 0 40 -40 0 -20 20 0 -40
+4 16 -36 4 -20 -20 4 36 36 4 20 20 4 -36
+1 16 0 0 0 1 0 0 0 2.75 0 0 0 1 stug7-2x2.dat

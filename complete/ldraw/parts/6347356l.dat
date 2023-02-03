@@ -1,0 +1,22 @@
+0 Sticker  2.7 x  2.7 Round with SW Galactic Republic Logo
+0 Name: 6347356l.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 75309, Star Wars, Gunship
+
+
+1 16 0 0 0 27.25 0 0 0 -1 0 0 0 27.25 48\4-4disc.dat
+1 16 0 0 0 27.25 0 0 0 -.25 0 0 0 27.25 48\4-4cyli.dat
+
+1 16 0 -.25 0 1 0 0 0 1 0 0 0 1 s\6347356ls01.dat
+1 16 0 -.25 0 .70711 0 .70711 0 1 0 -.70711 0 .70711 s\6347356ls01.dat
+1 16 0 -.25 0 0 0 1 0 1 0 -1 0 0 s\6347356ls01.dat
+1 16 0 -.25 0 -.70711 0 .70711 0 1 0 -.70711 0 -.70711 s\6347356ls01.dat
+1 16 0 -.25 0 -1 0 0 0 1 0 0 0 -1 s\6347356ls01.dat
+1 16 0 -.25 0 -.70711 0 -.70711 0 1 0 .70711 0 -.70711 s\6347356ls01.dat
+1 16 0 -.25 0 0 0 -1 0 1 0 1 0 0 s\6347356ls01.dat
+1 16 0 -.25 0 .70711 0 -.70711 0 1 0 .70711 0 .70711 s\6347356ls01.dat

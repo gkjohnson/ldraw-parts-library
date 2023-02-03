@@ -1,0 +1,14 @@
+0 Sheet Fabric Tepee Cover
+0 Name: u9328a.dat
+0 Author: Alex Taylor [anathema]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sheet Fabric
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u9328as01.dat
+1 16 0 -0.5 0 1 0 0 0 -1 0 0 0 1 s\u9328as01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u9328as02.dat

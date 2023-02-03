@@ -1,0 +1,14 @@
+0 Stud Cross without Base Edges (Fast Draw)
+0 Name: 8\studxa.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_8_Primitive 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+
+1 16 0 0 2.75 1.5 0 0 0 -4 0 0 0 1.25 box4-5a.dat
+1 16 -1.5 -2 0 0 -2.5 0 0 0 -2 -1.5 0 0 box4-7a.dat
+1 16 1.5 -2 0 0 2.5 0 0 0 -2 -1.5 0 0 box4-7a.dat
+1 16 0 0 -2.75 1.5 0 0 0 -4 0 0 0 -1.25 box4-5a.dat
+4 16 -1.5 -4 1.5 -1.5 -4 -1.5 1.5 -4 -1.5 1.5 -4 1.5

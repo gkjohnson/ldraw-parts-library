@@ -1,0 +1,14 @@
+0 Flag  6 x  4 with Crossed Cannons over Red Stripes Pattern
+0 Name: 2525p30.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Imperial Guards, Set 6263, Set 6271, Set 6277, Bricklink 2525px1
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2525s01.dat
+1 16 2 0 0 1 0 0 0 1 0 0 0 1 s\2525p30s01.dat
+1 16 -2 0 0 -1 0 0 0 1 0 0 0 1 s\2525p30s01.dat

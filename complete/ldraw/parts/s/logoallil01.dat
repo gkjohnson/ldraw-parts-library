@@ -1,0 +1,20 @@
+0 ~Logo Allianz White Text and Image with Outer Box
+0 Name: s\logoallil01.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Subpart 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP Exact dimensions X = 5; Z = 1.5
+
+0 BFC CERTIFY CCW
+
+
+4 16 -2.5 0 0.75 1.02 0 0.7 2.42 0 0.7 2.5 0 0.75
+4 16 -2.5 0 0.75 -2.475 0 0.3875 0.925 0 0.3875 1.02 0 0.7
+4 16 -2.5 0 0.75 -2.5 0 -0.75 -2.475 0 -0.4125 -2.475 0 0.3875
+1 16 -0.775 0 -0.0125 1 0 0 0 1 0 0 0 1 s\logoallil02.dat
+4 16 0.925 0 0.3875 0.925 0 -0.4125 1.02 0 -0.7 1.02 0 0.7
+1 16 1.72 0 0 1 0 0 0 1 0 0 0 1 s\logoallil03.dat
+4 16 2.5 0 0.75 2.42 0 0.7 2.42 0 -0.7 2.5 0 -0.75
+4 16 -2.475 0 -0.4125 -2.5 0 -0.75 1.02 0 -0.7 0.925 0 -0.4125
+4 16 1.02 0 -0.7 -2.5 0 -0.75 2.5 0 -0.75 2.42 0 -0.7

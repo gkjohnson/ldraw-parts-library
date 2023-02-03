@@ -1,0 +1,16 @@
+0 Tile  8 x 16 Type 2 with Ferrari Daytona SP3 Specifications Pattern
+0 Name: 90498pt0.dat
+0 Author: Jens Brühl [jb70]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS set 42143, Ferrari, Daytona, Bricklink 90498pr0014
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\90498s01.dat
+0 !TEXMAP START PLANAR -160 0 80 160 0 80 -160 0 -80 90498pt0.png
+0 !: 4 16 -160 0 80 -160 0 -80 160 0 -80 160 0 80
+0 !TEXMAP FALLBACK
+4 16 -160 0 80 -160 0 -80 160 0 -80 160 0 80

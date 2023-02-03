@@ -1,0 +1,23 @@
+0 Tile  1 x  4 with Ferrari Daytona Dashboard Pattern
+0 Name: 2431pc2.dat
+0 Author: Jens Brühl [jb70]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS set 42143, Ferrari, Daytona, Bricklink 2431pr0182
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2431s01.dat
+
+0 !TEXMAP START PLANAR -39 0 9 39 0 9 -39 0 -9 2431pc2.png
+0 !: 4 16 -39 0 9 -39 0 -9 39 0 -9 39 0 9
+0 !TEXMAP FALLBACK
+4 16 -39 0 9 -39 0 -9 39 0 -9 39 0 9
+0 !TEXMAP END
+
+4 16 39 0 -9 -39 0 -9 -40 0 -10 40 0 -10
+4 16 39 0 9 39 0 -9 40 0 -10 40 0 10
+4 16 39 0 9 40 0 10 -40 0 10 -39 0 9
+4 16 -39 0 9 -40 0 10 -40 0 -10 -39 0 -9

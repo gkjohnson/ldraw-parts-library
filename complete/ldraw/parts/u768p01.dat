@@ -1,0 +1,20 @@
+0 Sail 11 x  9 Trapezoidal with Stripes on White Background Pattern
+0 Name: u768p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sheet Fabric
+0 !KEYWORDS Imperial Trading Post, set 6277, Lagoon Lock-Up, set 6267
+0 !KEYWORDS Enchanted Island, set 6278, set 6292, King Kahuka's Throne, set 6262
+0 !KEYWORDS Rock Island Refuge, set 6273
+
+
+1 15 0 -0.25 0 1 0 0 0 1 0 0 0 1 s\u768s01.dat
+1 15 0 0 0 1 0 0 0 -1 0 0 0 1 s\u768s01.dat
+1 16 0 -0.25 0 1 0 0 0 1 0 0 0 1 s\u768s02.dat
+1 16 0 0 0 1 0 0 0 -1 0 0 0 1 s\u768s02.dat
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\u768s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u768s04.dat

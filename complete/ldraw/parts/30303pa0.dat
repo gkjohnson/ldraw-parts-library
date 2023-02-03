@@ -1,0 +1,14 @@
+0 Plate  6 x  6 x  0.667 Cross with Dome and Black and Yellow Danger Stripes Pattern
+0 Name: 30303pa0.dat
+0 Author: Tim Lampmann [L4mpi]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Rock Raiders, Tunnel, Transport, Set 4980, Bricklink 30303pb01
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30303s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30303pa0s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30303pa0s01.dat

@@ -1,0 +1,21 @@
+0 Animal Dragon Tail End with Faded Dark Bluish Grey Pattern
+0 Name: 51874p01.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS set 4767, Harry Potter, Hungarian Horntail, Bricklink 51874pb01
+0 !KEYWORDS Rebrickable 51874pat0001, Brickowl 938855
+
+
+1 16 0 0 0 1 0 0 0 -1 0 0 0 1 s\51874p01s01.dat
+1 16 0 0 0 1 0 0 0 -1 0 0 0 -1 s\51874p01s01.dat
+1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 s\51874p01s01.dat
+1 16 0 0 0 -1 0 0 0 -1 0 0 0 -1 s\51874p01s01.dat
+
+1 72 0 0 0 1 0 0 0 -1 0 0 0 1 s\51874p01s02.dat
+1 72 0 0 0 1 0 0 0 -1 0 0 0 -1 s\51874p01s02.dat
+1 72 0 0 0 -1 0 0 0 -1 0 0 0 1 s\51874p01s02.dat
+1 72 0 0 0 -1 0 0 0 -1 0 0 0 -1 s\51874p01s02.dat

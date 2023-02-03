@@ -1,0 +1,17 @@
+0 Animal Bunny Sitting with Bright Light Blue Eyes, Bright Pink Nose and Mouth and Black Whisker Dots Pattern
+0 Name: 98387p01.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Rabbit, Friends, Disney Princess, Daisy, Bricklink 98387pb01
+0 !KEYWORDS Set 3935, Set 3938, Set 40080, Set 41001, Set 41039, Set 41060
+0 !KEYWORDS Set 41087, Set 41110, Set 41308
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98387s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\98387s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98387p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\98387p01s01.dat

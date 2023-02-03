@@ -1,0 +1,22 @@
+0 Technic Bionicle Weapon Pincer  7 x 12
+0 Name: 60926.dat
+0 Author: Santeri Piippo [arezey]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS blade, claw
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\60926s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\60926s01.dat
+1 16 0 0 -20 0 1 0 -1 0 0 0 0 1 beamhole.dat
+1 16 0 0 0 0 1 0 0 0 1 1 0 0 connhole.dat
+1 16 0 0 0 0 -1 0 1 0 0 0 0 -1 axleconnect.dat
+1 16 0 0 0 0 -1 0 -1 0 0 0 0 -1 axleconnect.dat
+1 16 0 0 30 0 0 1 -1 0 0 0 -20 0 axle.dat
+0 BFC INVERTNEXT
+1 16 4 29.5 -74.5 0 4.25 0 8 0 0 0 0 8 4-4cylc.dat
+0 BFC INVERTNEXT
+1 16 0 29.5 -74.5 0 -8.25 0 8 0 0 0 0 8 4-4cylc.dat

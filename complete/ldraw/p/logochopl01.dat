@@ -1,0 +1,13 @@
+0 Logo White Chopard with Outer Box
+0 Name: logochopl01.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Primitive 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP Exact dimensions X = 94.8; Z = 10
+
+0 BFC CERTIFY CCW
+
+
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 logochopt01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 logochopb01.dat

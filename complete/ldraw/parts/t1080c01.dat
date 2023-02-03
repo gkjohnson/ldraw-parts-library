@@ -1,0 +1,25 @@
+0 | Fx Bricks PFxBrick V2  2 x  5 x  4
+0 Name: t1080c01.dat
+0 Author: Ulrich Röder [UR]
+0 !LDRAW_ORG Unofficial_Shortcut 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+0 !KEYWORDS Light, Sound and Motor Control, Third Party
+
+
+0 // Injection molded version introduced Jun 2020
+0 // Created with the express permission and behalf of Fx Bricks (Canada)
+0 // Based on the original production files by Michael Gale.
+
+1 72 0 0 0 1 0 0 0 1 0 0 0 1 t1080.dat
+1 71 0 0 0 1 0 0 0 1 0 0 0 1 t1081.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 t1079.dat
+1 334 0 0 0 1 0 0 0 1 0 0 0 1 t1083.dat
+1 494 0 -38.9 38.7 -1 0 0 0 -1 0 0 0 1 t1089.dat
+1 494 39.75 -5 31 1 0 0 0 1 0 0 0 1 s\t1080s02.dat
+1 494 39.75 -5 -31 1 0 0 0 1 0 0 0 1 s\t1080s02.dat
+1 494 -39.75 -5 31 1 0 0 0 1 0 0 0 1 s\t1080s02.dat
+1 494 -39.75 -5 -31 1 0 0 0 1 0 0 0 1 s\t1080s02.dat

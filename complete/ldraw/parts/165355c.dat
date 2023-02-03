@@ -1,0 +1,23 @@
+0 Sticker  1.5 x  2.1 with Octan Logo on Transparent Background
+0 Name: 165355c.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 6594, Tanker, Truck, Trailer
+
+
+1 16 0 -0.25 0 21 0 0 0 0.25 0 0 0 15 box5-12.dat
+0 BFC NOCLIP
+1 16 0 -0.25 0 1.2 0 0 0 1 0 0 0 1.2 logo-octan.dat
+0 BFC CLIP
+4 16 21 -0.25 15 -21 -0.25 15 0 -0.25 13.8 19.2 -0.25 13.8
+4 16 21 -0.25 15 19.2 -0.25 13.8 19.2 -0.25 0 21 -0.25 -15
+3 16 19.2 -0.25 0 19.2 -0.25 -13.8 21 -0.25 -15
+4 16 21 -0.25 -15 19.2 -0.25 -13.8 0 -0.25 -13.8 -21 -0.25 -15
+3 16 0 -0.25 -13.8 -19.2 -0.25 -13.8 -21 -0.25 -15
+4 16 -21 -0.25 -15 -19.2 -0.25 -13.8 -19.2 -0.25 0 -21 -0.25 15
+3 16 -21 -0.25 15 -19.2 -0.25 0 -19.2 -0.25 13.8
+3 16 -21 -0.25 15 -19.2 -0.25 13.8 0 -0.25 13.8

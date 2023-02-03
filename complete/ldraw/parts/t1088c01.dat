@@ -1,0 +1,17 @@
+0 | FxBricks XL Speaker  4 x  6 x  2.4
+0 Name: t1088c01.dat
+0 Author: Ulrich Röder [UR]
+0 !LDRAW_ORG Unofficial_Shortcut 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+0 !KEYWORDS PFxBrick, Third Party, Sound
+
+
+0 // Created with the express permission and behalf of FxBrick (Canada)
+0 // Based on the original production files by Michael Gale.
+
+1 71 0 0 0 1 0 0 0 1 0 0 0 1 t1088.dat
+1 256 0 0 0 1 0 0 0 1 0 0 0 1 t1087.dat

@@ -1,0 +1,23 @@
+0 Minifig Leg Left Long
+0 Name: 87775.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Toy Story, Woody, Jessie
+
+0 !HISTORY 2019-06-07 [MagFors] Reworked with 3817b as reference
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87775s01.dat
+0 // Rounded Front
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87775s03.dat
+0 // Flat Front
+4 16 2 7.657 -4 1.5 40 -4 19.1476 40 -4 17.71141 7.399 -4
+3 16 2 7.399 -4 2 7.657 -4 17.71141 7.399 -4
+3 16 1.5 7.657 -4 1.5 40 -4 2 7.657 -4
+0 // Foot Top
+4 16 1.5 40 -4 1.5 40 -10 19.1476 40 -10 19.1476 40 -4
+0 // Foot Front
+4 16 19.5 48 -10 19.1476 40 -10 1.5 40 -10 1.5 48 -10

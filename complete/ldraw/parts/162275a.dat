@@ -1,0 +1,15 @@
+0 Sticker  1.9 x  7.9 with Black Striped "CUSTOM" on Transparent Background
+0 Name: 162275a.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 5550, Custom Rally Van, Truck, Model Team, Bricklink 5550stk01
+0 !KEYWORDS Rebrickable 162275, Brickowl 321461
+
+
+1 16 0 -0.25 0 79 0 0 0 0.25 0 0 0 19 box5-12.dat
+0 BFC NOCLIP
+1 16 0 -.25 0 1 0 0 0 1 0 0 0 1 s\162275as01.dat

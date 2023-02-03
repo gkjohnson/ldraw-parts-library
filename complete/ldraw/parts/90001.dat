@@ -1,0 +1,17 @@
+0 ~Animal Octopus Tentacles  8 x  8 - Rubber Legs
+0 Name: 90001.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Toy Story
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\90001s01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\90001s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\90001s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\90001s01.dat
+0 BFC INVERTNEXT
+1 16 0 11 0 -10 0 0 0 -6 0 0 0 10 4-4cylo.dat

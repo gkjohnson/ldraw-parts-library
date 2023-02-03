@@ -1,0 +1,23 @@
+0 Figure Friends Handbag with Metallic Silver Zipper and Purple Side Pattern
+0 Name: 93091p01.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 3185, Set 3316, Set 41058, Set 850591, bricklink 93091pb01
+
+0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2020-10-25 [RainbowDolphin] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\93091s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\93091s01.dat
+1 80 0 0 0 1 0 0 0 1 0 0 0 1 s\93091s02.dat
+
+0 // Handle
+1 16 11.75 0 0 0 -1 0 4 0 0 0 0 4 4-4disc.dat
+1 16 -11.75 0 0 0 23.5 0 4 0 0 0 0 4 4-4cylc.dat
+
+4 22 10.822 11.517 8.115 13.151 25.337 9.166 -13.151 25.337 9.166 -10.822 11.517 8.115
+4 22 -13.151 25.337 -9.166 13.151 25.337 -9.166 10.822 11.517 -8.115 -10.822 11.517 -8.115

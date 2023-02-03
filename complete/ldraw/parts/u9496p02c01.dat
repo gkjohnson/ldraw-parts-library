@@ -1,0 +1,41 @@
+0 Sail 15 x 22 Triangular with Thin Stripes on White Background Pattern (Formed Shape 1)
+0 Name: u9496p02c01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP Placement on windmill wing:
+0 !HELP 1 1 0 0 0 0 1 0 0 0 -1 -1 0 0 32016.dat
+0 !HELP 1 0 -11.481 -27.716 0 -.383 .924 0 -.924 -.383 0 0 0 1 32062.dat
+0 !HELP 1 0 0 90 0 0 1 0 1 0 0 0 0 -1 3707.dat
+0 !HELP 1 7 0 180 0 0 1 0 0 0 -1 -1 0 0 32034.dat
+0 !HELP 1 0 0 290 0 0 1 0 -1 0 0 0 0 1 3737.dat
+0 !HELP 1 1 0 400 0 -1 0 0 0 1 0 0 0 -1 32014.dat
+0 !HELP 1 0 0 400 30 0 0 1 0 -1 0 1 0 0 32062.dat
+0 !HELP 1 7 0 400 60 0 -1 0 1 0 0 0 0 1 32015.dat
+0 !HELP 1 0 120.104 400 109.749 .924 0 -.383 0 1 0 .383 0 .924 3708.dat
+0 !HELP 1 7 221.731 400 151.844 .383 0 -.924 0 -1 0 -.924 0 -.383 3713.dat
+0 !HELP 1 7 203.253 400 144.19 .924 0 .383 0 -1 0 .383 0 -.924 6536.dat
+0 !HELP 1 7 0 0 -10 0 1 0 0 0 -1 -1 0 0 3749.dat
+0 !HELP 1 7 10 400 0 1 0 0 0 0 -1 0 1 0 3749.dat
+0 !HELP 1 7 207.08 380 134.952 .383 .924 0 0 0 -1 -.924 .383 0 3749.dat
+0 !HELP 1 7 211.673 380 123.865 -.924 0 -.383 0 -1 0 -.383 0 .924 3713.dat
+0 !HELP 1 7 22 400 0 0 0 -1 0 -1 0 -1 0 0 3713.dat
+0 !HELP 1 7 0 0 -22 -1 0 0 0 -1 0 0 0 1 3713.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sheet Fabric
+0 !KEYWORDS eLAB Renewable Energy Set, set 9681, set 9684
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u9496p02c01s01.dat
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\u9496p02c01s02.dat
+
+0 BFC INVERTNEXT
+1 16 -.2 0 .2 1 0 0 0 1 0 0 0 1 s\u9496p02c01s01.dat
+0 BFC INVERTNEXT
+1 15 -.2 0 .2 1 0 0 0 1 0 0 0 1 s\u9496p02c01s02.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u9496p02c01s03.dat
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\u9496p02c01s04.dat

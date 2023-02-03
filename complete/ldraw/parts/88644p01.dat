@@ -1,0 +1,15 @@
+0 Rock  4 x  4 x  1.667 Bottom with Trans Light Blue Crystals Pattern
+0 Name: 88644p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Octagonal, Boulder, Geode, Bricklink 88644pb01, Set 60348
+
+0 !HISTORY 2022-03-09 {LEGO Instructions App} Original part shape
+0 !HISTORY 2022-03-11 [Philo] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\88644s01.dat
+1 43 0 0 0 1 0 0 0 1 0 0 0 1 s\88644s02.dat

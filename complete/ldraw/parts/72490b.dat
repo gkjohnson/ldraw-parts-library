@@ -1,0 +1,17 @@
+0 Container Zeppelin Tail
+0 Name: 72490b.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Lid, Adventurers, Johnny Thunder
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\72490bs01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\72490bs01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\72490bs01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\72490bs01.dat
+
+4 16 3.6956 170.4 -1.5308 -1.5308 170.4 -3.6956 -3.6956 170.4 1.5308 1.5308 170.4 3.6956

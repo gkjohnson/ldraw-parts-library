@@ -1,0 +1,21 @@
+0 Minifig Helmet SW Clone Trooper Commander Phase I Front Face with Bright Light Orange Markings and Black Visor Pattern
+0 Name: 61189ps3.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Set 75309, Set 40558, Bricklink 61189pb18, Star Wars, Set 75340
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\61189s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\61189ps3s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\61189ps3s01.dat
+4 16 1.875 -14.522 20.554 -1.875 -14.522 20.554 -1.875 -14.206 -6.245 1.875 -14.206 -6.245
+
+3 191 0 -1.85 -16.557 1.875 -3.652 -15.771 -1.875 -3.652 -15.771
+4 191 1.875 -7.57 -14.532 -1.875 -7.57 -14.532 -1.875 -3.652 -15.771 1.875 -3.652 -15.771
+4 191 -1.875 -12.022 -10.726 -1.875 -7.57 -14.532 1.875 -7.57 -14.532 1.875 -12.022 -10.726
+4 191 -1.875 -14.206 -6.245 -1.875 -12.022 -10.726 1.875 -12.022 -10.726 1.875 -14.206 -6.245

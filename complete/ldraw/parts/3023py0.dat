@@ -1,0 +1,19 @@
+0 Plate  1 x  2 with Silver Aston Martin Logo on Front Face Pattern
+0 Name: 3023py0.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Speed Champions, Vantage, GT3, Set 76910 Bricklink 3023pb03
+
+
+0 // Subparts
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3023s01.dat
+1 16 0 4 -10 .17 0 0 0 .17 0 0 0 1 s\3023py0s01.dat
+0 // Patterned face
+4 16 -20 0 -10 -17 .821 -10 17 .821 -10 20 0 -10
+4 16 -20 0 -10 -20 8 -10 -17 7.179 -10 -17 .821 -10
+4 16 20 0 -10 17 .821 -10 17 7.179 -10 20 8 -10
+4 16 -20 8 -10 20 8 -10 17 7.179 -10 -17 7.179 -10

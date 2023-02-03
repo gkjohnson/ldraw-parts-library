@@ -1,0 +1,15 @@
+0 Hi-Res Ring 18 x 0.0625
+0 Name: 48\1-16ring18.dat
+0 Author: Joerg Sommerer [Brickaneer]
+0 !LDRAW_ORG Unofficial_48_Primitive 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2010-07-17 [Brickaneer] Created.
+
+0 // Derived from 1-4rin18.
+
+4 16 18 0 0 19 0 0 18.8375 0 2.48 17.846 0 2.3495
+4 16 17.846 0 2.3495 18.8375 0 2.48 18.3526 0 4.9176 17.3867 0 4.6587
+4 16 17.3867 0 4.6587 18.3526 0 4.9176 17.5537 0 7.271 16.6298 0 6.8883

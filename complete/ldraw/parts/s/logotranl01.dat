@@ -1,0 +1,15 @@
+0 ~Logo Transformers Autobot G1 Red and White on Neutral Background
+0 Name: s\logotranl01.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Subpart 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP Exact dimensions X = 10; Z = 10
+
+0 BFC CERTIFY CCW
+
+
+1 4 0 0 0 1 0 0 0 1 0 0 0 1 s\logotrani01.dat
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\logotrani02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\logotranb01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\logotranb01.dat

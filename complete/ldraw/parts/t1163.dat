@@ -1,0 +1,18 @@
+0 | Fx Bricks FxTrack  9V Point - Electrical Polarity Contact Brackets
+0 Name: t1163.dat
+0 Author: Ulrich Röder [UR]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Train
+0 !KEYWORDS Track System, Third Party
+
+
+1 16 -51 0 241.25 -1 0 0 0 1 0 0 0 1 s\t1161s01.dat
+1 16 63.66 0 240.113 .9941 0 .1089 0 1 0 -.1089 0 .9941 s\t1161s01.dat
+1 16 74.988 0 326.567 .988 0 .1545 0 1 0 -.1545 0 .988 s\t1161s01.dat
+1 16 49 0 330 -1 0 0 0 1 0 0 0 1 s\t1161s01.dat
+1 16 -51 0 330 -1 0 0 0 1 0 0 0 1 s\t1161s01.dat
+1 16 -26.069 0 326.883 .9895 0 .1446 0 1 0 -.1446 0 .9895 s\t1161s01.dat

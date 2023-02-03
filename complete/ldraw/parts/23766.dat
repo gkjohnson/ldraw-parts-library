@@ -1,0 +1,15 @@
+0 Minifig Head Cuboid with Raised Rectangle
+0 Name: 23766.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Minecraft
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\23766s01.dat
+
+4 16 15 0 -15 -15 0 -15 -15 33.5 -15 15 33.5 -15
+4 16 3.75 22.75 -18.75 -3.75 22.75 -18.75 -3.75 36.25 -18.75 3.75 36.25 -18.75

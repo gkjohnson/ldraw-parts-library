@@ -1,0 +1,22 @@
+0 | Fx Bricks PFxBrick - LED Control Light
+0 Name: t1084.dat
+0 Author: Ulrich Röder [UR]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+0 !KEYWORDS Sound and Motor Control, Third Party
+
+
+0 // Created with the express permission and behalf of Fx Bricks (Canada)
+0 // Based on the original production files by Michael Gale.
+
+1 16 20 -51 30 3.875 0 0 0 2 0 0 0 3.875 4-4cylo.dat
+1 16 20 -51 30 3.875 0 0 0 1 0 0 0 3.875 4-4disc.dat
+1 16 20 -49 30 3.875 0 0 0 -1 0 0 0 3.875 4-4disc.dat
+1 16 20 -49 30 2.94 0 0 0 1 0 0 0 2.94 4-4cylo.dat
+1 16 20 -37 30 2.45 0 0 0 -1 0 0 0 2.45 4-4disc.dat
+1 16 20 -48 30 .49 0 0 0 1 0 0 0 .49 4-4con5.dat
+1 16 20 -47 30 -2.45 0 0 0 10 0 0 0 2.45 4-4cylo.dat

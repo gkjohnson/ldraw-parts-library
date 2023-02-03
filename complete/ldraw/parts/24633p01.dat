@@ -1,0 +1,21 @@
+0 Minifig Head Duck with Bright Light Orange Bill and Black and Medium Blue Eyes Pattern
+0 Name: 24633p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Donald, Disney, Bricklink 24633pb01, Set 71040, Set 10775
+
+0 !HISTORY 2022-02-12 {LEGO Instructions App} Original part shape
+0 !HISTORY 2022-02-15 [Philo] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24633s00.dat
+1 191 0 0 0 1 0 0 0 1 0 0 0 1 s\24633s02.dat
+1 191 0 0 0 -1 0 0 0 1 0 0 0 1 s\24633s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24633p01s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\24633p01s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24633p01s04.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\24633p01s04.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24633p01s05.dat

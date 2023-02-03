@@ -1,0 +1,16 @@
+0 Minifig Pen with Magenta Tip and Cap Pattern
+0 Name: 35809p02.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Friends, Bricklink 35809pb02, Set 41344
+
+0 !HISTORY 2021-03-29 {LEGO/Unity Microgame} Original part shape
+0 !HISTORY 2022-04-29 [Philo] File preparation for LDraw Parts Tracker
+
+1 26 0 0 0 1 0 0 0 1 0 0 0 1 s\35809s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\35809s02.dat

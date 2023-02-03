@@ -1,0 +1,29 @@
+0 | Fx Bricks FxTrack  9V - R56 Curved Metal Rail
+0 Name: t1135.dat
+0 Author: Ulrich Röder [UR]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Train
+0 !KEYWORDS Track System, Third Party
+
+
+0 // Created with the express permission and behalf of Fx Bricks (Canada)
+0 // Based on the original production files by Michael Gale.
+
+1 16 28.437 0 -215.439 0.9808 0 0.1951 0 1 0 -0.1951 0 0.9808 s\t1131s01.dat
+1 16 31.575 0 216.063 -0.9808 0 0.1951 0 1 0 -0.1951 0 -0.9808 s\t1131s01.dat
+1 16 -66.503 0 196.554 -0.9808 0 0.1951 0 1 0 -0.1951 0 -0.9808 s\t1131s01.dat
+1 16 -69.642 0 -195.93 0.9808 0 0.1951 0 1 0 -0.1951 0 0.9808 s\t1131s01.dat
+
+1 16 30.006 0 -215.751 .9808 0 0 0 1 0 -.1951 0 1 s\t1137s03.dat
+1 16 30.006 0 215.751 -.9808 0 0 0 1 0 -.1951 0 -1 s\t1137s03.dat
+1 16 -68.072 0 196.242 -.9808 0 0 0 1 0 -.1951 0 -1 s\t1137s03.dat
+1 16 -68.073 0 -196.242 .9808 0 0 0 1 0 -.1951 0 1 s\t1137s03.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\t1135s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\t1135s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\t1135s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\t1135s02.dat

@@ -1,0 +1,15 @@
+0 =Sticker 1.9 x 1.9 with Shell Logo
+0 Name: 195555g.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Part Alias 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 6371, Service station, Bricklink 6371stk01, Rebrickable 195555
+0 !KEYWORDS Brickowl 584391
+
+
+0 // Alias of 004695b
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 004695b.dat

@@ -1,0 +1,16 @@
+0 Stud Open Group  1 x  7
+0 Name: stug2-1x7.dat
+0 Author: Steffen [Steffen]
+0 !LDRAW_ORG Unofficial_Primitive 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+
+1 16 -60 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
+1 16 -40 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
+1 16 -20 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
+1 16 20 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
+1 16 40 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
+1 16 60 0 0 1 0 0 0 1 0 0 0 1 stud2.dat

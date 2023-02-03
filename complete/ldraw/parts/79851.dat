@@ -1,0 +1,21 @@
+0 Ring  7 x  7 with 2 Axle Holes
+0 Name: 79851.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Bar
+
+
+1 16 0 0 70 1 0 0 0 0 -1 0 -20 0 axlehole.dat
+1 16 0 0 -70 -1 0 0 0 0 -1 0 20 0 axlehole.dat
+1 16 0 0 70 1 0 0 0 0 -1 0 -20 0 axlehol2.dat
+1 16 0 0 -70 -1 0 0 0 0 -1 0 20 0 axlehol2.dat
+1 16 0 0 50 1 0 0 0 0 -1 0 -20 0 axlehol2.dat
+1 16 0 0 -50 -1 0 0 0 0 -1 0 20 0 axlehol2.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\79851s01.dat
+1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 s\79851s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\79851s01.dat
+1 16 0 0 0 1 0 0 0 -1 0 0 0 -1 s\79851s01.dat

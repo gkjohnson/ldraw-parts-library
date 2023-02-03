@@ -1,0 +1,30 @@
+0 | Fx Bricks FxTrack  9V Point Right 40 - Straight
+0 Name: t1147c01.dat
+0 Author: Ulrich Röder [UR]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Train
+0 !KEYWORDS Track System, Third Party
+
+
+0 // Created with the express permission and behalf of Fx Bricks (Canada)
+0 // Based on the original production files by Michael Gale.
+
+1 72 0 0 0 1 0 0 0 1 0 0 0 1 t1147.dat
+1 494 0 0 0 1 0 0 0 1 0 0 0 1 t1157.dat
+1 494 0 0 0 -1 0 0 0 1 0 0 0 1 t1162.dat
+1 494 0 0 0 -1 0 0 0 1 0 0 0 1 t1163.dat
+1 72 -7 0 90 1 0 0 0 1 0 0 0 1 t1149.dat
+1 72 36 0 253.75 1 0 0 0 1 0 0 0 1 t1150c01.dat
+1 72 -50 0 253.75 1 0 0 0 1 0 0 0 1 t1155c01.dat
+1 72 -6.775 0 320 1 0 0 0 1 0 0 0 1 t1153.dat
+1 72 -6.775 0 240 1 0 0 0 1 0 0 0 -1 t1153.dat
+1 494 -6.775 0 230 1 0 0 0 1 0 0 0 -1 t1154.dat
+1 494 9.475 0 250 1 0 0 0 1 0 0 0 -1 t1154.dat
+1 494 -23.025 0 250 1 0 0 0 1 0 0 0 -1 t1154.dat
+1 494 -6.775 0 330 1 0 0 0 1 0 0 0 -1 t1154.dat
+1 494 9.475 0 310 1 0 0 0 1 0 0 0 -1 t1154.dat
+1 494 -23.025 0 310 1 0 0 0 1 0 0 0 -1 t1154.dat

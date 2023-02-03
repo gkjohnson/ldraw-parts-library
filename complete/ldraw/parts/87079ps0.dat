@@ -1,0 +1,17 @@
+0 Tile  2 x  4 with Star Wars Logo Pattern
+0 Name: 87079ps0.dat
+0 Author: Marc Giraudet [Mad_Marc]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 31200, BrickLink 87079pb0748
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87079s01.dat
+1 16 -37.5 0 16.5 0.75 0 0 0 0 1 0 -0.75 0 s\logostarwars01.dat
+4 16 -40 0 20 -37.5 0 16.5 37.5 0 16.5 40 0 20
+4 16 40 0 -20 37.5 0 -16.5 -37.5 0 -16.5 -40 0 -20
+4 16 -40 0 20 -40 0 -20 -37.5 0 -16.5 -37.5 0 16.5
+4 16 40 0 -20 40 0 20 37.5 0 16.5 37.5 0 -16.5

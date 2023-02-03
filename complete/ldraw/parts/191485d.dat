@@ -1,0 +1,18 @@
+0 Sticker  2 x  2.2 Black with White Stripes on Top and Bottom
+0 Name: 191485d.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 1554, Funnel
+
+
+1 16 0 -.25 0 20 0 0 0 .25 0 0 0 22 box5-12.dat
+
+4 0 -20 -.25 -10 -20 -.25 -22 20 -.25 -22 20 -.25 -10
+4 15 -20 -.25 -2 -20 -.25 -10 20 -.25 -10 20 -.25 -2
+4 0 -20 -.25 6 -20 -.25 -2 20 -.25 -2 20 -.25 6
+4 15 -20 -.25 14 -20 -.25 6 20 -.25 6 20 -.25 14
+4 0 -20 -.25 22 -20 -.25 14 20 -.25 14 20 -.25 22

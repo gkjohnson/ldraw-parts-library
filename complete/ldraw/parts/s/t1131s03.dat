@@ -1,0 +1,22 @@
+0 ~| Fx Bricks FxTrack  9V - Fixing Folds Metal Rail
+0 Name: s\t1131s03.dat
+0 Author: Ulrich Röder [UR]
+0 !LDRAW_ORG Unofficial_Subpart 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Train
+
+
+0 // Created with the express permission and behalf of Fx Bricks (Canada)
+0 // Based on the original production files by Michael Gale.
+
+1 16 -2.625 -19.5 6 0 0 -.375 .375 0 0 0 -12 0 1-4cylo.dat
+1 16 2.625 -19.5 6 0 0 .375 .375 0 0 0 -12 0 1-4cylo.dat
+1 16 -2.625 -19.5 6 0 0 -.375 .375 0 0 0 -1 0 1-4disc.dat
+1 16 2.625 -19.5 6 0 0 .375 .375 0 0 0 -1 0 1-4disc.dat
+1 16 -2.625 -19.5 -6 0 0 -.375 .375 0 0 0 1 0 1-4disc.dat
+1 16 2.625 -19.5 -6 0 0 .375 .375 0 0 0 1 0 1-4disc.dat
+1 16 -2.625 -19.3125 0 0 2 0 0 0.1 -.1875 -6 0 0 box5-4a.dat
+1 16 2.625 -19.3125 0 0 -2 0 0 0.1 -.1875 -6 0 0 box5-4a.dat

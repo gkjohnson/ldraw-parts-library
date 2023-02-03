@@ -1,0 +1,37 @@
+0 ~Train Track 6 Studs Wide Switch - Straight Sleeper
+0 Name: s\53404s02.dat
+0 Author: Jens Brühl [jb70]
+0 !LDRAW_ORG Unofficial_Subpart 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
+0 // Inside
+0 BFC INVERTNEXT
+1 16 0 8 68 16 0 0 0 -4 0 0 0 8 box4-1.dat
+1 16 14 6 60 2 0 0 0 0 2 0 -1 0 rect2p.dat
+1 16 10 6 60 -2 0 0 0 0 2 0 4 0 box4-2p.dat
+1 16 0 6 60 8 0 0 0 0 2 0 -1 0 rect2p.dat
+1 16 -10 6 60 -2 0 0 0 0 2 0 4 0 box4-2p.dat
+1 16 -14 6 60 2 0 0 0 0 2 0 -1 0 rect2p.dat
+1 16 0 4 70 1 0 0 0 -1 0 0 0 1 stud3.dat
+0 BFC INVERTNEXT
+1 16 0 6 40 -16 0 0 0 0 2 0 -1 0 rect.dat
+
+0 // Bottom
+4 16 16 8 76 -16 8 76 -20 8 80 20 8 80
+4 16 16 8 60 16 8 76 20 8 80 20 8 60
+4 16 -16 8 76 -16 8 60 -20 8 60 -20 8 80
+4 16 16 8 60 20 8 60 20 8 57 0 8 57
+3 16 0 8 57 -16 8 60 16 8 60
+4 16 0 8 57 -20 8 57 -20 8 60 -16 8 60
+2 24 20 8 57 -20 8 57
+2 24 20 8 43 -20 8 43
+4 16 -16 8 40 -20 8 40 -20 8 43 0 8 43
+3 16 0 8 43 16 8 40 -16 8 40
+4 16 0 8 43 20 8 43 20 8 40 16 8 40
+
+0 // Outside
+1 16 0 4 60 20 0 0 0 0 -4 0 20 0 box4-2p.dat

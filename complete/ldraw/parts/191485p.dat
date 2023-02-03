@@ -1,0 +1,16 @@
+0 Sticker  4 x  0.4 Light Blue
+0 Name: 191485p.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP PLACE ON 3037: 1 16 0 12 -22 1 0 0 0 0.7071 -0.7071 0 0.7071 0.7071 191485p.dat
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 1554
+
+
+1 16 0 -.25 0 40 0 0 0 .25 0 0 0 4 box5-12.dat
+
+4 9 -40 -.25 4 -40 -.25 -4 40 -.25 -4 40 -.25 4

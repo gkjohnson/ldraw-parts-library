@@ -1,0 +1,13 @@
+0 Logo AMG White with Outer Box
+0 Name: logoamgl01.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Primitive 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP Exact dimensions X = 69.72; Z = 6.64
+
+0 BFC CERTIFY CCW
+
+
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 logoamgt01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 logoamgb01.dat

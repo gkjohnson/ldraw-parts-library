@@ -1,0 +1,15 @@
+0 Minifig Legs Joined with Spring Holes
+0 Name: 43220.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Basketball, NBA
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\43220s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\43220s01.dat
+4 16 -1.5 10 -3.9994 1.5 10 -3.9994 1.5 10 3.0006 -1.5 10 3.0006
+1 16 0 10 -0.5 1.5 0 0 0 12 0 0 0 3.5 box3u2p.dat

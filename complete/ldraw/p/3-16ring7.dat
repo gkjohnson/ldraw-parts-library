@@ -1,0 +1,12 @@
+0 Ring  7 x 0.1875
+0 Name: 3-16ring7.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Primitive 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+
+4 16 8 0 0 7.3912 0 3.0616 6.4673 0 2.6789 7 0 0
+4 16 7.3912 0 3.0616 5.6568 0 5.6568 4.9497 0 4.9497 6.4673 0 2.6789
+4 16 5.6568 0 5.6568 3.0616 0 7.3912 2.6789 0 6.4673 4.9497 0 4.9497

@@ -1,0 +1,17 @@
+0 ~Train Track  9V Metal Rail Interlocking End
+0 Name: s\2865s06a.dat
+0 Author: Kevin Roach [KROACH]
+0 !LDRAW_ORG Unofficial_Subpart 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2011-01-29 [mikeheide] Added BFC statement; changed rect-4.dat to rect1.dat
+0 !HISTORY 2015-01-22 [Steffen] BFCed
+
+1 16 1.25 -16 1.5 8.75 0 0 0 1 0 0 0 1.5 rect2p.dat
+1 16 1.25 -12.25 0 8.75 0 0 0 0 -3.75 0 1 0 rect1.dat
+1 16 1.25 -14 3 8.75 0 0 0 0 -2 0 -1 0 rect1.dat
+2 7 -7.5 -16 0 -3.5 -8.5 0
+2 7 10 -16 0 6 -8.5 0
+1 7 2.5 -10 0 0 0 -0.75 -0.75 0 0 0 1 0 4-4edge.dat

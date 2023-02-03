@@ -1,0 +1,17 @@
+0 Figure Troll Arm Bracelet Right
+0 Name: 60643.dat
+0 Author: Andy Westrate [westrate]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP To get the complete right arm, use the following lines:
+0 !HELP 1 16 -40 0 0 1 0 0 0 1 0 0 0 1 60639.dat
+0 !HELP 1 16 -40 0 0 1 0 0 0 1 0 0 0 1 60643.dat
+0 !HELP 1 16 -53.75 45.02 -46 1 0 0 0 1 0 0 0 1 60640.dat
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape
+0 !HISTORY 2009-11-10 [westrate] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 61531.dat

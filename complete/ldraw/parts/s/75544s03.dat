@@ -1,0 +1,13 @@
+0 ~Technic Windscreen 11 x 11 Motorcycle with Angled Pegholes Side without Pattern
+0 Name: s\75544s03.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Subpart 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\75544s01.dat
+4 16 -8 -10 27.133 -8 -10 -64.867 10 -10 -116 10 -10 34
+3 16 -8.5858 -9.795 23.2142 -8 -10 21.8 -8 -10 27.133
+3 16 -8.5858 -9.795 23.2142 -8 -10 27.133 -10 -9.3 23.8

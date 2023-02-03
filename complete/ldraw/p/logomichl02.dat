@@ -1,0 +1,22 @@
+0 Logo Michelin Neutral/White with Text, Band and Complete Image with Outer Box
+0 Name: logomichl02.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Primitive 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP Exact dimensions X = 129.6; Z = 20.25
+
+0 BFC CERTIFY CCW
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 logomichi01.dat
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 logomichb01.dat
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 logomichb02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 logomichb03.dat
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 logomicht01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 logomichb04.dat
+0 // Complementary faces
+4 15 -30.6061 0 -6.1456 -35.4314 0 -6.1456 -34.8044 0 -7.415 -29.8733 0 -7.415
+4 15 0 0 -6.165 -30.6061 0 -6.1456 -29.8733 0 -7.415 41.105 0 -7.415
+3 15 41.105 0 -7.415 28 0 -6.165 0 0 -6.165
+3 15 41.557 0 -6.165 28 0 -6.165 41.105 0 -7.415

@@ -1,0 +1,14 @@
+0 ~Logo Ford Blue Badge and Neutral Text
+0 Name: s\logofordl01.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Subpart 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP Points on the external edge are 120 linearly equally spaced
+0 !HELP along a regular ellipse of axis X = 19; Z = 7.2
+
+0 BFC CERTIFY CCW
+
+
+1 1 0 0 0 1 0 0 0 1 0 0 0 1 s\logofordl03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\logofordt03.dat

@@ -1,0 +1,10 @@
+0 ~Figure Legs Mario Id Finger "0"
+0 Name: s\58101s04.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Subpart 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+
+1 16 -1.8 0 0 0 3.6 0 -14 0 0 0 0 3.5 tri3u3.dat

@@ -1,0 +1,21 @@
+0 Minifig Leg Left with Bright Light Orange Lower Leg and Medium Lavender Shoes Pattern
+0 Name: 20460px2.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP Move down 12 units to align with hips
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 970c00pb0559, Set 71040, Disney, Daisy Duck
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\20460s01.dat
+1 191 0 0 0 1 0 0 0 1 0 0 0 1 s\20460s03.dat
+4 30 19.5 28 -10 19.23 20 -10 1.5 20 -10 1.5 28 -10
+4 191 1.5 20 -4 1.5 20 -10 19.23 20 -10 19.23 20 -4
+4 191 18.9731 12.4 -4 1.5 12.4 -4 1.5 20 -4 19.23 20 -4
+3 30 19.23 20 -10 19.5 28 -10 19.23 20 -4
+4 30 19.22743 20 9.64288 19.23 20 -4 19.5 28 -10 19.5 28 10
+4 191 19.22743 20 9.64288 18.96848 12.3998 9.3036 18.97307 12.4 -4 19.23 20 -4

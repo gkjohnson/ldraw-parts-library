@@ -1,0 +1,12 @@
+0 ~Train Track  9V Point Tongue Right (Complete)
+0 Name: 2860c01.dat
+0 Author: Steffen [Steffen]
+0 !LDRAW_ORG Unofficial_Shortcut 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2022-01-22 [OrionP] Updated subpart reference
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 2860a.dat
+1 494 0 0 0 1 0 0 0 1 0 0 0 1 u9240.dat

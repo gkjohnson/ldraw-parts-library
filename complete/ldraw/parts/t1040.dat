@@ -1,0 +1,16 @@
+0 | Brickstuff Multifunction Lighting Effect Controller Deluxe
+0 Name: t1040.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+0 !KEYWORDS TRUNK05, LEC
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 t1039.dat
+1 0 -27.5 -4 -7 0 0 -1 0 1 0 1 0 0 t1020.dat
+1 494 16 -4 10 0 0 4 0 -3 0 -6 0 0 box5.dat
+1 15 16 -7 10 0 0 2 0 -2 0 -3 0 0 box5.dat

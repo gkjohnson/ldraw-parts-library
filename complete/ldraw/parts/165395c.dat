@@ -1,0 +1,21 @@
+0 Sticker  0.4 x  3.2 Rounded Triangle with Red Top
+0 Name: 165395c.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 6551, Race car, Bricklink 6551stk01, Rebrickable 165395
+0 !KEYWORDS Brickowl 930700
+
+
+1 16 -53 0 0 0 0 -2 0 -0.25 0 2 0 0 1-4cylc3.dat
+1 16 -53 0 0 -2 0 0 0 -0.25 0 0 0 -2 1-4cylc3.dat
+1 16 -53 0 0 0 0 -2 0 -1 0 2 0 0 2-4chrd.dat
+4 16 -53 0 2 9 0 4 9 0 -4 -53 0 -2
+4 16 9 -.25 4 9 0 4 -53 0 2 -53 -.25 2
+4 16 9 -.25 4 9 -.25 -4 9 0 -4 9 0 4
+4 16 9 0 -4 9 -.25 -4 -53 -.25 -2 -53 0 -2
+1 4 -53 -.25 0 0 0 -2 0 1 0 2 0 0 2-4chrd.dat
+4 4 9 -.25 -4 9 -.25 4 -53 -.25 2 -53 -.25 -2

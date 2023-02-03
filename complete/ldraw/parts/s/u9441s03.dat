@@ -1,0 +1,14 @@
+0 ~Minifig Leg Medium Left - Rounded Front Surface
+0 Name: s\u9441s03.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Unofficial_Subpart 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+
+4 16 18.4848 -3.3486 -8.0841 18.3614 -6.1871 -6.1871 2 -6.187 -6.187 2 -3.349 -8.084
+4 16 18.6304 0 -8.75 18.4848 -3.3486 -8.0841 2 -3.349 -8.084 2 0 -8.75
+4 16 18.776 3.3486 -8.0841 18.6304 0 -8.75 2 0 -8.75 2 3.349 -8.084
+4 16 2 3.349 -8.084 2 6.187 -6.187 18.8994 6.1871 -6.1871 18.776 3.3486 -8.0841
+4 16 18.8994 6.1871 -6.1871 2 6.187 -6.187 2 7.399 -4 18.9521 7.399 -4

@@ -1,0 +1,13 @@
+0 Ring 22 x 0.125
+0 Name: 1-8rin22.dat
+0 Author: Max Murtazin [SwampKryakwa]
+0 !LDRAW_ORG Unofficial_Primitive 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+
+4 16 22 0 0 23 0 0 21.2497 0 8.8021 20.3258 0 8.4194
+4 16 20.3258 0 8.4194 21.2497 0 8.8021 16.2633 0 16.2633 15.5562 0 15.5562
+0 end of file
+0

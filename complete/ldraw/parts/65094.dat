@@ -1,0 +1,12 @@
+0 Car Base  6 x 16 x  2.333 with  4 x 14 Recessed Centre with Mudguards and Fixed Axle Blocks
+0 Name: 65094.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Shortcut 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 68446.dat
+1 16 0 56 100 1 0 0 0 1 0 0 0 1 65093.dat
+1 16 0 56 -100 1 0 0 0 1 0 0 0 1 65093.dat

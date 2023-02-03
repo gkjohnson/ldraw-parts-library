@@ -1,0 +1,23 @@
+0 ~Constraction Ball Cannon Magazine
+0 Name: 60931.dat
+0 Author: Santeri Piippo [arezey]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\60931s01.dat
+1 16 0 0 0 1 0 0 0 -1 0 0 0 1 s\60931s01.dat
+1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 s\60931s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\60931s01.dat
+1 16 0 0 110 0 0 1 -1 0 0 0 -20 0 axl3hole.dat
+1 16 0 0 90 6 0 0 0 0 6 0 -1 0 4-4disc.dat
+0 BFC INVERTNEXT
+1 16 22 0 107 -6 0 0 0 0 -6 0 1 0 4-4cylc.dat
+0 BFC INVERTNEXT
+1 16 -22 0 107 -5 0 0 0 0 -5 0 1 0 4-4cylc.dat
+1 16 22 0 108 -1 0 0 0 0 -1 0 -1 0 4-4ring6.dat
+1 16 -22 0 108 -1 0 0 0 0 -1 0 -1 0 4-4ring5.dat
+1 16 -22 0 108 -1 0 0 0 0 -1 0 -1 0 4-4ring6.dat
+1 16 22 0 108 -1 0 0 0 0 -1 0 -1 0 4-4cylc.dat

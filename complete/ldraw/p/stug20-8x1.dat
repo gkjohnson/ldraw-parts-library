@@ -1,0 +1,17 @@
+0 Stud Duplo Group  8 x  1
+0 Name: stug20-8x1.dat
+0 Author: Steffen [Steffen]
+0 !LDRAW_ORG Unofficial_Primitive 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+
+1 16 0 0 100 1 0 0 0 1 0 0 0 1 stud20.dat
+1 16 0 0 140 1 0 0 0 1 0 0 0 1 stud20.dat
+1 16 0 0 60 1 0 0 0 1 0 0 0 1 stud20.dat
+1 16 0 0 20 1 0 0 0 1 0 0 0 1 stud20.dat
+1 16 0 0 -20 1 0 0 0 1 0 0 0 1 stud20.dat
+1 16 0 0 -60 1 0 0 0 1 0 0 0 1 stud20.dat
+1 16 0 0 -100 1 0 0 0 1 0 0 0 1 stud20.dat
+1 16 0 0 -140 1 0 0 0 1 0 0 0 1 stud20.dat

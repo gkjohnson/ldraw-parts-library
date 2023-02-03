@@ -1,0 +1,20 @@
+0 ~Constraction Limb  5 Lower Section with 2 Ball Joints and Pinhole - Truncated Curved Wedge
+0 Name: s\47311s02.dat
+0 Author: Max Murtazin [SwampKryakwa]
+0 !LDRAW_ORG Unofficial_Subpart 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+
+1 16 0 0 4.7 9 0 0 0 0 9 0 1 -1.5 2-4edge.dat
+1 16 0 0 4.7 3 0 0 0 0 3 0 -1 -.5 2-4ring2.dat
+1 16 0 0 4.7 6 0 0 0 0 6 0 1 -1 2-4edge.dat
+1 16 0 0 3.2 0 0 -9 9 0 0 0 1.5 0 1-4cyls.dat
+1 16 0 0 3.2 0 0 9 9 0 0 0 1.5 0 1-4cyls.dat
+1 16 0 0 3.2 9 0 0 0 0 9 0 -1.7 0 2-4cyli.dat
+1 16 0 0 1.5 0 0 -9 9 0 0 0 -1.5 0 1-4cyls.dat
+1 16 0 0 1.5 0 0 9 9 0 0 0 -1.5 0 1-4cyls.dat
+1 16 0 0 0 9 0 0 0 0 9 0 1 1.5 2-4edge.dat
+1 16 0 0 0 3 0 0 0 0 3 0 1 .5 2-4ring2.dat
+1 16 0 0 0 6 0 0 0 0 6 0 1 1 2-4edge.dat

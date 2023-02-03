@@ -1,0 +1,13 @@
+0 =Sticker Minifig Torso with Shell Logo 1971
+0 Name: 004655b.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Part Alias 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 601, Gas pump
+
+
+0 // Alias of 004695c
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 004695c.dat

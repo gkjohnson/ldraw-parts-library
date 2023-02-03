@@ -1,0 +1,23 @@
+0 Windscreen  6 x  4 x  1.333 Airplane with SW Grille Pattern
+0 Name: 6152ps1.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+0 !KEYWORDS Bricklink 6152apx1, Set 7126, Star Wars
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6152s01.dat
+0 // outside patternable surfaces
+4 16 40 32 40 40 32 -20 40 28 -20 40 0 40
+4 16 40 0 40 40 28 -20 20 28 -80 20 0 -20
+4 16 -20 0 -20 -20 28 -80 -40 28 -20 -40 0 40
+4 16 40 28 -20 40 32 -20 20 32 -80 20 28 -80
+4 16 20 28 -80 20 32 -80 -20 32 -80 -20 28 -80
+4 16 -20 28 -80 -20 32 -80 -40 32 -20 -40 28 -20
+4 16 -40 28 -20 -40 32 -20 -40 32 40 -40 0 40
+0 // Pattern
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6152ps1s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\6152ps1s01.dat

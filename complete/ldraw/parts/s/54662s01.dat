@@ -1,0 +1,20 @@
+0 ~Hinge Arm Locking - Dual Finger End
+0 Name: s\54662s01.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Subpart 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+
+1 16 0 0 0 1 0 0 0 -1 0 0 0 -1 clh14.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 clh14.dat
+1 16 0 0 0 0 0 9 9 0 0 0 1 0 1-8edge.dat
+1 16 0 0 0 0 0 -9 9 0 0 0 1 0 1-8edge.dat
+1 16 0 0 0 0 0 9 -9 0 0 0 -1 0 1-8edge.dat
+1 16 0 0 0 0 0 -9 -9 0 0 0 -1 0 1-8edge.dat
+2 24 -6.364 -6.364 0 -6.607 -6 0
+2 24 6.364 -6.364 0 6.607 -6 0
+2 24 -6.364 6.364 0 -6.607 6 0
+2 24 6.364 6.364 0 6.607 6 0
+0

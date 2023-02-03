@@ -1,0 +1,14 @@
+0 Logo Lamborghini Yellow Bull with Rectangular Outer Box
+0 Name: logo-lamborghini-bull-1.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Primitive 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP Exact dimensions X = 2.78; Z = 3.44
+
+0 BFC CERTIFY CCW
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 logo-lamborghini-bull-2.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 logo-lamborghini-bull-3.dat
+1 14 0 0 0 1 0 0 0 1 0 0 0 1 logo-lamborghini-bull-4.dat

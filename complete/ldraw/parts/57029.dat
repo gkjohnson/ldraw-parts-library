@@ -1,0 +1,11 @@
+0 ~Technic Competition Cannon with Flat Base Body
+0 Name: 57029.dat
+0 Author: Santeri Piippo [arezey]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\57029s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\57029s01.dat

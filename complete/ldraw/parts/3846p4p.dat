@@ -1,0 +1,22 @@
+0 Minifig Shield Triangular with Yellow Lion Standing with Raised Foot on Blue Background with Red Border Pattern
+0 Name: 3846p4p.dat
+0 Author: Yann Bouzon [Zaghor]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Castle, Bricklink 3846pb064, Set 10305
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3846s01.dat
+
+0 // Lion
+1 14 0 0 0 1 0 0 0 1 0 0 0 1 s\3846p4qs01.dat
+
+0 // Border
+1 4 0 0 0 1 0 0 0 1 0 0 0 1 s\3846p4qs02.dat
+
+0 // Background
+1 1 0 0 0 1 0 0 0 1 0 0 0 1 s\3846p4os01.dat

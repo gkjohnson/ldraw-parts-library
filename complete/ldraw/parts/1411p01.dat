@@ -1,0 +1,16 @@
+0 Minifig Food Corn on the Cob with Yellow Corn Pattern
+0 Name: 1411p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Plant, Sweetcorn, Set 60345, 60347
+
+0 !HISTORY 2022-07-22 {LEGO Instructions App} Original part shape
+0 !HISTORY 2022-07-22 [Philo] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1411s01.dat
+1 14 0 0 0 1 0 0 0 1 0 0 0 1 s\1411s02.dat

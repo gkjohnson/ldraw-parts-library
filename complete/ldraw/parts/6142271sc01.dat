@@ -1,0 +1,18 @@
+0 Sticker  .8 x  1.9 with Red Taillamp on Black Background Left (Formed)
+0 Name: 6142271sc01.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Speed Champions, Audi, R8, LMS, Ultra, Set 75873
+
+
+1 16 12.616 -15.6524 0 0 .047023 .998894 0 .998894 -.047023 -1 0 0 s\6142271ss01.dat
+1 16 12.616 -15.6524 0 0 .143056 .989715 0 .989715 -.143056 -1 0 0 s\6142271ss02.dat
+1 16 -1.648 -12.8827 0 0 .238478 .971148 0 .971148 -.238478 -1 0 0 s\6142271ss03.dat
+1 16 -1.648 -12.8827 0 0 .336689 .941616 0 .941616 -.336689 -1 0 0 s\6142271ss04.dat
+1 16 -14.436 -7.5316 0 0 .435742 .900072 0 .900072 -.435742 -1 0 0 s\6142271ss05.dat
+1 16 -14.436 -7.5316 0 0 .535889 .844289 0 .844289 -.535889 -1 0 0 s\6142271ss06.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\6142271ss08.dat

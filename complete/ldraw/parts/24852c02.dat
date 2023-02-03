@@ -1,0 +1,13 @@
+0 Electric Powered Up 2 Port Battery Box Body Assembly with Screw Holes for Lid
+0 Name: 24852c02.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Shortcut 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 24852.dat
+1 71 50 -40 -60 0 0 -1 0 1 0 1 0 0 23807.dat
+1 71 -50 -40 -60 0 0 1 0 1 0 -1 0 0 23807.dat
+1 72 0 0 0 1 0 0 0 1 0 0 0 1 u9336c01.dat

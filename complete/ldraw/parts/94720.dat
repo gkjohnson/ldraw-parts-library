@@ -1,0 +1,23 @@
+0 Minifig Brush Oval
+0 Name: 94720.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Friends, Animal, Horse, Pet, Multipack 92355
+
+0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2020-10-14 [RainbowDolphin] File preparation for LDraw Parts Tracker
+
+0 // Outside
+
+1 16 -12.5 0 0 0 25 0 0 0 -4 4 0 0 4-4cylc.dat
+1 16 12.5 0 0 0 -1 0 0 0 -4 4 0 0 4-4disc.dat
+1 16 12.5 0 0 0 -1 0 0 0 -4 4 0 0 4-4edge.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\94720s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\94720s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\94720s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\94720s01.dat

@@ -1,0 +1,17 @@
+0 Sticker  2.5 x  2.5 with LEGO Logo
+0 Name: 195125a.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 6692, Truck, Trailer
+
+
+1 16 0 -0.25 0 25 0 0 0 0.25 0 0 0 25 box5-12.dat
+1 16 0 0 0 0.84 0 0 0 1 0 0 0 1.04 logo-lego-1.dat
+4 4 23.352 -0.25 10.4 25 -0.25 25 -25 -0.25 25 -23.352 -0.25 10.4
+4 4 -23.352 -0.25 -10.4 -23.352 -0.25 10.4 -25 -0.25 25 -25 -0.25 -25
+4 4 23.352 -0.25 -10.4 -23.352 -0.25 -10.4 -25 -0.25 -25 25 -0.25 -25
+4 4 23.352 -0.25 10.4 23.352 -0.25 -10.4 25 -0.25 -25 25 -0.25 25

@@ -1,0 +1,15 @@
+0 Minifig Shield Ovoid with Stag Head Pattern
+0 Name: 2586p40.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Bricklink 2586pb003, Elf, Set 8803
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2586s01.dat
+1 16 0 0 -8 1 0 0 0 1 0 0 0 1 s\2586p40s01.dat
+1 16 0 0 -8 -1 0 0 0 1 0 0 0 1 s\2586p40s01.dat

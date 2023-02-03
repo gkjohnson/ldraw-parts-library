@@ -1,0 +1,14 @@
+0 Duplo Roof Sloped 33  4 x  4 with  9 Bottom TUbes with Awning Overhang
+0 Name: 31170.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Slope
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\31170s01.dat
+
+4 16 80 23.5 -80 80 0 0 -80 0 0 -80 23.5 -80

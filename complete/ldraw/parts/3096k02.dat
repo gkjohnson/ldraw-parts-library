@@ -1,0 +1,41 @@
+0 ~Technic Tread Crawler - curved segment
+0 Name: 3096k02.dat
+0 Author: Max Murtazin [SwampKryakwa]
+0 !LDRAW_ORG Unofficial_Part Flexible_Section 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+
+0 BFC INVERTNEXT
+1 16 0 0 -6 0 0 -19 -19 0 0 0 12 0 1-16cyli.dat
+1 16 0 0 -6 0 0 -19 -19 0 0 0 1 0 1-16edge.dat
+1 16 0 0 6 0 0 -19 -19 0 0 0 1 0 1-16edge.dat
+0 BFC INVERTNEXT
+1 16 0 0 -9 0 0 -22 -22 0 0 0 2 0 1-16cyli.dat
+0 BFC INVERTNEXT
+1 16 0 0 7 0 0 -22 -22 0 0 0 2 0 1-16cyli.dat
+1 16 0 0 -9 0 0 -1 -1 0 0 0 1 0 1-16ring23.dat
+1 16 0 0 9 0 0 -22 -22 0 0 0 1 0 1-16edge.dat
+1 16 0 0 7 0 0 -22 -22 0 0 0 1 0 1-16edge.dat
+1 16 0 0 -9 0 0 -1 -1 0 0 0 1 0 1-16ring22.dat
+1 16 0 0 -9 0 0 -22 -22 0 0 0 1 0 1-16edge.dat
+1 16 0 0 -7 0 0 -22 -22 0 0 0 1 0 1-16edge.dat
+0 BFC INVERTNEXT
+1 16 0 0 -7 0 0 -2 -2 0 0 0 .667 0 1-16con10.dat
+0 BFC INVERTNEXT
+1 16 0 0 7 0 0 -2 -2 0 0 0 -.667 0 1-16con10.dat
+0 BFC INVERTNEXT
+1 16 0 0 -6.333 0 0 -1 -1 0 0 0 .333 0 1-16con19.dat
+0 BFC INVERTNEXT
+1 16 0 0 6.333 0 0 -1 -1 0 0 0 -.333 0 1-16con19.dat
+1 16 0 0 9 0 0 -1 -1 0 0 0 -1 0 1-16ring23.dat
+1 16 0 0 9 0 0 -1 -1 0 0 0 -1 0 1-16ring22.dat
+1 16 -4.592 -23.087 0 3.678 -1.463 0 -.731 -7.356 0 0 0 9 box5-2p.dat
+4 16 0 -24 9 -.914 -23.818 9 -.914 -23.818 -9 0 -24 -9
+4 16 -8.271 -22.355 9 -9.185 -22.174 9 -9.185 -22.174 -9 -8.271 -22.355 -9
+5 24 -9.185 -22.174 -9 -9.185 -22.174 9 -8.271 -22.355 -9 -9.96683 -21.65777 -9
+2 24 -9.185 -22.174 9 -8.271 -22.355 9
+2 24 -9.185 -22.174 -9 -8.271 -22.355 -9
+2 24 -.914 -23.818 -9 0 -24 -9
+2 24 -.914 -23.818 9 0 -24 9

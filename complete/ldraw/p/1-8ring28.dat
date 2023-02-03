@@ -1,0 +1,12 @@
+0 Ring 28 x 0.125
+0 Name: 1-8ring28.dat
+0 Author: Kevin Roach [KROACH]
+0 !LDRAW_ORG Unofficial_Primitive 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+
+4 16 29 0 0 26.7931 0 11.0983 25.8692 0 10.7156 28 0 0
+4 16 26.7931 0 11.0983 20.5059 0 20.5059 19.7988 0 19.7988 25.8692 0 10.7156
+0 // Build by Primitive Generator 2

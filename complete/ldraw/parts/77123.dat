@@ -1,0 +1,25 @@
+0 Minifig Head Special with Black Mouse Ears and Nose with Fire Fighter Helmet
+0 Name: 77123.dat
+0 Author: Fredrik Hareide [fhareide]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2022-05-18 {LEGO Instructions App} Original part shape
+0 !HISTORY 2022-05-18 [fhareide] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\77123s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\77123s01.dat
+
+1 16 0 -16 0 1 0 0 0 -4 0 0 0 1 stud4o.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24629s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24629s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24629s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24629s04.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24629s05.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\24629s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\24629s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\24629s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\24629s04.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\24629s05.dat

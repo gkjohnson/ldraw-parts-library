@@ -1,0 +1,23 @@
+0 Electric Control+ Hub with Screw Opening
+0 Name: 85824.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Shortcut 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Technic, Powered Up, 4-Port
+
+
+0 // Body
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 25561c02.dat
+0 // Battery Holder
+1 72 0 50 0 1 0 0 0 1 0 0 0 1 24849.dat
+0 // Battery Lid
+1 72 0 50 0 1 0 0 0 1 0 0 0 1 80737.dat
+0 // Screws
+1 494 35 45.6 82 -1 0 0 0 -1 0 0 0 1 69702.dat
+1 494 -35 45.6 82 -1 0 0 0 -1 0 0 0 1 69702.dat
+1 494 45 45.6 -82 -1 0 0 0 -1 0 0 0 1 69702.dat
+1 494 -45 45.6 -82 -1 0 0 0 -1 0 0 0 1 69702.dat

@@ -1,0 +1,15 @@
+0 Flag  2 x  2 Square (Thick C-Clip)
+0 Name: 11055.dat
+0 Author: Bertrand Lequy [Berth]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2013-08-16 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2013-08-16 [Berth] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11055s01.dat
+
+4 16 -2 0 11 -2 0 50 -2 40 50 -2 40 11
+4 16 2 40 11 2 40 50 2 0 50 2 0 11

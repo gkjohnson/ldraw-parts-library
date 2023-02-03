@@ -1,0 +1,16 @@
+0 ~| Hubelino Reinforcement Straight Track End
+0 Name: s\t43111s05.dat
+0 Author: Rolf Osterthun [Rolf]
+0 !LDRAW_ORG Unofficial_Subpart 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+
+1 16 20 38.318 2 0 0 1.5 0 8.68199 0 -2 0 0 box2-5.dat
+2 24 18.5 31.415 4 18.5 47 4
+2 24 18.5 31.415 0 18.5 47 0
+4 16 18.5 47 4 18.5 31.415 4 21.5 29.636 4 21.5 47 4
+4 16 18.5 47 0 18.5 31.415 0 18.5 31.415 4 18.5 47 4
+2 24 18.5 31.415 4 21.5 29.636 4
+2 24 18.5 31.415 4 18.5 31.415 0

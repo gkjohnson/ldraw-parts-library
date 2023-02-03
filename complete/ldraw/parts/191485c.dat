@@ -1,0 +1,16 @@
+0 Sticker 2 x 2.2 Light Blue with Yellow Stripes on Top and Bottom
+0 Name: 191485c.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 1554, Funnel
+
+
+1 16 0 -.25 0 20 0 0 0 .25 0 0 0 22 box5-12.dat
+
+4 14 -20 -.25 -12 -20 -.25 -22 20 -.25 -22 20 -.25 -12
+4 9 -20 -.25 12 -20 -.25 -12 20 -.25 -12 20 -.25 12
+4 14 -20 -.25 22 -20 -.25 12 20 -.25 12 20 -.25 22

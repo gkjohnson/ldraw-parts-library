@@ -1,0 +1,16 @@
+0 Minifig Helmet SW Stormtrooper Ep.  7
+0 Name: 20904.dat
+0 Author: Ulrich Röder [UR]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+
+0 !HISTORY 2018-01-28 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2019-03-03 [UR] File 20904 preparation for LDraw Parts Tracker
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\20904s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\20904s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\20904s00.dat

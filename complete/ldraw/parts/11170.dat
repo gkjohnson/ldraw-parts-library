@@ -1,0 +1,29 @@
+0 Duplo Brick  2 x  2 x  1.5 with Curved Front
+0 Name: 11170.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Brick
+
+0 !HISTORY 2020-12-12 {LEGO/Unity Microgame} Original part shape
+0 !HISTORY 2021-01-05 [Philo] File preparation for LDraw Parts Tracker
+
+0 // Front face
+
+1 16 40 69.28 40 0 -80 0 0 0 -80 -80 0 0 48\1-6cyli.dat
+4 16 40 69.28 -40 -40 69.28 -40 -40 72 -40 40 72 -40
+
+0 // Side 1
+4 16 40 48.5745 -37.2741 40 69.28 -40 40 72 -40 40 72 40
+4 16 40 29.28 -29.282 40 48.5745 -37.2741 40 72 40 40 12.7115 -16.5685
+4 16 40 0 40 40 0 0 40 12.7115 -16.5685 40 72 40
+
+0 // Side 2
+4 16 -40 72 -40 -40 69.28 -40 -40 48.5745 -37.2741 -40 72 40
+4 16 -40 72 40 -40 48.5745 -37.2741 -40 29.28 -29.282 -40 12.7115 -16.5685
+4 16 -40 12.7115 -16.5685 -40 0 0 -40 0 40 -40 72 40
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11170s01.dat

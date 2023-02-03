@@ -1,0 +1,20 @@
+0 ~Electric Light & Sound Sign Front with Octan Logo Pattern
+0 Name: 2384p03.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 846, Set 5030, Bricklink 2384pb03
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2384s01.dat
+
+1 16 0 20 -12 1 0 0 0 0 -1 0 1 0 s\3068bpt0s01.dat
+4 16 15.75 3.65 -12 20 0 -12 -20 0 -12 -15.75 3.65 -12
+4 16 20 0 -12 15.75 3.65 -12 15.75 26.75 -12 17.15 29.35 -12
+4 16 20 40 -12 20 0 -12 17.15 29.35 -12 17.15 37.75 -12
+4 16 -20 40 -12 20 40 -12 17.15 37.75 -12 -17.15 37.75 -12
+4 16 -20 40 -12 -17.15 37.75 -12 -17.15 29.35 -12 -20 0 -12
+4 16 -20 0 -12 -17.15 29.35 -12 -15.75 26.75 -12 -15.75 3.65 -12

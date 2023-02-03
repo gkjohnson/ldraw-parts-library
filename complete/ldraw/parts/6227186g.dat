@@ -1,0 +1,22 @@
+0 Sticker  0.8 x  1.8 with Dark Blue Train Logo
+0 Name: 6227186g.dat
+0 Author: David Manley [djm]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS railway, set 60197
+
+
+0 // Sticker backside.
+1 16 0 -0.25 0 17.5 0 0 0 0.25 0 0 0 7.5 box5-12.dat
+0 // Surround for logo as a rectangular shape.
+1 16 0 -0.25 0 1 0 0 0 1 0 0 0 1 s\6227186gs01.dat
+0 // Train logo, with central dark blue logo.
+1 272 0 -0.25 0 1 0 0 0 1 0 0 0 1 s\6227186gs02.dat
+0 // Surround the rectangular shape to the size of the sticker.
+4 16 -16.6 -0.25 5.9 -17.5 -0.25 7.5 -17.5 -0.25 -7.5 -16.6 -0.25 -5.9
+4 16 17.5 -0.25 -7.5 17.5 -0.25 7.5 16.6 -0.25 5.9 16.6 -0.25 -5.9
+4 16 17.5 -0.25 -7.5 16.6 -0.25 -5.9 -16.6 -0.25 -5.9 -17.5 -0.25 -7.5
+4 16 -17.5 -0.25 7.5 -16.6 -0.25 5.9 16.6 -0.25 5.9 17.5 -0.25 7.5

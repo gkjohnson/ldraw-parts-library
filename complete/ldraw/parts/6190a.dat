@@ -1,0 +1,27 @@
+0 Bar  1 x  3 with Stud Connectors
+0 Name: 6190a.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Star Wars, Train, Divers, Town, telephone, receiver, handset
+0 !KEYWORDS Belville, Scala, handle
+
+
+1 16 -20 0 0 1 0 0 0 -1.5 0 0 0 -1 stud4a.dat
+1 16 20 0 0 1 0 0 0 -1.5 0 0 0 -1 stud4a.dat
+1 16 12 -4 0 0 -1 0 0 0 1 -1 0 0 cylj4x8.dat
+1 16 -12 -4 0 0 1 0 0 0 1 -1 0 0 cylj4x8.dat
+1 16 12 -4 0 0 -24 0 -4 0 0 0 0 -4 4-4cyli.dat
+1 16 -20 0 0 -8 0 0 0 -4 0 0 0 8 2-4cyls.dat
+1 16 -20 0 0 -8 0 0 0 -4 0 0 0 -8 2-4cyls.dat
+1 16 20 0 0 8 0 0 0 -4 0 0 0 -8 2-4cyls.dat
+1 16 20 0 0 8 0 0 0 -4 0 0 0 8 2-4cyls.dat
+1 16 20 -4 0 8 0.559017 0 4 -1.11803 0 0 0 8 4-8sphe.dat
+1 16 -20 -4 0 -8 -0.559017 0 4 -1.11803 0 0 0 -8 4-8sphe.dat
+1 16 -20 0 0 -6 0 0 0 -1 0 0 0 6 4-4disc.dat
+1 16 20 0 0 -6 0 0 0 -1 0 0 0 6 4-4disc.dat
+1 16 -20 0 0 -6 0 0 0 -1 0 0 0 6 4-4edge.dat
+1 16 20 0 0 -6 0 0 0 -1 0 0 0 6 4-4edge.dat

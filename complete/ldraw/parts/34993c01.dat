@@ -1,0 +1,16 @@
+0 Container 44 x 32 x 12 Box Bygglek
+0 Name: 34993c01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Shortcut 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Ikea
+
+
+1 16 0 -120 -300 1 0 0 0 1 0 0 0 1 35010.dat
+1 16 0 -120 300 1 0 0 0 1 0 0 0 -1 35010.dat
+1 16 420 -120 0 0 0 -1 0 1 0 -1 0 0 35007.dat
+1 16 -420 -120 0 0 0 1 0 1 0 -1 0 0 35007.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 34993.dat

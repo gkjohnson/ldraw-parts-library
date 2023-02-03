@@ -1,0 +1,16 @@
+0 ~Minifig Half-Giant HP Hagrid Neck
+0 Name: s\41383s03.dat
+0 Author: Howard Lande [HowardLande]
+0 !LDRAW_ORG Unofficial_Subpart 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 48\4-4edge.dat
+1 16 0 -12 0 6 0 0 0 1 0 0 0 6 48\4-4edge.dat
+1 16 0 -12 0 6 0 0 0 1 0 0 0 6 48\4-4disc.dat
+1 16 0 -20 0 1 0 0 0 1 0 0 0 1 s\41383s04.dat
+1 16 0 -20 0 0 0 -1 0 1 0 1 0 0 s\41383s04.dat
+1 16 0 -20 0 -1 0 0 0 1 0 0 0 -1 s\41383s04.dat
+1 16 0 -20 0 0 0 1 0 1 0 -1 0 0 s\41383s04.dat

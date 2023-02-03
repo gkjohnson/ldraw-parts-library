@@ -1,0 +1,20 @@
+0 ~Minifig Head with Exaggerated Chimpanzee Features - Face without Printed Areas
+0 Name: s\38458s03.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Subpart 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\38458s04.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\38458s04.dat
+
+0 BFC INVERTNEXT
+1 16 0 -16 0 3.44415 0 -8.31492 0 16 0 8.31492 0 3.44415 1-8cylo.dat
+0 BFC INVERTNEXT
+1 16 0 -16 0 -3.44415 0 8.31492 0 16 0 -8.31492 0 -3.44415 1-8cylo.dat
+1 16 0 0 0 -3.44415 0 8.31492 0 -1 0 -8.31492 0 -3.44415 1-8tang.dat
+1 16 0 0 0 3.44415 0 -8.31492 0 -1 0 8.31492 0 3.44415 1-8tang.dat
+1 16 0 0 0 -11.5 0 0 0 1 0 0 0 -11.5 4-4edge.dat
+1 16 0 -16 0 9 0 0 0 -1 0 0 0 9 4-4disc.dat

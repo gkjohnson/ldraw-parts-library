@@ -1,0 +1,21 @@
+0 ~Technic Disc  3 x  3 with Axlehole with 4 Black Sections on One Side and 8 on Reverse Pattern - 1/16 White
+0 Name: s\2723p05s03.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Unofficial_Subpart 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+
+0 // Inner Ring
+4 16 0 0 10 1.305 0 9.914 0.914 0 6.94 0 0 7
+4 16 1.305 0 9.914 2.558 0 9.659 1.812 0 6.761 0.914 0 6.94
+4 16 2.558 0 9.659 3.827 0 9.239 2.679 0 6.467 1.812 0 6.761
+0 // Middle Ring
+4 15 0 0 28 3.655 0 27.76 1.305 0 9.914 0 0 10
+4 15 3.655 0 27.76 7.247 0 27.046 2.558 0 9.659 1.305 0 9.914
+4 15 7.247 0 27.046 10.715 0 25.869 3.827 0 9.239 2.558 0 9.659
+0 // Outer Ring
+4 16 0 0 30 3.916 0 29.743 3.655 0 27.76 0 0 28
+4 16 3.916 0 29.743 7.765 0 28.978 7.247 0 27.046 3.655 0 27.76
+4 16 7.765 0 28.978 11.481 0 27.716 10.715 0 25.869 07.247 0 27.046

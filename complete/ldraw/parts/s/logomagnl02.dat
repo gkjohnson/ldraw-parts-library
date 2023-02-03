@@ -1,0 +1,15 @@
+0 ~Logo Magneti Marelli White Text and Ellipse, Blue Ring and Outer Box
+0 Name: s\logomagnl02.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Subpart 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP Exact dimensions X = 15.22; Z = 7.725
+
+0 BFC CERTIFY CCW
+
+
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\logomagnt01.dat
+1 1 0 0 0 1 0 0 0 1 0 0 0 1 s\logomagnb01.dat
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\logomagnb03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\logomagnb04.dat

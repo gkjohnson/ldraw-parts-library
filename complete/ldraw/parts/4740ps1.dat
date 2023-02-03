@@ -1,0 +1,31 @@
+0 Dish  2 x  2 Inverted with Octagonal Cockpit Pattern
+0 Name: 4740ps1.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 4740pb005, Star Wars, Space, TIE, Set 75146, Set 30276
+0 !KEYWORDS Set 75106, Set 75008, Set 9676, Set 911722, Set 911613
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4740s01.dat
+0 BFC NOCLIP
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4740ps1s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\4740ps1s01.dat
+1 16 0 0 0 0.70711 0 0.70711 0 1 0 -0.70711 0 0.70711 s\4740ps1s01.dat
+1 16 0 0 0 -0.70711 0 0.70711 0 1 0 0.70711 0 0.70711 s\4740ps1s01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\4740ps1s01.dat
+1 16 0 0 0 0 0 1 0 1 0 1 0 0 s\4740ps1s01.dat
+1 16 0 0 0 -0.70711 0 0.70711 0 1 0 -0.70711 0 -0.70711 s\4740ps1s01.dat
+1 16 0 0 0 0.70711 0 0.70711 0 1 0 0.70711 0 -0.70711 s\4740ps1s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\4740ps1s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4740ps1s02.dat
+1 16 0 0 0 -0.70711 0 -0.70711 0 1 0 0.70711 0 -0.70711 s\4740ps1s01.dat
+1 16 0 0 0 0.70711 0 -0.70711 0 1 0 -0.70711 0 -0.70711 s\4740ps1s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\4740ps1s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 -1 0 0 s\4740ps1s01.dat
+1 16 0 0 0 0.70711 0 -0.70711 0 1 0 0.70711 0 0.70711 s\4740ps1s01.dat
+1 16 0 0 0 -0.70711 0 -0.70711 0 1 0 -0.70711 0 0.70711 s\4740ps1s01.dat

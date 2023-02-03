@@ -1,0 +1,17 @@
+0 Brick  2 x  2 Round with Pin Holes with Waffle, Dark Turquoise Lapels, White Shirt and Metallic Gold Tie Pattern
+0 Name: 17485p01.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 17485pb004, Set 70822, Icecream
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\17485s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\17485p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\17485p01s01.dat
+
+5 24 0 0 20 0 24 20 7.654 24 18.477 -7.654 24 18.477
+5 24 0 0 -20 0 24 -20 7.654 24 -18.477 -7.654 24 -18.477

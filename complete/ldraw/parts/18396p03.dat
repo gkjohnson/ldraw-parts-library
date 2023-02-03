@@ -1,0 +1,28 @@
+0 Constraction Flame  3.5 x 12 with Axle with Black Highlight Pattern
+0 Name: 18396p03.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Tribal, Swirl, Bricklink 18396pb03
+
+
+1 148 0 0 0 1 0 0 0 1 0 0 0 1 s\18396s01.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\18396s02.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\18396s03.dat
+
+1 148 0 0 0 -1 0 0 0 1 0 0 0 1 s\18396s01.dat
+1 0 0 0 0 -1 0 0 0 1 0 0 0 1 s\18396s02.dat
+1 0 0 0 0 -1 0 0 0 1 0 0 0 1 s\18396s03.dat
+
+1 148 0 0 0 1 0 0 0 1 0 0 0 1 s\18396s04.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\18396s05.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\18396s06.dat
+
+0 // Front Back Joint
+5 24 0 -22.788 7.86 0 -13.653 9.247 -3.236 -21.897 7.952 3.236 -21.897 7.952
+5 24 0 -13.653 9.247 0 -10 9.25 -4.339 -14.703 8.163 4.317 -10 8.176
+5 24 0 -14.941 -9.014 0 -21.508 -8.041 4.336 -21.568 -7.948 -4.336 -21.568 -7.948
+5 24 0 -10 -9.21 0 -14.941 -9.014 4.72 -14.65 -7.954 -4.72 -14.65 -7.954

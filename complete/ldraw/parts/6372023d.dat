@@ -1,0 +1,13 @@
+0 Sticker  1.9 x  1.8 with Ignition Key, Switches and Ashtray on Bright Light Blue
+0 Name: 6372023d.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS set 77942, FIAT, 500, Nuova, Cinquecento
+
+
+1 16 0 -.25 0 17.5 0 0 0 .25 0 0 0 18.75 box5-12.dat
+1 212 0 0 0 1 0 0 0 1 0 0 0 1 s\6296256ds01.dat

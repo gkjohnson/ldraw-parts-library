@@ -1,0 +1,13 @@
+0 ~Train Track  4.5V Point Type 2 Left Switch Rails (Needs Work)
+0 Name: 950b.dat
+0 Author: Steffen [Steffen]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+
+0 // NEEDS WORK: This file is a mockup only.
+0 // It "fakes" the real part by simply substituting with the ...a variant.
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 950a.dat

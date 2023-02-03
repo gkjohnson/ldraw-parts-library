@@ -1,0 +1,15 @@
+0 Cylinder Half  3 x  6 x  6 Dome Top with  2 Hollow Studs with Cockpit Pattern
+0 Name: 67950p01.dat
+0 Author: Fredrik Hareide [fhareide]
+0 !LDRAW_ORG Unofficial_Part 
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 75292, Star Wars
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\67950s01.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\67950p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\67950p01s01.dat
