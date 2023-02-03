@@ -1,0 +1,1 @@
+Full model files downloaded from the [LDraw Official Model Repository](https://omr.ldraw.org/) and this [EuroBricks forum post](https://www.eurobricks.com/forum/index.php?/forums/topic/48285-key-topic-official-lego-sets-made-in-ldraw/).
